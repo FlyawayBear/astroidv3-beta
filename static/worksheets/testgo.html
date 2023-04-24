@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Page</title>
+	<style>
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.top-bar {
+    position: fixed;
+    top: -50px; /* start with the bar hidden */
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80%;
+    max-width: 600px;
+    height: 40px;
+    background-color: black;
+    color: #fff;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 25px;
+    transition: all 0.3s ease-in-out;
+}
+
+.top-bar:hover {
+    top: 0; /* show the bar when hovering over it */
+    height: 60px;
+}
+
+.logo {
+    float: left;
+    margin-right: 10px;
+    height: 40px;
+    line-height: 40px;
+}
+
+.search-box {
+    float: left;
+    width: calc(100% - 80px);
+    margin-top: 5px;
+}
+
+.search-box input[type="text"] {
+    height: 30px;
+    padding: 0 10px;
+    border: none;
+    border-radius: 15px;
+    background-color: transparent;
+    box-sizing: border-box;
+    transition: all 0.3s ease-in-out;
+    width: 100%;
+    font-size: 16px;
+    color: #fff;
+}
+
+.search-box input[type="text"]::placeholder {
+    color: #fff;
+}
+
+.search-box input[type="text"]:focus {
+    background-color: rgba(255, 255, 255, 0.1);
+    box-shadow: 0 0 5px #fff;
+}
+
+.search-box button {
+    height: 30px;
+    padding: 0 10px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    float: right;
+    margin-top: 5px;
+}
+
+	</style>
+	<script>
+		window.addEventListener('DOMContentLoaded', () => {
+			const topBar = document.querySelector('.top-bar');
+			const pageTop = document.documentElement.scrollTop || document.body.scrollTop;
+			if (pageTop === 0) {
+				topBar.style.top = '-50px'; // start with the bar hidden
+			}
+			let topBarVisible = false;
+			document.addEventListener('mousemove', event => {
+				if (event.clientY <= 50) {
+					if (!topBarVisible) {
+						topBar.style.top = '0'; // show the bar when the cursor is at the top of the page
+						topBarVisible = true;
+					}
+				} else {
+					if (topBarVisible) {
+						topBar.style.top = '-50px'; // hide the bar when the cursor is not at the top of the page
+						topBarVisible = false;
+					}
+				}
+			});
+		});
+	</script>
+</head>
+<body>
+	<div class="top-bar">
+		<div class="logo">
+			<img src="assets/favicon/logo.png" alt="Logo">
+		</div>
+		<div class="search-box">
+			<form onsubmit="search(event)">
+    			<input type="text" id="searchInput" placeholder="Search...">
+    			<button type="submit">Search</button>
+  			</form>
+		</div>
+	</div>
+	<div style="height: 2000px; background-color: #eee;">
+		<!-- rest of the page content goes here -->
+	</div>
+</body>
+</html>
