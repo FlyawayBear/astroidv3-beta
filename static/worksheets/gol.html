@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="assets/go.css">
+    <title>Math Is Fun</title>
+    <iframe src="/worksheets/loading.html" id="iframeid"></iframe>
+    <script>
+      window.onload = function() {
+        let uvURL = sessionStorage.getItem("uvURL");
+        uvURL = "/service/" + uvURL;
+        console.log(uvURL);
+        document.querySelector("#iframeid").src = uvURL;
+      }
+    </script>
+  </body>
+</html>
