@@ -38,7 +38,7 @@ function search(event) {
     console.log("Service worker registration successful");
 
     sessionStorage.setItem("uvURL", __uv$config.encodeUrl(url));
-    location.href = "testgo.html";
+    location.href = "go.html";
     console.log("Redirection to html-loader successful");
   })
   .catch((error) => {
