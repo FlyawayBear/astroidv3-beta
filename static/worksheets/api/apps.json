@@ -88,6 +88,94 @@
     "listed": true
   },
   {
+    "title": "Bing",
+    "description": "2048 but, 1.",
+    "tags": "",
+    "route": "1",
+    "source": "https://bing.com/",
+    "type": "app",
+    "width": "1000px",
+    "height": "625px",
+    "listed": true
+  },
+  {
+    "title": "repl.it",
+    "description": "2048 but, 1.",
+    "tags": "",
+    "route": "1",
+    "source": "https://replit.com",
+    "type": "app",
+    "width": "1000px",
+    "height": "625px",
+    "listed": true
+  },
+  {
+    "title": "Yahoo",
+    "description": "2048 but, 1.",
+    "tags": "",
+    "route": "1",
+    "source": "https://yahoo.com/",
+    "type": "app",
+    "width": "1000px",
+    "height": "625px",
+    "listed": true
+  },
+  {
+    "title": "Googles AI",
+    "description": "2048 but, 1.",
+    "tags": "",
+    "route": "1",
+    "source": "https://bard.google.com/",
+    "type": "app",
+    "width": "1000px",
+    "height": "625px",
+    "listed": true
+  },
+  {
+    "title": "Github",
+    "description": "2048 but, 1.",
+    "tags": "",
+    "route": "1",
+    "source": "https://github.com",
+    "type": "app",
+    "width": "1000px",
+    "height": "625px",
+    "listed": true
+  },
+  {
+    "title": "Astroid V1",
+    "description": "2048 but, 1.",
+    "tags": "",
+    "route": "1",
+    "source": "https://astroid.free-methods.repl.it",
+    "type": "app",
+    "width": "1000px",
+    "height": "625px",
+    "listed": true
+  },
+  {
+    "title": "Astroid Lite",
+    "description": "2048 but, 1.",
+    "tags": "",
+    "route": "1",
+    "source": "https://fractions.mathsisfun.sa.com",
+    "type": "app",
+    "width": "1000px",
+    "height": "625px",
+    "listed": true
+  },
+  {
+    "title": "Astroid V2",
+    "description": "2048 but, 1.",
+    "tags": "",
+    "route": "1",
+    "source": "https://decimals.mathsisfun.pp.ua",
+    "type": "app",
+    "width": "1000px",
+    "height": "625px",
+    "listed": true
+  },
+  {
       "title": "Google",
       "description": "2048 but, 1.",
       "tags": "",
