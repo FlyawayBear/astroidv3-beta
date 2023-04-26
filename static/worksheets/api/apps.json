@@ -54,6 +54,17 @@
     "height": "625px",
     "listed": true
   },
+  {
+    "title": "CoolMathGames",
+    "description": "2048 but, 1.",
+    "tags": "",
+    "route": "1",
+    "source": "https://www.coolmathgames.com/",
+    "type": "app",
+    "width": "1000px",
+    "height": "625px",
+    "listed": true
+  },
   
   {
       "title": "Google",
