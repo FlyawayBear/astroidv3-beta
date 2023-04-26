@@ -33,6 +33,17 @@
     "listed": true
   },
   {
+    "title": "Not knock off geoguessr i swear",
+    "description": "2048 but, 1.",
+    "tags": "",
+    "route": "1",
+    "source": "https://demo.geoguess.games/",
+    "type": "app",
+    "width": "1000px",
+    "height": "625px",
+    "listed": true
+  },
+  {
     "title": "Discord",
     "description": "2048 but, 1.",
     "tags": "",
@@ -65,7 +76,17 @@
     "height": "625px",
     "listed": true
   },
-  
+  {
+    "title": "Geforce Now??",
+    "description": "2048 but, 1.",
+    "tags": "",
+    "route": "1",
+    "source": "https://play.geforcenow.com/",
+    "type": "app",
+    "width": "1000px",
+    "height": "625px",
+    "listed": true
+  },
   {
       "title": "Google",
       "description": "2048 but, 1.",
