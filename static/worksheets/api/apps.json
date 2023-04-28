@@ -11,6 +11,28 @@
       "listed": true
   },
   {
+    "title": "Free Anime (zoro.to)",
+    "description": "2048 but, 1.",
+    "tags": "",
+    "route": "1",
+    "source": "https://zoro.to",
+    "type": "app",
+    "width": "1000px",
+    "height": "625px",
+    "listed": true
+},
+{
+  "title": "More free anime",
+  "description": "2048 but, 1.",
+  "tags": "",
+  "route": "1",
+  "source": "https://9anime.com",
+  "type": "app",
+  "width": "1000px",
+  "height": "625px",
+  "listed": true
+},
+  {
     "title": "Geogussr",
     "description": "2048 but, 1.",
     "tags": "",
@@ -147,7 +169,7 @@
     "description": "2048 but, 1.",
     "tags": "",
     "route": "1",
-    "source": "https://astroid.free-methods.repl.it",
+    "source": "https://astroid.free-methods.repl.co/",
     "type": "app",
     "width": "1000px",
     "height": "625px",
