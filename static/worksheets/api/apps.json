@@ -1,6 +1,6 @@
 [
   {
-      "title": "Roblox / Now.GG",
+      "title": "Roblox / Now.GG (currently down)",
       "description": "2048 but, 1.",
       "tags": "",
       "route": "1",
@@ -60,6 +60,94 @@
     "tags": "",
     "route": "1",
     "source": "https://demo.geoguess.games/",
+    "type": "app",
+    "width": "1000px",
+    "height": "625px",
+    "listed": true
+  },
+  {
+    "title": "Discord",
+    "description": "2048 but, 1.",
+    "tags": "",
+    "route": "1",
+    "source": "https://www.discord.com",
+    "type": "app",
+    "width": "1000px",
+    "height": "625px",
+    "listed": true
+  },
+  {
+    "title": "Twitch",
+    "description": "2048 but, 1.",
+    "tags": "",
+    "route": "1",
+    "source": "https://www.twitch.tv",
+    "type": "app",
+    "width": "1000px",
+    "height": "625px",
+    "listed": true
+  },
+  {
+    "title": "Spotify",
+    "description": "2048 but, 1.",
+    "tags": "",
+    "route": "1",
+    "source": "https://spotify.com",
+    "type": "app",
+    "width": "1000px",
+    "height": "625px",
+    "listed": true
+  },
+  {
+    "title": "SoundCloud",
+    "description": "2048 but, 1.",
+    "tags": "",
+    "route": "1",
+    "source": "https://soundcloud.com",
+    "type": "app",
+    "width": "1000px",
+    "height": "625px",
+    "listed": true
+  },
+  {
+    "title": "Snapchat",
+    "description": "2048 but, 1.",
+    "tags": "",
+    "route": "1",
+    "source": "https://web.snapchat.com",
+    "type": "app",
+    "width": "1000px",
+    "height": "625px",
+    "listed": true
+  },
+  {
+    "title": "Chess.com",
+    "description": "2048 but, 1.",
+    "tags": "",
+    "route": "1",
+    "source": "https://chess.com",
+    "type": "app",
+    "width": "1000px",
+    "height": "625px",
+    "listed": true
+  },
+  {
+    "title": "Whatsapp",
+    "description": "2048 but, 1.",
+    "tags": "",
+    "route": "1",
+    "source": "https://web.whatsapp.com",
+    "type": "app",
+    "width": "1000px",
+    "height": "625px",
+    "listed": true
+  },
+  {
+    "title": "Telegram",
+    "description": "2048 but, 1.",
+    "tags": "",
+    "route": "1",
+    "source": "https://web.telegram.com",
     "type": "app",
     "width": "1000px",
     "height": "625px",
