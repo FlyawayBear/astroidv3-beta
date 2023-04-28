@@ -220,6 +220,50 @@
     "listed": true
   },
   {
+    "title": "Poki",
+    "description": "2048 but, 1.",
+    "tags": "",
+    "route": "1",
+    "source": "https://poki.com",
+    "type": "app",
+    "width": "1000px",
+    "height": "625px",
+    "listed": true
+  },
+  {
+    "title": "ChatGPT",
+    "description": "2048 but, 1.",
+    "tags": "",
+    "route": "1",
+    "source": "https://chatgptproxy.me/",
+    "type": "app",
+    "width": "1000px",
+    "height": "625px",
+    "listed": true
+  },
+  {
+    "title": "Instagram",
+    "description": "2048 but, 1.",
+    "tags": "",
+    "route": "1",
+    "source": "https://instagram.com",
+    "type": "app",
+    "width": "1000px",
+    "height": "625px",
+    "listed": true
+  },
+  {
+    "title": "Facebook",
+    "description": "2048 but, 1.",
+    "tags": "",
+    "route": "1",
+    "source": "https://facebook.com",
+    "type": "app",
+    "width": "1000px",
+    "height": "625px",
+    "listed": true
+  },
+  {
       "title": "Google",
       "description": "2048 but, 1.",
       "tags": "",
