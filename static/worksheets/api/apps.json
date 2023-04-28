@@ -154,6 +154,17 @@
     "listed": true
   },
   {
+    "title": "FlixHQ (Free Movies!)",
+    "description": "2048 but, 1.",
+    "tags": "",
+    "route": "1",
+    "source": "https://flixhq.to",
+    "type": "app",
+    "width": "1000px",
+    "height": "625px",
+    "listed": true
+  },
+  {
     "title": "Discord",
     "description": "2048 but, 1.",
     "tags": "",
