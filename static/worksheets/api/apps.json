@@ -11,6 +11,17 @@
       "listed": true
   },
   {
+    "title": "Bored Button",
+    "description": "2048 but, 1.",
+    "tags": "",
+    "route": "1",
+    "source": "https://www.boredbutton.com",
+    "type": "app",
+    "width": "1000px",
+    "height": "625px",
+    "listed": true
+},
+  {
     "title": "Free Anime (zoro.to)",
     "description": "2048 but, 1.",
     "tags": "",
