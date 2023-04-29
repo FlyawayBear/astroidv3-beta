@@ -11,6 +11,28 @@
       "listed": true
   },
   {
+    "title": "Case Clicker (CS:GO)",
+    "description": "2048 but, 1.",
+    "tags": "",
+    "route": "1",
+    "source": "https://csgo.mtsl.dk/",
+    "type": "html",
+    "width": "1000px",
+    "height": "625px",
+    "listed": true
+  },
+  {
+    "title": "Case Clicker 2 (CS:GO)",
+    "description": "2048 but, 1.",
+    "tags": "",
+    "route": "1",
+    "source": "https://mtsl.dk/csgo/",
+    "type": "html",
+    "width": "1000px",
+    "height": "625px",
+    "listed": true
+  },
+  {
     "title": "10 Minutes Till Dawn",
     "description": "TBD",
     "tags": "",
