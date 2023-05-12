@@ -1,2534 +1,2532 @@
-{
-  "Nintendo Gameboy": [
+[
   {
-    "name": "10-Pin Bowling (Usa)",
-    "rom_url": "/worksheets/main/10-Pin_Bowling_(USA).7z",
-    "core": "gambatte"
+    "title": "10-Pin Bowling (Usa)",
+    "source": "https://files.vyper.group/10-Pin_Bowling_(USA).html",
+    "type": "html"
   },
   {
-    "name": "2097 Rom Pack Ii (Usa) (Test Program)",
-    "rom_url": "/worksheets/main/2097_ROM_Pack_II_(USA)_(Test_Program).7z",
-    "core": "gambatte"
+    "title": "2097 Rom Pack Ii (Usa) (Test Program)",
+    "source": "https://files.vyper.group/2097_ROM_Pack_II_(USA)_(Test_Program).html",
+    "type": "html"
   },
   {
-    "name": "2420 Rom Pack V (Usa) (Test Program)",
-    "rom_url": "/worksheets/main/2420_ROM_Pack_V_(USA)_(Test_Program).7z",
-    "core": "gambatte"
+    "title": "2420 Rom Pack V (Usa) (Test Program)",
+    "source": "https://files.vyper.group/2420_ROM_Pack_V_(USA)_(Test_Program).html",
+    "type": "html"
   },
   {
-    "name": "2440 Rom Pack (Usa) (Test Program)",
-    "rom_url": "/worksheets/main/2440_ROM_Pack_(USA)_(Test_Program).7z",
-    "core": "gambatte"
+    "title": "2440 Rom Pack (Usa) (Test Program)",
+    "source": "https://files.vyper.group/2440_ROM_Pack_(USA)_(Test_Program).html",
+    "type": "html"
   },
   {
-    "name": "4-In-1 Funpak - Volume Ii (Usa Europe)",
-    "rom_url": "/worksheets/main/4-in-1_Funpak_-_Volume_II_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "4-In-1 Funpak - Volume Ii (Usa Europe)",
+    "source": "https://files.vyper.group/4-in-1_Funpak_-_Volume_II_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "4-In-1 Fun Pak (Usa Europe)",
-    "rom_url": "/worksheets/main/4-in-1_Fun_Pak_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "4-In-1 Fun Pak (Usa Europe)",
+    "source": "https://files.vyper.group/4-in-1_Fun_Pak_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "A-Mazing Tater (Usa)",
-    "rom_url": "/worksheets/main/A-mazing_Tater_(USA).7z",
-    "core": "gambatte"
+    "title": "A-Mazing Tater (Usa)",
+    "source": "https://files.vyper.group/A-mazing_Tater_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Addams Family The (Usa)",
-    "rom_url": "/worksheets/main/Addams_Family_The_(USA).7z",
-    "core": "gambatte"
+    "title": "Addams Family The (Usa)",
+    "source": "https://files.vyper.group/Addams_Family_The_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Addams Family The - Pugsleys Scavenger Hunt (Usa Europe)",
-    "rom_url": "/worksheets/main/Addams_Family_The_-_Pugsleys_Scavenger_Hunt_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Addams Family The - Pugsleys Scavenger Hunt (Usa Europe)",
+    "source": "https://files.vyper.group/Addams_Family_The_-_Pugsleys_Scavenger_Hunt_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Adventures Of Rocky And Bullwinkle And Friends The (Usa)",
-    "rom_url": "/worksheets/main/Adventures_of_Rocky_and_Bullwinkle_and_Friends_The_(USA).7z",
-    "core": "gambatte"
+    "title": "Adventures Of Rocky And Bullwinkle And Friends The (Usa)",
+    "source": "https://files.vyper.group/Adventures_of_Rocky_and_Bullwinkle_and_Friends_The_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Adventures Of Star Saver The (Usa Europe)",
-    "rom_url": "/worksheets/main/Adventures_of_Star_Saver_The_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Adventures Of Star Saver The (Usa Europe)",
+    "source": "https://files.vyper.group/Adventures_of_Star_Saver_The_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Adventure Island (Usa Europe)",
-    "rom_url": "/worksheets/main/Adventure_Island_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Adventure Island (Usa Europe)",
+    "source": "https://files.vyper.group/Adventure_Island_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Adventure Island Ii - Aliens In Paradise (Usa Europe)",
-    "rom_url": "/worksheets/main/Adventure_Island_II_-_Aliens_in_Paradise_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Adventure Island Ii - Aliens In Paradise (Usa Europe)",
+    "source": "https://files.vyper.group/Adventure_Island_II_-_Aliens_in_Paradise_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Aerostar (Usa Europe)",
-    "rom_url": "/worksheets/main/Aerostar_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Aerostar (Usa Europe)",
+    "source": "https://files.vyper.group/Aerostar_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Aladdin (Usa) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Aladdin_(USA)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Aladdin (Usa) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Aladdin_(USA)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Alfred Chicken (Usa)",
-    "rom_url": "/worksheets/main/Alfred_Chicken_(USA).7z",
-    "core": "gambatte"
+    "title": "Alfred Chicken (Usa)",
+    "source": "https://files.vyper.group/Alfred_Chicken_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Alien 3 (Usa Europe)",
-    "rom_url": "/worksheets/main/Alien_3_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Alien 3 (Usa Europe)",
+    "source": "https://files.vyper.group/Alien_3_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Alien Vs Predator - The Last Of His Clan (Usa)",
-    "rom_url": "/worksheets/main/Alien_vs_Predator_-_The_Last_of_His_Clan_(USA).7z",
-    "core": "gambatte"
+    "title": "Alien Vs Predator - The Last Of His Clan (Usa)",
+    "source": "https://files.vyper.group/Alien_vs_Predator_-_The_Last_of_His_Clan_(USA).html",
+    "type": "html"
   },
   {
-    "name": "All-Star Baseball 99 (Usa)",
-    "rom_url": "/worksheets/main/All-Star_Baseball_99_(USA).7z",
-    "core": "gambatte"
+    "title": "All-Star Baseball 99 (Usa)",
+    "source": "https://files.vyper.group/All-Star_Baseball_99_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Altered Space - A 3-D Alien Adventure (Usa)",
-    "rom_url": "/worksheets/main/Altered_Space_-_A_3-D_Alien_Adventure_(USA).7z",
-    "core": "gambatte"
+    "title": "Altered Space - A 3-D Alien Adventure (Usa)",
+    "source": "https://files.vyper.group/Altered_Space_-_A_3-D_Alien_Adventure_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Amazing Penguin (Usa Europe)",
-    "rom_url": "/worksheets/main/Amazing_Penguin_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Amazing Penguin (Usa Europe)",
+    "source": "https://files.vyper.group/Amazing_Penguin_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Amazing Spider-Man The (Usa Europe)",
-    "rom_url": "/worksheets/main/Amazing_Spider-Man_The_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Amazing Spider-Man The (Usa Europe)",
+    "source": "https://files.vyper.group/Amazing_Spider-Man_The_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Animaniacs (Usa) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Animaniacs_(USA)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Animaniacs (Usa) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Animaniacs_(USA)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Arcade Classics - Super Breakout & Battlezone (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Arcade_Classics_-_Super_Breakout_&_Battlezone_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Arcade Classics - Super Breakout & Battlezone (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Arcade_Classics_-_Super_Breakout_&_Battlezone_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Arcade Classic No. 1 - Asteroids & Missile Command (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Arcade_Classic_No._1_-_Asteroids_&_Missile_Command_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Arcade Classic No. 1 - Asteroids & Missile Command (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Arcade_Classic_No._1_-_Asteroids_&_Missile_Command_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Arcade Classic No. 2 - Centipede & Millipede (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Arcade_Classic_No._2_-_Centipede_&_Millipede_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Arcade Classic No. 2 - Centipede & Millipede (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Arcade_Classic_No._2_-_Centipede_&_Millipede_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Arcade Classic No. 3 - Galaga & Galaxian (Usa) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Arcade_Classic_No._3_-_Galaga_&_Galaxian_(USA)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Arcade Classic No. 3 - Galaga & Galaxian (Usa) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Arcade_Classic_No._3_-_Galaga_&_Galaxian_(USA)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Arcade Classic No. 4 - Defender & Joust (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Arcade_Classic_No._4_-_Defender_&_Joust_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Arcade Classic No. 4 - Defender & Joust (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Arcade_Classic_No._4_-_Defender_&_Joust_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Asteroids (Usa Europe)",
-    "rom_url": "/worksheets/main/Asteroids_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Asteroids (Usa Europe)",
+    "source": "https://files.vyper.group/Asteroids_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Atomic Punk (Usa)",
-    "rom_url": "/worksheets/main/Atomic_Punk_(USA).7z",
-    "core": "gambatte"
+    "title": "Atomic Punk (Usa)",
+    "source": "https://files.vyper.group/Atomic_Punk_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Attack Of The Killer Tomatoes (Usa Europe)",
-    "rom_url": "/worksheets/main/Attack_of_the_Killer_Tomatoes_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Attack Of The Killer Tomatoes (Usa Europe)",
+    "source": "https://files.vyper.group/Attack_of_the_Killer_Tomatoes_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Avenging Spirit (Usa Europe)",
-    "rom_url": "/worksheets/main/Avenging_Spirit_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Avenging Spirit (Usa Europe)",
+    "source": "https://files.vyper.group/Avenging_Spirit_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Balloon Kid (Usa Europe)",
-    "rom_url": "/worksheets/main/Balloon_Kid_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Balloon Kid (Usa Europe)",
+    "source": "https://files.vyper.group/Balloon_Kid_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Barbie - Game Girl (Usa Europe)",
-    "rom_url": "/worksheets/main/Barbie_-_Game_Girl_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Barbie - Game Girl (Usa Europe)",
+    "source": "https://files.vyper.group/Barbie_-_Game_Girl_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Bart Simpsons Escape From Camp Deadly (Usa Europe)",
-    "rom_url": "/worksheets/main/Bart_Simpsons_Escape_from_Camp_Deadly_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Bart Simpsons Escape From Camp Deadly (Usa Europe)",
+    "source": "https://files.vyper.group/Bart_Simpsons_Escape_from_Camp_Deadly_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Bases Loaded (Usa)",
-    "rom_url": "/worksheets/main/Bases_Loaded_(USA).7z",
-    "core": "gambatte"
+    "title": "Bases Loaded (Usa)",
+    "source": "https://files.vyper.group/Bases_Loaded_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Batman - Return Of The Joker (Usa Europe)",
-    "rom_url": "/worksheets/main/Batman_-_Return_of_the_Joker_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Batman - Return Of The Joker (Usa Europe)",
+    "source": "https://files.vyper.group/Batman_-_Return_of_the_Joker_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Batman - The Animated Series (Usa Europe)",
-    "rom_url": "/worksheets/main/Batman_-_The_Animated_Series_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Batman - The Animated Series (Usa Europe)",
+    "source": "https://files.vyper.group/Batman_-_The_Animated_Series_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Battleship (Usa Europe)",
-    "rom_url": "/worksheets/main/Battleship_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Battleship (Usa Europe)",
+    "source": "https://files.vyper.group/Battleship_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Battletoads-Double Dragon (Usa)",
-    "rom_url": "/worksheets/main/Battletoads-Double_Dragon_(USA).7z",
-    "core": "gambatte"
+    "title": "Battletoads-Double Dragon (Usa)",
+    "source": "https://files.vyper.group/Battletoads-Double_Dragon_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Battletoads (Usa Europe)",
-    "rom_url": "/worksheets/main/Battletoads_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Battletoads (Usa Europe)",
+    "source": "https://files.vyper.group/Battletoads_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Battletoads In Ragnaroks World (Usa)",
-    "rom_url": "/worksheets/main/Battletoads_in_Ragnaroks_World_(USA).7z",
-    "core": "gambatte"
+    "title": "Battletoads In Ragnaroks World (Usa)",
+    "source": "https://files.vyper.group/Battletoads_in_Ragnaroks_World_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Battle Arena Toshinden (Usa) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Battle_Arena_Toshinden_(USA)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Battle Arena Toshinden (Usa) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Battle_Arena_Toshinden_(USA)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Battle Bull (Usa)",
-    "rom_url": "/worksheets/main/Battle_Bull_(USA).7z",
-    "core": "gambatte"
+    "title": "Battle Bull (Usa)",
+    "source": "https://files.vyper.group/Battle_Bull_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Battle Unit Zeoth (Usa Europe)",
-    "rom_url": "/worksheets/main/Battle_Unit_Zeoth_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Battle Unit Zeoth (Usa Europe)",
+    "source": "https://files.vyper.group/Battle_Unit_Zeoth_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Beavis And Butt-Head (Usa Europe)",
-    "rom_url": "/worksheets/main/Beavis_and_Butt-head_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Beavis And Butt-Head (Usa Europe)",
+    "source": "https://files.vyper.group/Beavis_and_Butt-head_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Beetlejuice (Usa)",
-    "rom_url": "/worksheets/main/Beetlejuice_(USA).7z",
-    "core": "gambatte"
+    "title": "Beetlejuice (Usa)",
+    "source": "https://files.vyper.group/Beetlejuice_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Best Of The Best - Championship Karate (Usa)",
-    "rom_url": "/worksheets/main/Best_of_the_Best_-_Championship_Karate_(USA).7z",
-    "core": "gambatte"
+    "title": "Best Of The Best - Championship Karate (Usa)",
+    "source": "https://files.vyper.group/Best_of_the_Best_-_Championship_Karate_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Bill & Teds Excellent Game Boy Adventure - A Bogus Journey! (Usa Europe)",
-    "rom_url": "/worksheets/main/Bill_&_Teds_Excellent_Game_Boy_Adventure_-_A_Bogus_Journey!_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Bill & Teds Excellent Game Boy Adventure - A Bogus Journey! (Usa Europe)",
+    "source": "https://files.vyper.group/Bill_&_Teds_Excellent_Game_Boy_Adventure_-_A_Bogus_Journey!_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Bill Elliotts Nascar Fast Tracks (Usa)",
-    "rom_url": "/worksheets/main/Bill_Elliotts_NASCAR_Fast_Tracks_(USA).7z",
-    "core": "gambatte"
+    "title": "Bill Elliotts Nascar Fast Tracks (Usa)",
+    "source": "https://files.vyper.group/Bill_Elliotts_NASCAR_Fast_Tracks_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Bionic Battler (Usa)",
-    "rom_url": "/worksheets/main/Bionic_Battler_(USA).7z",
-    "core": "gambatte"
+    "title": "Bionic Battler (Usa)",
+    "source": "https://files.vyper.group/Bionic_Battler_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Bionic Commando (Usa)",
-    "rom_url": "/worksheets/main/Bionic_Commando_(USA).7z",
-    "core": "gambatte"
+    "title": "Bionic Commando (Usa)",
+    "source": "https://files.vyper.group/Bionic_Commando_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Black Bass - Lure Fishing (Usa)",
-    "rom_url": "/worksheets/main/Black_Bass_-_Lure_Fishing_(USA).7z",
-    "core": "gambatte"
+    "title": "Black Bass - Lure Fishing (Usa)",
+    "source": "https://files.vyper.group/Black_Bass_-_Lure_Fishing_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Blades Of Steel (Usa)",
-    "rom_url": "/worksheets/main/Blades_of_Steel_(USA).7z",
-    "core": "gambatte"
+    "title": "Blades Of Steel (Usa)",
+    "source": "https://files.vyper.group/Blades_of_Steel_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Blaster Master Boy (Usa)",
-    "rom_url": "/worksheets/main/Blaster_Master_Boy_(USA).7z",
-    "core": "gambatte"
+    "title": "Blaster Master Boy (Usa)",
+    "source": "https://files.vyper.group/Blaster_Master_Boy_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Blues Brothers The (Usa Europe)",
-    "rom_url": "/worksheets/main/Blues_Brothers_The_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Blues Brothers The (Usa Europe)",
+    "source": "https://files.vyper.group/Blues_Brothers_The_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Boggle Plus (Usa)",
-    "rom_url": "/worksheets/main/Boggle_Plus_(USA).7z",
-    "core": "gambatte"
+    "title": "Boggle Plus (Usa)",
+    "source": "https://files.vyper.group/Boggle_Plus_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Bomberman Gb (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Bomberman_GB_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Bomberman Gb (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Bomberman_GB_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Bonks Adventure (Usa)",
-    "rom_url": "/worksheets/main/Bonks_Adventure_(USA).7z",
-    "core": "gambatte"
+    "title": "Bonks Adventure (Usa)",
+    "source": "https://files.vyper.group/Bonks_Adventure_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Boomers Adventure In Asmik World (Usa)",
-    "rom_url": "/worksheets/main/Boomers_Adventure_in_ASMIK_World_(USA).7z",
-    "core": "gambatte"
+    "title": "Boomers Adventure In Asmik World (Usa)",
+    "source": "https://files.vyper.group/Boomers_Adventure_in_ASMIK_World_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Boxxle (Usa)",
-    "rom_url": "/worksheets/main/Boxxle_(USA).7z",
-    "core": "gambatte"
+    "title": "Boxxle (Usa)",
+    "source": "https://files.vyper.group/Boxxle_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Boxxle Ii (Usa Europe)",
-    "rom_url": "/worksheets/main/Boxxle_II_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Boxxle Ii (Usa Europe)",
+    "source": "https://files.vyper.group/Boxxle_II_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Bo Jackson - Two Games In One (Usa)",
-    "rom_url": "/worksheets/main/Bo_Jackson_-_Two_Games_in_One_(USA).7z",
-    "core": "gambatte"
+    "title": "Bo Jackson - Two Games In One (Usa)",
+    "source": "https://files.vyper.group/Bo_Jackson_-_Two_Games_in_One_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Brain Bender (Usa)",
-    "rom_url": "/worksheets/main/Brain_Bender_(USA).7z",
-    "core": "gambatte"
+    "title": "Brain Bender (Usa)",
+    "source": "https://files.vyper.group/Brain_Bender_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Brain Drain (Usa) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Brain_Drain_(USA)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Brain Drain (Usa) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Brain_Drain_(USA)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Bram Stokers Dracula (Usa Europe)",
-    "rom_url": "/worksheets/main/Bram_Stokers_Dracula_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Bram Stokers Dracula (Usa Europe)",
+    "source": "https://files.vyper.group/Bram_Stokers_Dracula_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Breakthru! (Usa)",
-    "rom_url": "/worksheets/main/BreakThru!_(USA).7z",
-    "core": "gambatte"
+    "title": "Breakthru! (Usa)",
+    "source": "https://files.vyper.group/BreakThru!_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Bubble Bobble (Usa Europe)",
-    "rom_url": "/worksheets/main/Bubble_Bobble_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Bubble Bobble (Usa Europe)",
+    "source": "https://files.vyper.group/Bubble_Bobble_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Bubble Bobble Part 2 (Usa Europe)",
-    "rom_url": "/worksheets/main/Bubble_Bobble_Part_2_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Bubble Bobble Part 2 (Usa Europe)",
+    "source": "https://files.vyper.group/Bubble_Bobble_Part_2_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Bubble Ghost (Usa Europe)",
-    "rom_url": "/worksheets/main/Bubble_Ghost_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Bubble Ghost (Usa Europe)",
+    "source": "https://files.vyper.group/Bubble_Ghost_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Bubsy Ii (Usa)",
-    "rom_url": "/worksheets/main/Bubsy_II_(USA).7z",
-    "core": "gambatte"
+    "title": "Bubsy Ii (Usa)",
+    "source": "https://files.vyper.group/Bubsy_II_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Bugs Bunny Crazy Castle 2 The (Usa)",
-    "rom_url": "/worksheets/main/Bugs_Bunny_Crazy_Castle_2_The_(USA).7z",
-    "core": "gambatte"
+    "title": "Bugs Bunny Crazy Castle 2 The (Usa)",
+    "source": "https://files.vyper.group/Bugs_Bunny_Crazy_Castle_2_The_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Bugs Bunny Crazy Castle The (Usa Europe)",
-    "rom_url": "/worksheets/main/Bugs_Bunny_Crazy_Castle_The_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Bugs Bunny Crazy Castle The (Usa Europe)",
+    "source": "https://files.vyper.group/Bugs_Bunny_Crazy_Castle_The_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Burai Fighter Deluxe (Usa Europe)",
-    "rom_url": "/worksheets/main/Burai_Fighter_Deluxe_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Burai Fighter Deluxe (Usa Europe)",
+    "source": "https://files.vyper.group/Burai_Fighter_Deluxe_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Bust-A-Move 2 - Arcade Edition (Usa Europe)",
-    "rom_url": "/worksheets/main/Bust-A-Move_2_-_Arcade_Edition_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Bust-A-Move 2 - Arcade Edition (Usa Europe)",
+    "source": "https://files.vyper.group/Bust-A-Move_2_-_Arcade_Edition_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Buster Bros. (Usa)",
-    "rom_url": "/worksheets/main/Buster_Bros._(USA).7z",
-    "core": "gambatte"
+    "title": "Buster Bros. (Usa)",
+    "source": "https://files.vyper.group/Buster_Bros._(USA).html",
+    "type": "html"
   },
   {
-    "name": "Caesars Palace (Usa)",
-    "rom_url": "/worksheets/main/Caesars_Palace_(USA).7z",
-    "core": "gambatte"
+    "title": "Caesars Palace (Usa)",
+    "source": "https://files.vyper.group/Caesars_Palace_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Captain America And The Avengers (Usa)",
-    "rom_url": "/worksheets/main/Captain_America_and_the_Avengers_(USA).7z",
-    "core": "gambatte"
+    "title": "Captain America And The Avengers (Usa)",
+    "source": "https://files.vyper.group/Captain_America_and_the_Avengers_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Casino Funpak (Usa Europe)",
-    "rom_url": "/worksheets/main/Casino_FunPak_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Casino Funpak (Usa Europe)",
+    "source": "https://files.vyper.group/Casino_FunPak_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Casper (Usa)",
-    "rom_url": "/worksheets/main/Casper_(USA).7z",
-    "core": "gambatte"
+    "title": "Casper (Usa)",
+    "source": "https://files.vyper.group/Casper_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Castelian (Usa)",
-    "rom_url": "/worksheets/main/Castelian_(USA).7z",
-    "core": "gambatte"
+    "title": "Castelian (Usa)",
+    "source": "https://files.vyper.group/Castelian_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Castlevania - The Adventure (Usa)",
-    "rom_url": "/worksheets/main/Castlevania_-_The_Adventure_(USA).7z",
-    "core": "gambatte"
+    "title": "Castlevania - The Adventure (Usa)",
+    "source": "https://files.vyper.group/Castlevania_-_The_Adventure_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Castlevania - The Adventure (Usa) (Castlevania Anniversary Collection)",
-    "rom_url": "/worksheets/main/Castlevania_-_The_Adventure_(USA)_(Castlevania_Anniversary_Collection).7z",
-    "core": "gambatte"
+    "title": "Castlevania - The Adventure (Usa) (Castlevania Anniversary Collection)",
+    "source": "https://files.vyper.group/Castlevania_-_The_Adventure_(USA)_(Castlevania_Anniversary_Collection).html",
+    "type": "html"
   },
   {
-    "name": "Castlevania Legends (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Castlevania_Legends_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Castlevania Legends (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Castlevania_Legends_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Catrap (Usa)",
-    "rom_url": "/worksheets/main/Catrap_(USA).7z",
-    "core": "gambatte"
+    "title": "Catrap (Usa)",
+    "source": "https://files.vyper.group/Catrap_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Centipede (Usa) (Majesco)",
-    "rom_url": "/worksheets/main/Centipede_(USA)_(Majesco).7z",
-    "core": "gambatte"
+    "title": "Centipede (Usa) (Majesco)",
+    "source": "https://files.vyper.group/Centipede_(USA)_(Majesco).html",
+    "type": "html"
   },
   {
-    "name": "Centipede (Usa Europe) (Accolade)",
-    "rom_url": "/worksheets/main/Centipede_(USA_Europe)_(Accolade).7z",
-    "core": "gambatte"
+    "title": "Centipede (Usa Europe) (Accolade)",
+    "source": "https://files.vyper.group/Centipede_(USA_Europe)_(Accolade).html",
+    "type": "html"
   },
   {
-    "name": "Championship Pool (Usa)",
-    "rom_url": "/worksheets/main/Championship_Pool_(USA).7z",
-    "core": "gambatte"
+    "title": "Championship Pool (Usa)",
+    "source": "https://files.vyper.group/Championship_Pool_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Chase H.Q. (Usa Europe)",
-    "rom_url": "/worksheets/main/Chase_H.Q._(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Chase H.Q. (Usa Europe)",
+    "source": "https://files.vyper.group/Chase_H.Q._(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Chessmaster The (Usa Europe)",
-    "rom_url": "/worksheets/main/Chessmaster_The_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Chessmaster The (Usa Europe)",
+    "source": "https://files.vyper.group/Chessmaster_The_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Choplifter Ii - Rescue & Survive (Usa)",
-    "rom_url": "/worksheets/main/Choplifter_II_-_Rescue_&_Survive_(USA).7z",
-    "core": "gambatte"
+    "title": "Choplifter Ii - Rescue & Survive (Usa)",
+    "source": "https://files.vyper.group/Choplifter_II_-_Rescue_&_Survive_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Chuck Rock (Usa Europe)",
-    "rom_url": "/worksheets/main/Chuck_Rock_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Chuck Rock (Usa Europe)",
+    "source": "https://files.vyper.group/Chuck_Rock_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Cliffhanger (Usa Europe)",
-    "rom_url": "/worksheets/main/Cliffhanger_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Cliffhanger (Usa Europe)",
+    "source": "https://files.vyper.group/Cliffhanger_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "College Slam (Usa)",
-    "rom_url": "/worksheets/main/College_Slam_(USA).7z",
-    "core": "gambatte"
+    "title": "College Slam (Usa)",
+    "source": "https://files.vyper.group/College_Slam_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Contra - The Alien Wars (Usa) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Contra_-_The_Alien_Wars_(USA)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Contra - The Alien Wars (Usa) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Contra_-_The_Alien_Wars_(USA)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Cool Ball (Usa)",
-    "rom_url": "/worksheets/main/Cool_Ball_(USA).7z",
-    "core": "gambatte"
+    "title": "Cool Ball (Usa)",
+    "source": "https://files.vyper.group/Cool_Ball_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Cool Spot (Usa)",
-    "rom_url": "/worksheets/main/Cool_Spot_(USA).7z",
-    "core": "gambatte"
+    "title": "Cool Spot (Usa)",
+    "source": "https://files.vyper.group/Cool_Spot_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Cool World (Usa Europe)",
-    "rom_url": "/worksheets/main/Cool_World_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Cool World (Usa Europe)",
+    "source": "https://files.vyper.group/Cool_World_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Cosmo Tank (Usa)",
-    "rom_url": "/worksheets/main/Cosmo_Tank_(USA).7z",
-    "core": "gambatte"
+    "title": "Cosmo Tank (Usa)",
+    "source": "https://files.vyper.group/Cosmo_Tank_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Crystal Quest (Usa)",
-    "rom_url": "/worksheets/main/Crystal_Quest_(USA).7z",
-    "core": "gambatte"
+    "title": "Crystal Quest (Usa)",
+    "source": "https://files.vyper.group/Crystal_Quest_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Cutthroat Island (Usa Europe)",
-    "rom_url": "/worksheets/main/CutThroat_Island_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Cutthroat Island (Usa Europe)",
+    "source": "https://files.vyper.group/CutThroat_Island_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Cyraid (Usa)",
-    "rom_url": "/worksheets/main/Cyraid_(USA).7z",
-    "core": "gambatte"
+    "title": "Cyraid (Usa)",
+    "source": "https://files.vyper.group/Cyraid_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Daedalian Opus (Usa)",
-    "rom_url": "/worksheets/main/Daedalian_Opus_(USA).7z",
-    "core": "gambatte"
+    "title": "Daedalian Opus (Usa)",
+    "source": "https://files.vyper.group/Daedalian_Opus_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Daffy Duck (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Daffy_Duck_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Daffy Duck (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Daffy_Duck_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Darkman (Usa Europe)",
-    "rom_url": "/worksheets/main/Darkman_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Darkman (Usa Europe)",
+    "source": "https://files.vyper.group/Darkman_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Darkwing Duck (Usa)",
-    "rom_url": "/worksheets/main/Darkwing_Duck_(USA).7z",
-    "core": "gambatte"
+    "title": "Darkwing Duck (Usa)",
+    "source": "https://files.vyper.group/Darkwing_Duck_(USA).html",
+    "type": "html"
   },
   {
-    "name": "David Cranes The Rescue Of Princess Blobette (Usa)",
-    "rom_url": "/worksheets/main/David_Cranes_The_Rescue_of_Princess_Blobette_(USA).7z",
-    "core": "gambatte"
+    "title": "David Cranes The Rescue Of Princess Blobette (Usa)",
+    "source": "https://files.vyper.group/David_Cranes_The_Rescue_of_Princess_Blobette_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Days Of Thunder (Usa Europe)",
-    "rom_url": "/worksheets/main/Days_of_Thunder_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Days Of Thunder (Usa Europe)",
+    "source": "https://files.vyper.group/Days_of_Thunder_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Dead Heat Scramble (Usa)",
-    "rom_url": "/worksheets/main/Dead_Heat_Scramble_(USA).7z",
-    "core": "gambatte"
+    "title": "Dead Heat Scramble (Usa)",
+    "source": "https://files.vyper.group/Dead_Heat_Scramble_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Dennis The Menace (Usa)",
-    "rom_url": "/worksheets/main/Dennis_the_Menace_(USA).7z",
-    "core": "gambatte"
+    "title": "Dennis The Menace (Usa)",
+    "source": "https://files.vyper.group/Dennis_the_Menace_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Desert Strike - Return To The Gulf (Usa) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Desert_Strike_-_Return_to_the_Gulf_(USA)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Desert Strike - Return To The Gulf (Usa) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Desert_Strike_-_Return_to_the_Gulf_(USA)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Dexterity (Usa Europe)",
-    "rom_url": "/worksheets/main/Dexterity_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Dexterity (Usa Europe)",
+    "source": "https://files.vyper.group/Dexterity_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Dick Tracy (Usa)",
-    "rom_url": "/worksheets/main/Dick_Tracy_(USA).7z",
-    "core": "gambatte"
+    "title": "Dick Tracy (Usa)",
+    "source": "https://files.vyper.group/Dick_Tracy_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Dig Dug (Usa)",
-    "rom_url": "/worksheets/main/Dig_Dug_(USA).7z",
-    "core": "gambatte"
+    "title": "Dig Dug (Usa)",
+    "source": "https://files.vyper.group/Dig_Dug_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Donkey Kong (Japan Usa) (En) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Donkey_Kong_(Japan_USA)_(En)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Donkey Kong (Japan Usa) (En) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Donkey_Kong_(Japan_USA)_(En)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Donkey Kong Land (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Donkey_Kong_Land_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Donkey Kong Land (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Donkey_Kong_Land_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Donkey Kong Land 2 (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Donkey_Kong_Land_2_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Donkey Kong Land 2 (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Donkey_Kong_Land_2_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Donkey Kong Land Iii (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Donkey_Kong_Land_III_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Donkey Kong Land Iii (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Donkey_Kong_Land_III_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Double Dragon (Usa Europe)",
-    "rom_url": "/worksheets/main/Double_Dragon_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Double Dragon (Usa Europe)",
+    "source": "https://files.vyper.group/Double_Dragon_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Double Dragon 3 - The Arcade Game (Usa Europe)",
-    "rom_url": "/worksheets/main/Double_Dragon_3_-_The_Arcade_Game_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Double Dragon 3 - The Arcade Game (Usa Europe)",
+    "source": "https://files.vyper.group/Double_Dragon_3_-_The_Arcade_Game_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Double Dragon Ii (Usa Europe)",
-    "rom_url": "/worksheets/main/Double_Dragon_II_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Double Dragon Ii (Usa Europe)",
+    "source": "https://files.vyper.group/Double_Dragon_II_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Double Dribble - 5 On 5 (Usa)",
-    "rom_url": "/worksheets/main/Double_Dribble_-_5_on_5_(USA).7z",
-    "core": "gambatte"
+    "title": "Double Dribble - 5 On 5 (Usa)",
+    "source": "https://files.vyper.group/Double_Dribble_-_5_on_5_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Dr. Franken (Usa)",
-    "rom_url": "/worksheets/main/Dr._Franken_(USA).7z",
-    "core": "gambatte"
+    "title": "Dr. Franken (Usa)",
+    "source": "https://files.vyper.group/Dr._Franken_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Dr. Franken Ii (Usa Europe) (Enfrdeesitnlsv)",
-    "rom_url": "/worksheets/main/Dr._Franken_II_(USA_Europe)_(EnFrDeEsItNlSv).7z",
-    "core": "gambatte"
+    "title": "Dr. Franken Ii (Usa Europe) (Enfrdeesitnlsv)",
+    "source": "https://files.vyper.group/Dr._Franken_II_(USA_Europe)_(EnFrDeEsItNlSv).html",
+    "type": "html"
   },
   {
-    "name": "Dragonheart (Usa Europe)",
-    "rom_url": "/worksheets/main/DragonHeart_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Dragonheart (Usa Europe)",
+    "source": "https://files.vyper.group/DragonHeart_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Dragons Lair - The Legend (Usa)",
-    "rom_url": "/worksheets/main/Dragons_Lair_-_The_Legend_(USA).7z",
-    "core": "gambatte"
+    "title": "Dragons Lair - The Legend (Usa)",
+    "source": "https://files.vyper.group/Dragons_Lair_-_The_Legend_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Dragon Ball Z 3 (Usa) (Sgb Enhanced) (Unl)",
-    "rom_url": "/worksheets/main/Dragon_Ball_Z_3_(USA)_(SGB_Enhanced)_(Unl).7z",
-    "core": "gambatte"
+    "title": "Dragon Ball Z 3 (Usa) (Sgb Enhanced) (Unl)",
+    "source": "https://files.vyper.group/Dragon_Ball_Z_3_(USA)_(SGB_Enhanced)_(Unl).html",
+    "type": "html"
   },
   {
-    "name": "Ducktales (Usa)",
-    "rom_url": "/worksheets/main/DuckTales_(USA).7z",
-    "core": "gambatte"
+    "title": "Ducktales (Usa)",
+    "source": "https://files.vyper.group/DuckTales_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Ducktales 2 (Usa)",
-    "rom_url": "/worksheets/main/DuckTales_2_(USA).7z",
-    "core": "gambatte"
+    "title": "Ducktales 2 (Usa)",
+    "source": "https://files.vyper.group/DuckTales_2_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Earthworm Jim (Usa)",
-    "rom_url": "/worksheets/main/Earthworm_Jim_(USA).7z",
-    "core": "gambatte"
+    "title": "Earthworm Jim (Usa)",
+    "source": "https://files.vyper.group/Earthworm_Jim_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Elevator Action (Usa Europe)",
-    "rom_url": "/worksheets/main/Elevator_Action_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Elevator Action (Usa Europe)",
+    "source": "https://files.vyper.group/Elevator_Action_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Elite Soccer (Usa) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Elite_Soccer_(USA)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Elite Soccer (Usa) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Elite_Soccer_(USA)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Exodus - Journey To The Promised Land (Usa) (Unl)",
-    "rom_url": "/worksheets/main/Exodus_-_Journey_to_the_Promised_Land_(USA)_(Unl).7z",
-    "core": "gambatte"
+    "title": "Exodus - Journey To The Promised Land (Usa) (Unl)",
+    "source": "https://files.vyper.group/Exodus_-_Journey_to_the_Promised_Land_(USA)_(Unl).html",
+    "type": "html"
   },
   {
-    "name": "Extra Bases (Usa)",
-    "rom_url": "/worksheets/main/Extra_Bases_(USA).7z",
-    "core": "gambatte"
+    "title": "Extra Bases (Usa)",
+    "source": "https://files.vyper.group/Extra_Bases_(USA).html",
+    "type": "html"
   },
   {
-    "name": "F-15 Strike Eagle (Usa Europe)",
-    "rom_url": "/worksheets/main/F-15_Strike_Eagle_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "F-15 Strike Eagle (Usa Europe)",
+    "source": "https://files.vyper.group/F-15_Strike_Eagle_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "F1 Pole Position (Usa Europe)",
-    "rom_url": "/worksheets/main/F1_Pole_Position_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "F1 Pole Position (Usa Europe)",
+    "source": "https://files.vyper.group/F1_Pole_Position_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Faceball 2000 (Usa)",
-    "rom_url": "/worksheets/main/Faceball_2000_(USA).7z",
-    "core": "gambatte"
+    "title": "Faceball 2000 (Usa)",
+    "source": "https://files.vyper.group/Faceball_2000_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Fastest Lap (Usa)",
-    "rom_url": "/worksheets/main/Fastest_Lap_(USA).7z",
-    "core": "gambatte"
+    "title": "Fastest Lap (Usa)",
+    "source": "https://files.vyper.group/Fastest_Lap_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Felix The Cat (Usa Europe)",
-    "rom_url": "/worksheets/main/Felix_the_Cat_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Felix The Cat (Usa Europe)",
+    "source": "https://files.vyper.group/Felix_the_Cat_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Ferrari Grand Prix Challenge (Usa Europe)",
-    "rom_url": "/worksheets/main/Ferrari_Grand_Prix_Challenge_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Ferrari Grand Prix Challenge (Usa Europe)",
+    "source": "https://files.vyper.group/Ferrari_Grand_Prix_Challenge_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Fidgetts The (Usa Europe) (Enfrdeesitnlsv)",
-    "rom_url": "/worksheets/main/Fidgetts_The_(USA_Europe)_(EnFrDeEsItNlSv).7z",
-    "core": "gambatte"
+    "title": "Fidgetts The (Usa Europe) (Enfrdeesitnlsv)",
+    "source": "https://files.vyper.group/Fidgetts_The_(USA_Europe)_(EnFrDeEsItNlSv).html",
+    "type": "html"
   },
   {
-    "name": "Fifa International Soccer (Usa Europe) (Enfrdees) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/FIFA_International_Soccer_(USA_Europe)_(EnFrDeEs)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Fifa International Soccer (Usa Europe) (Enfrdees) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/FIFA_International_Soccer_(USA_Europe)_(EnFrDeEs)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Fifa Soccer 96 (Usa Europe) (Enfrdees) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/FIFA_Soccer_96_(USA_Europe)_(EnFrDeEs)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Fifa Soccer 96 (Usa Europe) (Enfrdees) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/FIFA_Soccer_96_(USA_Europe)_(EnFrDeEs)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Fifa Soccer 97 (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/FIFA_Soccer_97_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Fifa Soccer 97 (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/FIFA_Soccer_97_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Fighting Simulator 2 In 1 - Flying Warriors (Usa Europe)",
-    "rom_url": "/worksheets/main/Fighting_Simulator_2_in_1_-_Flying_Warriors_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Fighting Simulator 2 In 1 - Flying Warriors (Usa Europe)",
+    "source": "https://files.vyper.group/Fighting_Simulator_2_in_1_-_Flying_Warriors_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Final Fantasy Adventure (Usa)",
-    "rom_url": "/worksheets/main/Final_Fantasy_Adventure_(USA).7z",
-    "core": "gambatte"
+    "title": "Final Fantasy Adventure (Usa)",
+    "source": "https://files.vyper.group/Final_Fantasy_Adventure_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Final Fantasy Legend Iii (Usa)",
-    "rom_url": "/worksheets/main/Final_Fantasy_Legend_III_(USA).7z",
-    "core": "gambatte"
+    "title": "Final Fantasy Legend Iii (Usa)",
+    "source": "https://files.vyper.group/Final_Fantasy_Legend_III_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Final Fantasy Legend Ii (Usa)",
-    "rom_url": "/worksheets/main/Final_Fantasy_Legend_II_(USA).7z",
-    "core": "gambatte"
+    "title": "Final Fantasy Legend Ii (Usa)",
+    "source": "https://files.vyper.group/Final_Fantasy_Legend_II_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Final Fantasy Legend The (Usa)",
-    "rom_url": "/worksheets/main/Final_Fantasy_Legend_The_(USA).7z",
-    "core": "gambatte"
+    "title": "Final Fantasy Legend The (Usa)",
+    "source": "https://files.vyper.group/Final_Fantasy_Legend_The_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Fish Dude (Usa)",
-    "rom_url": "/worksheets/main/Fish_Dude_(USA).7z",
-    "core": "gambatte"
+    "title": "Fish Dude (Usa)",
+    "source": "https://files.vyper.group/Fish_Dude_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Fist Of The North Star (Usa)",
-    "rom_url": "/worksheets/main/Fist_of_the_North_Star_(USA).7z",
-    "core": "gambatte"
+    "title": "Fist Of The North Star (Usa)",
+    "source": "https://files.vyper.group/Fist_of_the_North_Star_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Flash The (Usa Europe)",
-    "rom_url": "/worksheets/main/Flash_The_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Flash The (Usa Europe)",
+    "source": "https://files.vyper.group/Flash_The_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Flintstones The (Usa Europe)",
-    "rom_url": "/worksheets/main/Flintstones_The_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Flintstones The (Usa Europe)",
+    "source": "https://files.vyper.group/Flintstones_The_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Flintstones The - King Rock Treasure Island (Usa Europe)",
-    "rom_url": "/worksheets/main/Flintstones_The_-_King_Rock_Treasure_Island_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Flintstones The - King Rock Treasure Island (Usa Europe)",
+    "source": "https://files.vyper.group/Flintstones_The_-_King_Rock_Treasure_Island_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Flipull (Usa)",
-    "rom_url": "/worksheets/main/Flipull_(USA).7z",
-    "core": "gambatte"
+    "title": "Flipull (Usa)",
+    "source": "https://files.vyper.group/Flipull_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Foreman For Real (Usa Europe)",
-    "rom_url": "/worksheets/main/Foreman_for_Real_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Foreman For Real (Usa Europe)",
+    "source": "https://files.vyper.group/Foreman_for_Real_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Fortified Zone (Usa Europe)",
-    "rom_url": "/worksheets/main/Fortified_Zone_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Fortified Zone (Usa Europe)",
+    "source": "https://files.vyper.group/Fortified_Zone_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Frank Thomas Big Hurt Baseball (Usa Europe)",
-    "rom_url": "/worksheets/main/Frank_Thomas_Big_Hurt_Baseball_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Frank Thomas Big Hurt Baseball (Usa Europe)",
+    "source": "https://files.vyper.group/Frank_Thomas_Big_Hurt_Baseball_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Frogger (Usa)",
-    "rom_url": "/worksheets/main/Frogger_(USA).7z",
-    "core": "gambatte"
+    "title": "Frogger (Usa)",
+    "source": "https://files.vyper.group/Frogger_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Gameshark (Usa) (Unl)",
-    "rom_url": "/worksheets/main/GameShark_(USA)_(Unl).7z",
-    "core": "gambatte"
+    "title": "Gameshark (Usa) (Unl)",
+    "source": "https://files.vyper.group/GameShark_(USA)_(Unl).html",
+    "type": "html"
   },
   {
-    "name": "Game & Watch Gallery (Usa) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Game_&_Watch_Gallery_(USA)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Game & Watch Gallery (Usa) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Game_&_Watch_Gallery_(USA)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Game Boy Camera (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Game_Boy_Camera_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Game Boy Camera (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Game_Boy_Camera_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Game Boy Camera Gold (Usa) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Game_Boy_Camera_Gold_(USA)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Game Boy Camera Gold (Usa) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Game_Boy_Camera_Gold_(USA)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Game Genie (Usa) (V2.1) (Unl)",
-    "rom_url": "/worksheets/main/Game_Genie_(USA)_(v2.1)_(Unl).7z",
-    "core": "gambatte"
+    "title": "Game Genie (Usa) (V2.1) (Unl)",
+    "source": "https://files.vyper.group/Game_Genie_(USA)_(v2.1)_(Unl).html",
+    "type": "html"
   },
   {
-    "name": "Game Of Harmony The (Usa)",
-    "rom_url": "/worksheets/main/Game_of_Harmony_The_(USA).7z",
-    "core": "gambatte"
+    "title": "Game Of Harmony The (Usa)",
+    "source": "https://files.vyper.group/Game_of_Harmony_The_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Gargoyles Quest (Usa Europe)",
-    "rom_url": "/worksheets/main/Gargoyles_Quest_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Gargoyles Quest (Usa Europe)",
+    "source": "https://files.vyper.group/Gargoyles_Quest_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Gauntlet Ii (Usa Europe)",
-    "rom_url": "/worksheets/main/Gauntlet_II_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Gauntlet Ii (Usa Europe)",
+    "source": "https://files.vyper.group/Gauntlet_II_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Gear Works (Usa Europe)",
-    "rom_url": "/worksheets/main/Gear_Works_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Gear Works (Usa Europe)",
+    "source": "https://files.vyper.group/Gear_Works_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "George Foremans Ko Boxing (Usa Europe)",
-    "rom_url": "/worksheets/main/George_Foremans_KO_Boxing_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "George Foremans Ko Boxing (Usa Europe)",
+    "source": "https://files.vyper.group/George_Foremans_KO_Boxing_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Getaway The - High Speed Ii (Usa)",
-    "rom_url": "/worksheets/main/Getaway_The_-_High_Speed_II_(USA).7z",
-    "core": "gambatte"
+    "title": "Getaway The - High Speed Ii (Usa)",
+    "source": "https://files.vyper.group/Getaway_The_-_High_Speed_II_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Ghostbusters Ii (Usa Europe)",
-    "rom_url": "/worksheets/main/Ghostbusters_II_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Ghostbusters Ii (Usa Europe)",
+    "source": "https://files.vyper.group/Ghostbusters_II_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Go! Go! Tank (Usa)",
-    "rom_url": "/worksheets/main/Go!_Go!_Tank_(USA).7z",
-    "core": "gambatte"
+    "title": "Go! Go! Tank (Usa)",
+    "source": "https://files.vyper.group/Go!_Go!_Tank_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Goal! (Usa)",
-    "rom_url": "/worksheets/main/Goal!_(USA).7z",
-    "core": "gambatte"
+    "title": "Goal! (Usa)",
+    "source": "https://files.vyper.group/Goal!_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Godzilla (Usa Europe)",
-    "rom_url": "/worksheets/main/Godzilla_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Godzilla (Usa Europe)",
+    "source": "https://files.vyper.group/Godzilla_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Gradius - The Interstellar Assault (Usa)",
-    "rom_url": "/worksheets/main/Gradius_-_The_Interstellar_Assault_(USA).7z",
-    "core": "gambatte"
+    "title": "Gradius - The Interstellar Assault (Usa)",
+    "source": "https://files.vyper.group/Gradius_-_The_Interstellar_Assault_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Grander Musashi Rv (Japan) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Grander_Musashi_RV_(Japan)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Grander Musashi Rv (Japan) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Grander_Musashi_RV_(Japan)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Great Greed (Usa)",
-    "rom_url": "/worksheets/main/Great_Greed_(USA).7z",
-    "core": "gambatte"
+    "title": "Great Greed (Usa)",
+    "source": "https://files.vyper.group/Great_Greed_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Gunship (Usa) (Aftermarket) (Homebrew)",
-    "rom_url": "/worksheets/main/Gunship_(USA)_(Aftermarket)_(Homebrew).7z",
-    "core": "gambatte"
+    "title": "Gunship (Usa) (Aftermarket) (Homebrew)",
+    "source": "https://files.vyper.group/Gunship_(USA)_(Aftermarket)_(Homebrew).html",
+    "type": "html"
   },
   {
-    "name": "Hal Wrestling (Usa)",
-    "rom_url": "/worksheets/main/HAL_Wrestling_(USA).7z",
-    "core": "gambatte"
+    "title": "Hal Wrestling (Usa)",
+    "source": "https://files.vyper.group/HAL_Wrestling_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Harvest Moon Gb (Usa) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Harvest_Moon_GB_(USA)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Harvest Moon Gb (Usa) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Harvest_Moon_GB_(USA)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Hatris (Japan Usa) (En)",
-    "rom_url": "/worksheets/main/Hatris_(Japan_USA)_(En).7z",
-    "core": "gambatte"
+    "title": "Hatris (Japan Usa) (En)",
+    "source": "https://files.vyper.group/Hatris_(Japan_USA)_(En).html",
+    "type": "html"
   },
   {
-    "name": "Heavyweight Championship Boxing (Usa)",
-    "rom_url": "/worksheets/main/Heavyweight_Championship_Boxing_(USA).7z",
-    "core": "gambatte"
+    "title": "Heavyweight Championship Boxing (Usa)",
+    "source": "https://files.vyper.group/Heavyweight_Championship_Boxing_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Heiankyo Alien (Usa)",
-    "rom_url": "/worksheets/main/Heiankyo_Alien_(USA).7z",
-    "core": "gambatte"
+    "title": "Heiankyo Alien (Usa)",
+    "source": "https://files.vyper.group/Heiankyo_Alien_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Hercules (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Hercules_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Hercules (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Hercules_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "High Stakes Gambling (Usa)",
-    "rom_url": "/worksheets/main/High_Stakes_Gambling_(USA).7z",
-    "core": "gambatte"
+    "title": "High Stakes Gambling (Usa)",
+    "source": "https://files.vyper.group/High_Stakes_Gambling_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Hit The Ice - Vhl - The Official Video Hockey League (Usa Europe)",
-    "rom_url": "/worksheets/main/Hit_the_Ice_-_VHL_-_The_Official_Video_Hockey_League_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Hit The Ice - Vhl - The Official Video Hockey League (Usa Europe)",
+    "source": "https://files.vyper.group/Hit_the_Ice_-_VHL_-_The_Official_Video_Hockey_League_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Home Alone (Usa Europe)",
-    "rom_url": "/worksheets/main/Home_Alone_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Home Alone (Usa Europe)",
+    "source": "https://files.vyper.group/Home_Alone_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Home Alone 2 - Lost In New York (Usa Europe)",
-    "rom_url": "/worksheets/main/Home_Alone_2_-_Lost_in_New_York_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Home Alone 2 - Lost In New York (Usa Europe)",
+    "source": "https://files.vyper.group/Home_Alone_2_-_Lost_in_New_York_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Hook (Usa)",
-    "rom_url": "/worksheets/main/Hook_(USA).7z",
-    "core": "gambatte"
+    "title": "Hook (Usa)",
+    "source": "https://files.vyper.group/Hook_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Hudson Hawk (Usa)",
-    "rom_url": "/worksheets/main/Hudson_Hawk_(USA).7z",
-    "core": "gambatte"
+    "title": "Hudson Hawk (Usa)",
+    "source": "https://files.vyper.group/Hudson_Hawk_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Humans The (Usa)",
-    "rom_url": "/worksheets/main/Humans_The_(USA).7z",
-    "core": "gambatte"
+    "title": "Humans The (Usa)",
+    "source": "https://files.vyper.group/Humans_The_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Hunchback Of Notre Dame The - 5 Foolishly Fun Topsy Turvy Games (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Hunchback_of_Notre_Dame_The_-_5_Foolishly_Fun_Topsy_Turvy_Games_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Hunchback Of Notre Dame The - 5 Foolishly Fun Topsy Turvy Games (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Hunchback_of_Notre_Dame_The_-_5_Foolishly_Fun_Topsy_Turvy_Games_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Hunt For Red October The (Usa Europe)",
-    "rom_url": "/worksheets/main/Hunt_for_Red_October_The_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Hunt For Red October The (Usa Europe)",
+    "source": "https://files.vyper.group/Hunt_for_Red_October_The_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Ikari No Yousai (Japan)",
-    "rom_url": "/worksheets/main/Ikari_no_Yousai_(Japan).7z",
-    "core": "gambatte"
+    "title": "Ikari No Yousai (Japan)",
+    "source": "https://files.vyper.group/Ikari_no_Yousai_(Japan).html",
+    "type": "html"
   },
   {
-    "name": "Ikari No Yousai 2 (Japan)",
-    "rom_url": "/worksheets/main/Ikari_no_Yousai_2_(Japan).7z",
-    "core": "gambatte"
+    "title": "Ikari No Yousai 2 (Japan)",
+    "source": "https://files.vyper.group/Ikari_no_Yousai_2_(Japan).html",
+    "type": "html"
   },
   {
-    "name": "Incredible Crash Dummies The (Usa Europe)",
-    "rom_url": "/worksheets/main/Incredible_Crash_Dummies_The_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Incredible Crash Dummies The (Usa Europe)",
+    "source": "https://files.vyper.group/Incredible_Crash_Dummies_The_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Indiana Jones And The Last Crusade (Usa Europe)",
-    "rom_url": "/worksheets/main/Indiana_Jones_and_the_Last_Crusade_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Indiana Jones And The Last Crusade (Usa Europe)",
+    "source": "https://files.vyper.group/Indiana_Jones_and_the_Last_Crusade_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Infogenius Productivity Pak - Berlitz French Translator (Usa Europe)",
-    "rom_url": "/worksheets/main/InfoGenius_Productivity_Pak_-_Berlitz_French_Translator_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Infogenius Productivity Pak - Berlitz French Translator (Usa Europe)",
+    "source": "https://files.vyper.group/InfoGenius_Productivity_Pak_-_Berlitz_French_Translator_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Infogenius Productivity Pak - Berlitz Spanish Translator (Usa Europe)",
-    "rom_url": "/worksheets/main/InfoGenius_Productivity_Pak_-_Berlitz_Spanish_Translator_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Infogenius Productivity Pak - Berlitz Spanish Translator (Usa Europe)",
+    "source": "https://files.vyper.group/InfoGenius_Productivity_Pak_-_Berlitz_Spanish_Translator_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Infogenius Productivity Pak - Frommers Travel Guide (Usa)",
-    "rom_url": "/worksheets/main/InfoGenius_Productivity_Pak_-_Frommers_Travel_Guide_(USA).7z",
-    "core": "gambatte"
+    "title": "Infogenius Productivity Pak - Frommers Travel Guide (Usa)",
+    "source": "https://files.vyper.group/InfoGenius_Productivity_Pak_-_Frommers_Travel_Guide_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Infogenius Productivity Pak - Personal Organizer And Phone Book (Usa)",
-    "rom_url": "/worksheets/main/InfoGenius_Productivity_Pak_-_Personal_Organizer_and_Phone_Book_(USA).7z",
-    "core": "gambatte"
+    "title": "Infogenius Productivity Pak - Personal Organizer And Phone Book (Usa)",
+    "source": "https://files.vyper.group/InfoGenius_Productivity_Pak_-_Personal_Organizer_and_Phone_Book_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Infogenius Productivity Pak - Spell Checker And Calculator (Usa)",
-    "rom_url": "/worksheets/main/InfoGenius_Productivity_Pak_-_Spell_Checker_and_Calculator_(USA).7z",
-    "core": "gambatte"
+    "title": "Infogenius Productivity Pak - Spell Checker And Calculator (Usa)",
+    "source": "https://files.vyper.group/InfoGenius_Productivity_Pak_-_Spell_Checker_and_Calculator_(USA).html",
+    "type": "html"
   },
   {
-    "name": "International Superstar Soccer (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/International_Superstar_Soccer_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "International Superstar Soccer (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/International_Superstar_Soccer_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "In Your Face (Usa)",
-    "rom_url": "/worksheets/main/In_Your_Face_(USA).7z",
-    "core": "gambatte"
+    "title": "In Your Face (Usa)",
+    "source": "https://files.vyper.group/In_Your_Face_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Iron Man X-O Manowar In Heavy Metal (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Iron_Man_X-O_Manowar_in_Heavy_Metal_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Iron Man X-O Manowar In Heavy Metal (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Iron_Man_X-O_Manowar_in_Heavy_Metal_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Ishido - The Way Of Stones (Usa)",
-    "rom_url": "/worksheets/main/Ishido_-_The_Way_of_Stones_(USA).7z",
-    "core": "gambatte"
+    "title": "Ishido - The Way Of Stones (Usa)",
+    "source": "https://files.vyper.group/Ishido_-_The_Way_of_Stones_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Jack Nicklaus Golf (Usa Europe)",
-    "rom_url": "/worksheets/main/Jack_Nicklaus_Golf_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Jack Nicklaus Golf (Usa Europe)",
+    "source": "https://files.vyper.group/Jack_Nicklaus_Golf_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "James Bond 007 (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/James_Bond_007_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "James Bond 007 (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/James_Bond_007_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Jeep Jamboree - Off-Road Adventure (Usa)",
-    "rom_url": "/worksheets/main/Jeep_Jamboree_-_Off-Road_Adventure_(USA).7z",
-    "core": "gambatte"
+    "title": "Jeep Jamboree - Off-Road Adventure (Usa)",
+    "source": "https://files.vyper.group/Jeep_Jamboree_-_Off-Road_Adventure_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Jeopardy! (Usa)",
-    "rom_url": "/worksheets/main/Jeopardy!_(USA).7z",
-    "core": "gambatte"
+    "title": "Jeopardy! (Usa)",
+    "source": "https://files.vyper.group/Jeopardy!_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Jeopardy! - Platinum Edition (Usa) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Jeopardy!_-_Platinum_Edition_(USA)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Jeopardy! - Platinum Edition (Usa) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Jeopardy!_-_Platinum_Edition_(USA)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Jeopardy! - Sports Edition (Usa)",
-    "rom_url": "/worksheets/main/Jeopardy!_-_Sports_Edition_(USA).7z",
-    "core": "gambatte"
+    "title": "Jeopardy! - Sports Edition (Usa)",
+    "source": "https://files.vyper.group/Jeopardy!_-_Sports_Edition_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Jeopardy! - Teen Tournament (Usa) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Jeopardy!_-_Teen_Tournament_(USA)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Jeopardy! - Teen Tourtitlent (Usa) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Jeopardy!_-_Teen_Tourtitlent_(USA)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Jetsons The - Robot Panic (Usa Europe)",
-    "rom_url": "/worksheets/main/Jetsons_The_-_Robot_Panic_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Jetsons The - Robot Panic (Usa Europe)",
+    "source": "https://files.vyper.group/Jetsons_The_-_Robot_Panic_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Jimmy Connors Tennis (Usa Europe)",
-    "rom_url": "/worksheets/main/Jimmy_Connors_Tennis_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Jimmy Connors Tennis (Usa Europe)",
+    "source": "https://files.vyper.group/Jimmy_Connors_Tennis_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Joe & Mac (Usa)",
-    "rom_url": "/worksheets/main/Joe_&_Mac_(USA).7z",
-    "core": "gambatte"
+    "title": "Joe & Mac (Usa)",
+    "source": "https://files.vyper.group/Joe_&_Mac_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Jordan Vs Bird - One On One (Usa Europe)",
-    "rom_url": "/worksheets/main/Jordan_vs_Bird_-_One_on_One_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Jordan Vs Bird - One On One (Usa Europe)",
+    "source": "https://files.vyper.group/Jordan_vs_Bird_-_One_on_One_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Joshua & The Battle Of Jericho (Usa) (Unl)",
-    "rom_url": "/worksheets/main/Joshua_&_the_Battle_of_Jericho_(USA)_(Unl).7z",
-    "core": "gambatte"
+    "title": "Joshua & The Battle Of Jericho (Usa) (Unl)",
+    "source": "https://files.vyper.group/Joshua_&_the_Battle_of_Jericho_(USA)_(Unl).html",
+    "type": "html"
   },
   {
-    "name": "Judge Dredd (Usa Europe)",
-    "rom_url": "/worksheets/main/Judge_Dredd_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Judge Dredd (Usa Europe)",
+    "source": "https://files.vyper.group/Judge_Dredd_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Jungle Book The (Usa Europe)",
-    "rom_url": "/worksheets/main/Jungle_Book_The_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Jungle Book The (Usa Europe)",
+    "source": "https://files.vyper.group/Jungle_Book_The_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Jungle Strike (Usa)",
-    "rom_url": "/worksheets/main/Jungle_Strike_(USA).7z",
-    "core": "gambatte"
+    "title": "Jungle Strike (Usa)",
+    "source": "https://files.vyper.group/Jungle_Strike_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Jurassic Park (Usa)",
-    "rom_url": "/worksheets/main/Jurassic_Park_(USA).7z",
-    "core": "gambatte"
+    "title": "Jurassic Park (Usa)",
+    "source": "https://files.vyper.group/Jurassic_Park_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Jurassic Park Part 2 - The Chaos Continues (Usa Europe) (Enfrdeit)",
-    "rom_url": "/worksheets/main/Jurassic_Park_Part_2_-_The_Chaos_Continues_(USA_Europe)_(EnFrDeIt).7z",
-    "core": "gambatte"
+    "title": "Jurassic Park Part 2 - The Chaos Continues (Usa Europe) (Enfrdeit)",
+    "source": "https://files.vyper.group/Jurassic_Park_Part_2_-_The_Chaos_Continues_(USA_Europe)_(EnFrDeIt).html",
+    "type": "html"
   },
   {
-    "name": "Karakuri Kengou Den Musashi Lord (Japan)",
-    "rom_url": "/worksheets/main/Karakuri_Kengou_Den_Musashi_Lord_(Japan).7z",
-    "core": "gambatte"
+    "title": "Karakuri Kengou Den Musashi Lord (Japan)",
+    "source": "https://files.vyper.group/Karakuri_Kengou_Den_Musashi_Lord_(Japan).html",
+    "type": "html"
   },
   {
-    "name": "Ken Griffey Jr. Presents Major League Baseball (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Ken_Griffey_Jr._Presents_Major_League_Baseball_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Ken Griffey Jr. Presents Major League Baseball (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Ken_Griffey_Jr._Presents_Major_League_Baseball_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Kid Dracula (Usa Europe)",
-    "rom_url": "/worksheets/main/Kid_Dracula_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Kid Dracula (Usa Europe)",
+    "source": "https://files.vyper.group/Kid_Dracula_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Kid Icarus - Of Myths And Monsters (Usa Europe)",
-    "rom_url": "/worksheets/main/Kid_Icarus_-_Of_Myths_and_Monsters_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Kid Icarus - Of Myths And Monsters (Usa Europe)",
+    "source": "https://files.vyper.group/Kid_Icarus_-_Of_Myths_and_Monsters_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Killer Instinct (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Killer_Instinct_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Killer Instinct (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Killer_Instinct_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Kingdom Crusade (Usa)",
-    "rom_url": "/worksheets/main/Kingdom_Crusade_(USA).7z",
-    "core": "gambatte"
+    "title": "Kingdom Crusade (Usa)",
+    "source": "https://files.vyper.group/Kingdom_Crusade_(USA).html",
+    "type": "html"
   },
   {
-    "name": "King James Bible (Usa) (Unl)",
-    "rom_url": "/worksheets/main/King_James_Bible_(USA)_(Unl).7z",
-    "core": "gambatte"
+    "title": "King James Bible (Usa) (Unl)",
+    "source": "https://files.vyper.group/King_James_Bible_(USA)_(Unl).html",
+    "type": "html"
   },
   {
-    "name": "King Of Fighters 95 The (Usa) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/King_of_Fighters_95_The_(USA)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "King Of Fighters 95 The (Usa) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/King_of_Fighters_95_The_(USA)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Kirbys Block Ball (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Kirbys_Block_Ball_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Kirbys Block Ball (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Kirbys_Block_Ball_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Kirbys Dream Land (Usa Europe)",
-    "rom_url": "/worksheets/main/Kirbys_Dream_Land_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Kirbys Dream Land (Usa Europe)",
+    "source": "https://files.vyper.group/Kirbys_Dream_Land_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Kirbys Dream Land 2 (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Kirbys_Dream_Land_2_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Kirbys Dream Land 2 (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Kirbys_Dream_Land_2_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Kirbys Pinball Land (Usa Europe)",
-    "rom_url": "/worksheets/main/Kirbys_Pinball_Land_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Kirbys Pinball Land (Usa Europe)",
+    "source": "https://files.vyper.group/Kirbys_Pinball_Land_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Kirbys Star Stacker (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Kirbys_Star_Stacker_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Kirbys Star Stacker (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Kirbys_Star_Stacker_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Klax (Usa) (Mindscape)",
-    "rom_url": "/worksheets/main/Klax_(USA)_(Mindscape).7z",
-    "core": "gambatte"
+    "title": "Klax (Usa) (Mindscape)",
+    "source": "https://files.vyper.group/Klax_(USA)_(Mindscape).html",
+    "type": "html"
   },
   {
-    "name": "Knight Quest (Usa)",
-    "rom_url": "/worksheets/main/Knight_Quest_(USA).7z",
-    "core": "gambatte"
+    "title": "Knight Quest (Usa)",
+    "source": "https://files.vyper.group/Knight_Quest_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Krustys Fun House (Usa Europe)",
-    "rom_url": "/worksheets/main/Krustys_Fun_House_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Krustys Fun House (Usa Europe)",
+    "source": "https://files.vyper.group/Krustys_Fun_House_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Kung-Fu Master (Usa Europe)",
-    "rom_url": "/worksheets/main/Kung-Fu_Master_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Kung-Fu Master (Usa Europe)",
+    "source": "https://files.vyper.group/Kung-Fu_Master_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Kwirk - Hes A-Maze-Ing! (Usa Europe)",
-    "rom_url": "/worksheets/main/Kwirk_-_Hes_A-maze-ing!_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Kwirk - Hes A-Maze-Ing! (Usa Europe)",
+    "source": "https://files.vyper.group/Kwirk_-_Hes_A-maze-ing!_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Lamborghini American Challenge (Usa Europe)",
-    "rom_url": "/worksheets/main/Lamborghini_American_Challenge_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Lamborghini American Challenge (Usa Europe)",
+    "source": "https://files.vyper.group/Lamborghini_American_Challenge_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Last Action Hero (Usa Europe)",
-    "rom_url": "/worksheets/main/Last_Action_Hero_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Last Action Hero (Usa Europe)",
+    "source": "https://files.vyper.group/Last_Action_Hero_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Lazlos Leap (Usa)",
-    "rom_url": "/worksheets/main/Lazlos_Leap_(USA).7z",
-    "core": "gambatte"
+    "title": "Lazlos Leap (Usa)",
+    "source": "https://files.vyper.group/Lazlos_Leap_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Legend Of The River King Gb (Usa) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Legend_of_the_River_King_GB_(USA)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Legend Of The River King Gb (Usa) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Legend_of_the_River_King_GB_(USA)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Legend Of Zelda The - Links Awakening (Usa Europe)",
-    "rom_url": "/worksheets/main/Legend_of_Zelda_The_-_Links_Awakening_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Legend Of Zelda The - Links Awakening (Usa Europe)",
+    "source": "https://files.vyper.group/Legend_of_Zelda_The_-_Links_Awakening_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Lemmings (Usa)",
-    "rom_url": "/worksheets/main/Lemmings_(USA).7z",
-    "core": "gambatte"
+    "title": "Lemmings (Usa)",
+    "source": "https://files.vyper.group/Lemmings_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Lethal Weapon (Usa Europe)",
-    "rom_url": "/worksheets/main/Lethal_Weapon_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Lethal Weapon (Usa Europe)",
+    "source": "https://files.vyper.group/Lethal_Weapon_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Lion King The (Usa)",
-    "rom_url": "/worksheets/main/Lion_King_The_(USA).7z",
-    "core": "gambatte"
+    "title": "Lion King The (Usa)",
+    "source": "https://files.vyper.group/Lion_King_The_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Little Mermaid The (Usa)",
-    "rom_url": "/worksheets/main/Little_Mermaid_The_(USA).7z",
-    "core": "gambatte"
+    "title": "Little Mermaid The (Usa)",
+    "source": "https://files.vyper.group/Little_Mermaid_The_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Looney Tunes (Usa Europe)",
-    "rom_url": "/worksheets/main/Looney_Tunes_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Looney Tunes (Usa Europe)",
+    "source": "https://files.vyper.group/Looney_Tunes_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Looney Tunes 2 - Tasmanian Devil In Island Chase (Usa Europe)",
-    "rom_url": "/worksheets/main/Looney_Tunes_2_-_Tasmanian_Devil_in_Island_Chase_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Looney Tunes 2 - Tasmanian Devil In Island Chase (Usa Europe)",
+    "source": "https://files.vyper.group/Looney_Tunes_2_-_Tasmanian_Devil_in_Island_Chase_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Lost World The - Jurassic Park (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Lost_World_The_-_Jurassic_Park_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Lost World The - Jurassic Park (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Lost_World_The_-_Jurassic_Park_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Madden 95 (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Madden_95_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Madden 95 (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Madden_95_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Madden 96 (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Madden_96_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Madden 96 (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Madden_96_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Madden 97 (Usa) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Madden_97_(USA)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Madden 97 (Usa) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Madden_97_(USA)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Malibu Beach Volleyball (Usa)",
-    "rom_url": "/worksheets/main/Malibu_Beach_Volleyball_(USA).7z",
-    "core": "gambatte"
+    "title": "Malibu Beach Volleyball (Usa)",
+    "source": "https://files.vyper.group/Malibu_Beach_Volleyball_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Marble Madness (Usa Europe)",
-    "rom_url": "/worksheets/main/Marble_Madness_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Marble Madness (Usa Europe)",
+    "source": "https://files.vyper.group/Marble_Madness_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Marios Picross (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Marios_Picross_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Marios Picross (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Marios_Picross_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Marus Mission (Usa)",
-    "rom_url": "/worksheets/main/Marus_Mission_(USA).7z",
-    "core": "gambatte"
+    "title": "Marus Mission (Usa)",
+    "source": "https://files.vyper.group/Marus_Mission_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Maui Mallard In Cold Shadow (Usa)",
-    "rom_url": "/worksheets/main/Maui_Mallard_in_Cold_Shadow_(USA).7z",
-    "core": "gambatte"
+    "title": "Maui Mallard In Cold Shadow (Usa)",
+    "source": "https://files.vyper.group/Maui_Mallard_in_Cold_Shadow_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Megalit (Usa Europe)",
-    "rom_url": "/worksheets/main/Megalit_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Megalit (Usa Europe)",
+    "source": "https://files.vyper.group/Megalit_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Mega Man Iii (Usa)",
-    "rom_url": "/worksheets/main/Mega_Man_III_(USA).7z",
-    "core": "gambatte"
+    "title": "Mega Man Iii (Usa)",
+    "source": "https://files.vyper.group/Mega_Man_III_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Mega Man Iii (Usa) (Sample)",
-    "rom_url": "/worksheets/main/Mega_Man_III_(USA)_(Sample).7z",
-    "core": "gambatte"
+    "title": "Mega Man Iii (Usa) (Sample)",
+    "source": "https://files.vyper.group/Mega_Man_III_(USA)_(Sample).html",
+    "type": "html"
   },
   {
-    "name": "Mega Man Ii (Usa)",
-    "rom_url": "/worksheets/main/Mega_Man_II_(USA).7z",
-    "core": "gambatte"
+    "title": "Mega Man Ii (Usa)",
+    "source": "https://files.vyper.group/Mega_Man_II_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Mega Man Iv (Usa)",
-    "rom_url": "/worksheets/main/Mega_Man_IV_(USA).7z",
-    "core": "gambatte"
+    "title": "Mega Man Iv (Usa)",
+    "source": "https://files.vyper.group/Mega_Man_IV_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Mega Man V (Usa) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Mega_Man_V_(USA)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Mega Man V (Usa) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Mega_Man_V_(USA)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Mercenary Force (Usa Europe)",
-    "rom_url": "/worksheets/main/Mercenary_Force_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Mercenary Force (Usa Europe)",
+    "source": "https://files.vyper.group/Mercenary_Force_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Metal Masters (Usa)",
-    "rom_url": "/worksheets/main/Metal_Masters_(USA).7z",
-    "core": "gambatte"
+    "title": "Metal Masters (Usa)",
+    "source": "https://files.vyper.group/Metal_Masters_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Mickeys Dangerous Chase (Usa)",
-    "rom_url": "/worksheets/main/Mickeys_Dangerous_Chase_(USA).7z",
-    "core": "gambatte"
+    "title": "Mickeys Dangerous Chase (Usa)",
+    "source": "https://files.vyper.group/Mickeys_Dangerous_Chase_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Mickeys Ultimate Challenge (Usa Europe)",
-    "rom_url": "/worksheets/main/Mickeys_Ultimate_Challenge_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Mickeys Ultimate Challenge (Usa Europe)",
+    "source": "https://files.vyper.group/Mickeys_Ultimate_Challenge_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Mickey Mouse - Magic Wands! (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Mickey_Mouse_-_Magic_Wands!_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Mickey Mouse - Magic Wands! (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Mickey_Mouse_-_Magic_Wands!_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Micro Machines (Usa Europe)",
-    "rom_url": "/worksheets/main/Micro_Machines_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Micro Machines (Usa Europe)",
+    "source": "https://files.vyper.group/Micro_Machines_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Mighty Morphin Power Rangers (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Mighty_Morphin_Power_Rangers_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Mighty Morphin Power Rangers (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Mighty_Morphin_Power_Rangers_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Mighty Morphin Power Rangers - The Movie (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Mighty_Morphin_Power_Rangers_-_The_Movie_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Mighty Morphin Power Rangers - The Movie (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Mighty_Morphin_Power_Rangers_-_The_Movie_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Milons Secret Castle (Usa Europe)",
-    "rom_url": "/worksheets/main/Milons_Secret_Castle_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Milons Secret Castle (Usa Europe)",
+    "source": "https://files.vyper.group/Milons_Secret_Castle_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Miner 2049Er Starring Bounty Bob (Usa)",
-    "rom_url": "/worksheets/main/Miner_2049er_Starring_Bounty_Bob_(USA).7z",
-    "core": "gambatte"
+    "title": "Miner 2049Er Starring Bounty Bob (Usa)",
+    "source": "https://files.vyper.group/Miner_2049er_Starring_Bounty_Bob_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Missile Command (Usa Europe)",
-    "rom_url": "/worksheets/main/Missile_Command_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Missile Command (Usa Europe)",
+    "source": "https://files.vyper.group/Missile_Command_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Mole Mania (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Mole_Mania_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Mole Mania (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Mole_Mania_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Monopoly (Usa)",
-    "rom_url": "/worksheets/main/Monopoly_(USA).7z",
-    "core": "gambatte"
+    "title": "Monopoly (Usa)",
+    "source": "https://files.vyper.group/Monopoly_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Monster Truck Wars (Usa Europe)",
-    "rom_url": "/worksheets/main/Monster_Truck_Wars_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Monster Truck Wars (Usa Europe)",
+    "source": "https://files.vyper.group/Monster_Truck_Wars_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Mortal Kombat & Mortal Kombat Ii (Usa Europe)",
-    "rom_url": "/worksheets/main/Mortal_Kombat_&_Mortal_Kombat_II_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Mortal Kombat & Mortal Kombat Ii (Usa Europe)",
+    "source": "https://files.vyper.group/Mortal_Kombat_&_Mortal_Kombat_II_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Mortal Kombat (Usa Europe)",
-    "rom_url": "/worksheets/main/Mortal_Kombat_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Mortal Kombat (Usa Europe)",
+    "source": "https://files.vyper.group/Mortal_Kombat_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Mortal Kombat 3 (Usa Europe)",
-    "rom_url": "/worksheets/main/Mortal_Kombat_3_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Mortal Kombat 3 (Usa Europe)",
+    "source": "https://files.vyper.group/Mortal_Kombat_3_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Mortal Kombat Ii (Usa Europe)",
-    "rom_url": "/worksheets/main/Mortal_Kombat_II_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Mortal Kombat Ii (Usa Europe)",
+    "source": "https://files.vyper.group/Mortal_Kombat_II_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Motocross Maniacs (Usa)",
-    "rom_url": "/worksheets/main/Motocross_Maniacs_(USA).7z",
-    "core": "gambatte"
+    "title": "Motocross Maniacs (Usa)",
+    "source": "https://files.vyper.group/Motocross_Maniacs_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Mouse Trap Hotel (Usa)",
-    "rom_url": "/worksheets/main/Mouse_Trap_Hotel_(USA).7z",
-    "core": "gambatte"
+    "title": "Mouse Trap Hotel (Usa)",
+    "source": "https://files.vyper.group/Mouse_Trap_Hotel_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Mr. Chins Gourmet Paradise (Usa)",
-    "rom_url": "/worksheets/main/Mr._Chins_Gourmet_Paradise_(USA).7z",
-    "core": "gambatte"
+    "title": "Mr. Chins Gourmet Paradise (Usa)",
+    "source": "https://files.vyper.group/Mr._Chins_Gourmet_Paradise_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Mr. Do! (Usa)",
-    "rom_url": "/worksheets/main/Mr._Do!_(USA).7z",
-    "core": "gambatte"
+    "title": "Mr. Do! (Usa)",
+    "source": "https://files.vyper.group/Mr._Do!_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Ms. Pac-Man (Usa)",
-    "rom_url": "/worksheets/main/Ms._Pac-Man_(USA).7z",
-    "core": "gambatte"
+    "title": "Ms. Pac-Man (Usa)",
+    "source": "https://files.vyper.group/Ms._Pac-Man_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Muhammad Ali Heavyweight Boxing (Usa Europe)",
-    "rom_url": "/worksheets/main/Muhammad_Ali_Heavyweight_Boxing_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Muhammad Ali Heavyweight Boxing (Usa Europe)",
+    "source": "https://files.vyper.group/Muhammad_Ali_Heavyweight_Boxing_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Mulan (Usa) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Mulan_(USA)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Mulan (Usa) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Mulan_(USA)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Mysterium (Usa)",
-    "rom_url": "/worksheets/main/Mysterium_(USA).7z",
-    "core": "gambatte"
+    "title": "Mysterium (Usa)",
+    "source": "https://files.vyper.group/Mysterium_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Mystical Ninja Starring Goemon (Usa) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Mystical_Ninja_Starring_Goemon_(USA)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Mystical Ninja Starring Goemon (Usa) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Mystical_Ninja_Starring_Goemon_(USA)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Nail N Scale (Usa Europe)",
-    "rom_url": "/worksheets/main/Nail_n_Scale_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Nail N Scale (Usa Europe)",
+    "source": "https://files.vyper.group/Nail_n_Scale_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Navy Seals (Usa Europe)",
-    "rom_url": "/worksheets/main/Navy_SEALs_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Navy Seals (Usa Europe)",
+    "source": "https://files.vyper.group/Navy_SEALs_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Nba All-Star Challenge (Usa Europe)",
-    "rom_url": "/worksheets/main/NBA_All-Star_Challenge_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Nba All-Star Challenge (Usa Europe)",
+    "source": "https://files.vyper.group/NBA_All-Star_Challenge_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Nba All-Star Challenge 2 (Usa Europe)",
-    "rom_url": "/worksheets/main/NBA_All-Star_Challenge_2_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Nba All-Star Challenge 2 (Usa Europe)",
+    "source": "https://files.vyper.group/NBA_All-Star_Challenge_2_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Nba Jam (Usa Europe)",
-    "rom_url": "/worksheets/main/NBA_Jam_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Nba Jam (Usa Europe)",
+    "source": "https://files.vyper.group/NBA_Jam_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Nba Jam - Tournament Edition (Usa Europe)",
-    "rom_url": "/worksheets/main/NBA_Jam_-_Tournament_Edition_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Nba Jam - Tourtitlent Edition (Usa Europe)",
+    "source": "https://files.vyper.group/NBA_Jam_-_Tourtitlent_Edition_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Nba Live 96 (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/NBA_Live_96_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Nba Live 96 (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/NBA_Live_96_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Nemesis (Usa)",
-    "rom_url": "/worksheets/main/Nemesis_(USA).7z",
-    "core": "gambatte"
+    "title": "Nemesis (Usa)",
+    "source": "https://files.vyper.group/Nemesis_(USA).html",
+    "type": "html"
   },
   {
-    "name": "New Chessmaster The (Usa Europe)",
-    "rom_url": "/worksheets/main/New_Chessmaster_The_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "New Chessmaster The (Usa Europe)",
+    "source": "https://files.vyper.group/New_Chessmaster_The_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Nfl Football (Usa)",
-    "rom_url": "/worksheets/main/NFL_Football_(USA).7z",
-    "core": "gambatte"
+    "title": "Nfl Football (Usa)",
+    "source": "https://files.vyper.group/NFL_Football_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Nfl Quarterback Club (Usa Europe)",
-    "rom_url": "/worksheets/main/NFL_Quarterback_Club_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Nfl Quarterback Club (Usa Europe)",
+    "source": "https://files.vyper.group/NFL_Quarterback_Club_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Nfl Quarterback Club 96 (Usa Europe)",
-    "rom_url": "/worksheets/main/NFL_Quarterback_Club_96_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Nfl Quarterback Club 96 (Usa Europe)",
+    "source": "https://files.vyper.group/NFL_Quarterback_Club_96_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Nfl Quarterback Club Ii (Usa Europe)",
-    "rom_url": "/worksheets/main/NFL_Quarterback_Club_II_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Nfl Quarterback Club Ii (Usa Europe)",
+    "source": "https://files.vyper.group/NFL_Quarterback_Club_II_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Nhl 96 (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/NHL_96_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Nhl 96 (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/NHL_96_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Nhl Hockey 95 (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/NHL_Hockey_95_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Nhl Hockey 95 (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/NHL_Hockey_95_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Nigel Mansells World Championship Racing (Usa)",
-    "rom_url": "/worksheets/main/Nigel_Mansells_World_Championship_Racing_(USA).7z",
-    "core": "gambatte"
+    "title": "Nigel Mansells World Championship Racing (Usa)",
+    "source": "https://files.vyper.group/Nigel_Mansells_World_Championship_Racing_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Ninja Boy (Usa Europe)",
-    "rom_url": "/worksheets/main/Ninja_Boy_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Ninja Boy (Usa Europe)",
+    "source": "https://files.vyper.group/Ninja_Boy_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Ninja Boy 2 (Usa Europe)",
-    "rom_url": "/worksheets/main/Ninja_Boy_2_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Ninja Boy 2 (Usa Europe)",
+    "source": "https://files.vyper.group/Ninja_Boy_2_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Ninja Gaiden Shadow (Usa)",
-    "rom_url": "/worksheets/main/Ninja_Gaiden_Shadow_(USA).7z",
-    "core": "gambatte"
+    "title": "Ninja Gaiden Shadow (Usa)",
+    "source": "https://files.vyper.group/Ninja_Gaiden_Shadow_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Ninja Taro (Usa)",
-    "rom_url": "/worksheets/main/Ninja_Taro_(USA).7z",
-    "core": "gambatte"
+    "title": "Ninja Taro (Usa)",
+    "source": "https://files.vyper.group/Ninja_Taro_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Nintendo World Cup (Usa Europe)",
-    "rom_url": "/worksheets/main/Nintendo_World_Cup_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Nintendo World Cup (Usa Europe)",
+    "source": "https://files.vyper.group/Nintendo_World_Cup_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Niv Bible & The 20 Lost Levels Of Joshua (Usa) (Unl)",
-    "rom_url": "/worksheets/main/NIV_Bible_&_the_20_Lost_Levels_of_Joshua_(USA)_(Unl).7z",
-    "core": "gambatte"
+    "title": "Niv Bible & The 20 Lost Levels Of Joshua (Usa) (Unl)",
+    "source": "https://files.vyper.group/NIV_Bible_&_the_20_Lost_Levels_of_Joshua_(USA)_(Unl).html",
+    "type": "html"
   },
   {
-    "name": "Nobunagas Ambition (Usa)",
-    "rom_url": "/worksheets/main/Nobunagas_Ambition_(USA).7z",
-    "core": "gambatte"
+    "title": "Nobunagas Ambition (Usa)",
+    "source": "https://files.vyper.group/Nobunagas_Ambition_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Oddworld Adventures (Usa Europe)",
-    "rom_url": "/worksheets/main/Oddworld_Adventures_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Oddworld Adventures (Usa Europe)",
+    "source": "https://files.vyper.group/Oddworld_Adventures_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Olympic Summer Games (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Olympic_Summer_Games_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Olympic Summer Games (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Olympic_Summer_Games_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Operation C (Usa)",
-    "rom_url": "/worksheets/main/Operation_C_(USA).7z",
-    "core": "gambatte"
+    "title": "Operation C (Usa)",
+    "source": "https://files.vyper.group/Operation_C_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Out Of Gas (Usa)",
-    "rom_url": "/worksheets/main/Out_of_Gas_(USA).7z",
-    "core": "gambatte"
+    "title": "Out Of Gas (Usa)",
+    "source": "https://files.vyper.group/Out_of_Gas_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Pac-Attack (Usa) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Pac-Attack_(USA)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Pac-Attack (Usa) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Pac-Attack_(USA)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Pac-In-Time (Usa) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Pac-In-Time_(USA)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Pac-In-Time (Usa) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Pac-In-Time_(USA)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Pac-Man (Usa)",
-    "rom_url": "/worksheets/main/Pac-Man_(USA).7z",
-    "core": "gambatte"
+    "title": "Pac-Man (Usa)",
+    "source": "https://files.vyper.group/Pac-Man_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Pagemaster The (Usa) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Pagemaster_The_(USA)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Pagemaster The (Usa) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Pagemaster_The_(USA)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Panel Action Bingo (Usa)",
-    "rom_url": "/worksheets/main/Panel_Action_Bingo_(USA).7z",
-    "core": "gambatte"
+    "title": "Panel Action Bingo (Usa)",
+    "source": "https://files.vyper.group/Panel_Action_Bingo_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Paperboy (Usa Europe)",
-    "rom_url": "/worksheets/main/Paperboy_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Paperboy (Usa Europe)",
+    "source": "https://files.vyper.group/Paperboy_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Paperboy 2 (Usa Europe)",
-    "rom_url": "/worksheets/main/Paperboy_2_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Paperboy 2 (Usa Europe)",
+    "source": "https://files.vyper.group/Paperboy_2_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Penguin Wars (Usa)",
-    "rom_url": "/worksheets/main/Penguin_Wars_(USA).7z",
-    "core": "gambatte"
+    "title": "Penguin Wars (Usa)",
+    "source": "https://files.vyper.group/Penguin_Wars_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Pga European Tour (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/PGA_European_Tour_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Pga European Tour (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/PGA_European_Tour_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Pga Tour 96 (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/PGA_Tour_96_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Pga Tour 96 (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/PGA_Tour_96_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Pinball Dreams (Usa Europe)",
-    "rom_url": "/worksheets/main/Pinball_Dreams_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Pinball Dreams (Usa Europe)",
+    "source": "https://files.vyper.group/Pinball_Dreams_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Pinball Fantasies (Usa Europe)",
-    "rom_url": "/worksheets/main/Pinball_Fantasies_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Pinball Fantasies (Usa Europe)",
+    "source": "https://files.vyper.group/Pinball_Fantasies_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Pinocchio (Usa)",
-    "rom_url": "/worksheets/main/Pinocchio_(USA).7z",
-    "core": "gambatte"
+    "title": "Pinocchio (Usa)",
+    "source": "https://files.vyper.group/Pinocchio_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Pipe Dream (Usa)",
-    "rom_url": "/worksheets/main/Pipe_Dream_(USA).7z",
-    "core": "gambatte"
+    "title": "Pipe Dream (Usa)",
+    "source": "https://files.vyper.group/Pipe_Dream_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Pit-Fighter (Usa Europe)",
-    "rom_url": "/worksheets/main/Pit-Fighter_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Pit-Fighter (Usa Europe)",
+    "source": "https://files.vyper.group/Pit-Fighter_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Play Action Football (Usa)",
-    "rom_url": "/worksheets/main/Play_Action_Football_(USA).7z",
-    "core": "gambatte"
+    "title": "Play Action Football (Usa)",
+    "source": "https://files.vyper.group/Play_Action_Football_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Pocahontas (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Pocahontas_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Pocahontas (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Pocahontas_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Pokemon - Blue Version (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Pokemon_-_Blue_Version_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Pokemon - Blue Version (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Pokemon_-_Blue_Version_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Pokemon - Red Version (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Pokemon_-_Red_Version_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Pokemon - Red Version (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Pokemon_-_Red_Version_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Pokemon - Yellow Version - Special Pikachu Edition (Usa Europe) (Cgb+Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Pokemon_-_Yellow_Version_-_Special_Pikachu_Edition_(USA_Europe)_(CGB+SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Pokemon - Yellow Version - Special Pikachu Edition (Usa Europe) (Cgb+Sgb Enhanced)",
+    "source": "https://files.vyper.group/Pokemon_-_Yellow_Version_-_Special_Pikachu_Edition_(USA_Europe)_(CGB+SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Popeye 2 (Usa)",
-    "rom_url": "/worksheets/main/Popeye_2_(USA).7z",
-    "core": "gambatte"
+    "title": "Popeye 2 (Usa)",
+    "source": "https://files.vyper.group/Popeye_2_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Power Mission (Usa)",
-    "rom_url": "/worksheets/main/Power_Mission_(USA).7z",
-    "core": "gambatte"
+    "title": "Power Mission (Usa)",
+    "source": "https://files.vyper.group/Power_Mission_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Power Racer (Usa)",
-    "rom_url": "/worksheets/main/Power_Racer_(USA).7z",
-    "core": "gambatte"
+    "title": "Power Racer (Usa)",
+    "source": "https://files.vyper.group/Power_Racer_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Prehistorik Man (Usa Europe)",
-    "rom_url": "/worksheets/main/Prehistorik_Man_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Prehistorik Man (Usa Europe)",
+    "source": "https://files.vyper.group/Prehistorik_Man_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Primal Rage (Usa Europe)",
-    "rom_url": "/worksheets/main/Primal_Rage_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Primal Rage (Usa Europe)",
+    "source": "https://files.vyper.group/Primal_Rage_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Prince Of Persia (Usa)",
-    "rom_url": "/worksheets/main/Prince_of_Persia_(USA).7z",
-    "core": "gambatte"
+    "title": "Prince Of Persia (Usa)",
+    "source": "https://files.vyper.group/Prince_of_Persia_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Prophecy - The Viking Child (Usa)",
-    "rom_url": "/worksheets/main/Prophecy_-_The_Viking_Child_(USA).7z",
-    "core": "gambatte"
+    "title": "Prophecy - The Viking Child (Usa)",
+    "source": "https://files.vyper.group/Prophecy_-_The_Viking_Child_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Punisher The - The Ultimate Payback (Usa)",
-    "rom_url": "/worksheets/main/Punisher_The_-_The_Ultimate_Payback_(USA).7z",
-    "core": "gambatte"
+    "title": "Punisher The - The Ultimate Payback (Usa)",
+    "source": "https://files.vyper.group/Punisher_The_-_The_Ultimate_Payback_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Pyramids Of Ra (Usa)",
-    "rom_url": "/worksheets/main/Pyramids_of_Ra_(USA).7z",
-    "core": "gambatte"
+    "title": "Pyramids Of Ra (Usa)",
+    "source": "https://files.vyper.group/Pyramids_of_Ra_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Q-Bert For Game Boy (Usa Europe)",
-    "rom_url": "/worksheets/main/Q-bert_for_Game_Boy_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Q-Bert For Game Boy (Usa Europe)",
+    "source": "https://files.vyper.group/Q-bert_for_Game_Boy_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Quarth (Usa Europe)",
-    "rom_url": "/worksheets/main/Quarth_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Quarth (Usa Europe)",
+    "source": "https://files.vyper.group/Quarth_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Q Billion (Usa)",
-    "rom_url": "/worksheets/main/Q_Billion_(USA).7z",
-    "core": "gambatte"
+    "title": "Q Billion (Usa)",
+    "source": "https://files.vyper.group/Q_Billion_(USA).html",
+    "type": "html"
   },
   {
-    "name": "R-Type (Usa Europe)",
-    "rom_url": "/worksheets/main/R-Type_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "R-Type (Usa Europe)",
+    "source": "https://files.vyper.group/R-Type_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Race Days (Usa)",
-    "rom_url": "/worksheets/main/Race_Days_(USA).7z",
-    "core": "gambatte"
+    "title": "Race Days (Usa)",
+    "source": "https://files.vyper.group/Race_Days_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Race Drivin (Usa Europe)",
-    "rom_url": "/worksheets/main/Race_Drivin_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Race Drivin (Usa Europe)",
+    "source": "https://files.vyper.group/Race_Drivin_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Radar Mission (Usa Europe)",
-    "rom_url": "/worksheets/main/Radar_Mission_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Radar Mission (Usa Europe)",
+    "source": "https://files.vyper.group/Radar_Mission_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Raging Fighter (Usa Europe)",
-    "rom_url": "/worksheets/main/Raging_Fighter_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Raging Fighter (Usa Europe)",
+    "source": "https://files.vyper.group/Raging_Fighter_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Rampart (Usa Europe)",
-    "rom_url": "/worksheets/main/Rampart_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Rampart (Usa Europe)",
+    "source": "https://files.vyper.group/Rampart_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Real Ghostbusters The (Usa)",
-    "rom_url": "/worksheets/main/Real_Ghostbusters_The_(USA).7z",
-    "core": "gambatte"
+    "title": "Real Ghostbusters The (Usa)",
+    "source": "https://files.vyper.group/Real_Ghostbusters_The_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Ren & Stimpy Show The - Space Cadet Adventures (Usa)",
-    "rom_url": "/worksheets/main/Ren_&_Stimpy_Show_The_-_Space_Cadet_Adventures_(USA).7z",
-    "core": "gambatte"
+    "title": "Ren & Stimpy Show The - Space Cadet Adventures (Usa)",
+    "source": "https://files.vyper.group/Ren_&_Stimpy_Show_The_-_Space_Cadet_Adventures_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Ren & Stimpy Show The - Veediots! (Usa Europe)",
-    "rom_url": "/worksheets/main/Ren_&_Stimpy_Show_The_-_Veediots!_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Ren & Stimpy Show The - Veediots! (Usa Europe)",
+    "source": "https://files.vyper.group/Ren_&_Stimpy_Show_The_-_Veediots!_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Riddick Bowe Boxing (Usa)",
-    "rom_url": "/worksheets/main/Riddick_Bowe_Boxing_(USA).7z",
-    "core": "gambatte"
+    "title": "Riddick Bowe Boxing (Usa)",
+    "source": "https://files.vyper.group/Riddick_Bowe_Boxing_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Ring Rage (Usa)",
-    "rom_url": "/worksheets/main/Ring_Rage_(USA).7z",
-    "core": "gambatte"
+    "title": "Ring Rage (Usa)",
+    "source": "https://files.vyper.group/Ring_Rage_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Road Rash (Usa Europe)",
-    "rom_url": "/worksheets/main/Road_Rash_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Road Rash (Usa Europe)",
+    "source": "https://files.vyper.group/Road_Rash_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Robin Hood - Prince Of Thieves (Usa)",
-    "rom_url": "/worksheets/main/Robin_Hood_-_Prince_of_Thieves_(USA).7z",
-    "core": "gambatte"
+    "title": "Robin Hood - Prince Of Thieves (Usa)",
+    "source": "https://files.vyper.group/Robin_Hood_-_Prince_of_Thieves_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Robocop (Usa)",
-    "rom_url": "/worksheets/main/RoboCop_(USA).7z",
-    "core": "gambatte"
+    "title": "Robocop (Usa)",
+    "source": "https://files.vyper.group/RoboCop_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Robocop 2 (Usa Europe)",
-    "rom_url": "/worksheets/main/RoboCop_2_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Robocop 2 (Usa Europe)",
+    "source": "https://files.vyper.group/RoboCop_2_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Robocop Versus The Terminator (Usa)",
-    "rom_url": "/worksheets/main/RoboCop_versus_The_Terminator_(USA).7z",
-    "core": "gambatte"
+    "title": "Robocop Versus The Terminator (Usa)",
+    "source": "https://files.vyper.group/RoboCop_versus_The_Terminator_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Roger Clemens Mvp Baseball (Usa)",
-    "rom_url": "/worksheets/main/Roger_Clemens_MVP_Baseball_(USA).7z",
-    "core": "gambatte"
+    "title": "Roger Clemens Mvp Baseball (Usa)",
+    "source": "https://files.vyper.group/Roger_Clemens_MVP_Baseball_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Rolans Curse (Usa)",
-    "rom_url": "/worksheets/main/Rolans_Curse_(USA).7z",
-    "core": "gambatte"
+    "title": "Rolans Curse (Usa)",
+    "source": "https://files.vyper.group/Rolans_Curse_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Rolans Curse Ii (Usa)",
-    "rom_url": "/worksheets/main/Rolans_Curse_II_(USA).7z",
-    "core": "gambatte"
+    "title": "Rolans Curse Ii (Usa)",
+    "source": "https://files.vyper.group/Rolans_Curse_II_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Rugrats Movie The (Usa) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Rugrats_Movie_The_(USA)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Rugrats Movie The (Usa) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Rugrats_Movie_The_(USA)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Samurai Shodown (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Samurai_Shodown_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Samurai Shodown (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Samurai_Shodown_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Seaquest Dsv (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/seaQuest_DSV_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Seaquest Dsv (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/seaQuest_DSV_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Serpent (Usa)",
-    "rom_url": "/worksheets/main/Serpent_(USA).7z",
-    "core": "gambatte"
+    "title": "Serpent (Usa)",
+    "source": "https://files.vyper.group/Serpent_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Shanghai (Usa)",
-    "rom_url": "/worksheets/main/Shanghai_(USA).7z",
-    "core": "gambatte"
+    "title": "Shanghai (Usa)",
+    "source": "https://files.vyper.group/Shanghai_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Shaq Fu (Usa) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Shaq_Fu_(USA)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Shaq Fu (Usa) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Shaq_Fu_(USA)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Simpsons The - Bart & The Beanstalk (Usa Europe)",
-    "rom_url": "/worksheets/main/Simpsons_The_-_Bart_&_the_Beanstalk_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Simpsons The - Bart & The Beanstalk (Usa Europe)",
+    "source": "https://files.vyper.group/Simpsons_The_-_Bart_&_the_Beanstalk_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Simpsons The - Bart Vs. The Juggernauts (Usa Europe)",
-    "rom_url": "/worksheets/main/Simpsons_The_-_Bart_vs._the_Juggernauts_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Simpsons The - Bart Vs. The Juggernauts (Usa Europe)",
+    "source": "https://files.vyper.group/Simpsons_The_-_Bart_vs._the_Juggernauts_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Simpsons The - Itchy & Scratchy - Miniature Golf Madness (Usa Europe)",
-    "rom_url": "/worksheets/main/Simpsons_The_-_Itchy_&_Scratchy_-_Miniature_Golf_Madness_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Simpsons The - Itchy & Scratchy - Miniature Golf Madness (Usa Europe)",
+    "source": "https://files.vyper.group/Simpsons_The_-_Itchy_&_Scratchy_-_Miniature_Golf_Madness_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Skate Or Die - Bad N Rad (Usa)",
-    "rom_url": "/worksheets/main/Skate_or_Die_-_Bad_N_Rad_(USA).7z",
-    "core": "gambatte"
+    "title": "Skate Or Die - Bad N Rad (Usa)",
+    "source": "https://files.vyper.group/Skate_or_Die_-_Bad_N_Rad_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Skate Or Die - Tour De Thrash (Usa)",
-    "rom_url": "/worksheets/main/Skate_or_Die_-_Tour_de_Thrash_(USA).7z",
-    "core": "gambatte"
+    "title": "Skate Or Die - Tour De Thrash (Usa)",
+    "source": "https://files.vyper.group/Skate_or_Die_-_Tour_de_Thrash_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Small Soldiers (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Small_Soldiers_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Small Soldiers (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Small_Soldiers_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Sneaky Snakes (Usa Europe)",
-    "rom_url": "/worksheets/main/Sneaky_Snakes_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Sneaky Snakes (Usa Europe)",
+    "source": "https://files.vyper.group/Sneaky_Snakes_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Snoopys Magic Show (Usa Europe)",
-    "rom_url": "/worksheets/main/Snoopys_Magic_Show_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Snoopys Magic Show (Usa Europe)",
+    "source": "https://files.vyper.group/Snoopys_Magic_Show_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Snow Brothers (Usa)",
-    "rom_url": "/worksheets/main/Snow_Brothers_(USA).7z",
-    "core": "gambatte"
+    "title": "Snow Brothers (Usa)",
+    "source": "https://files.vyper.group/Snow_Brothers_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Soccer Mania (Usa)",
-    "rom_url": "/worksheets/main/Soccer_Mania_(USA).7z",
-    "core": "gambatte"
+    "title": "Soccer Mania (Usa)",
+    "source": "https://files.vyper.group/Soccer_Mania_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Solitaire Funpak (Usa Europe)",
-    "rom_url": "/worksheets/main/Solitaire_FunPak_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Solitaire Funpak (Usa Europe)",
+    "source": "https://files.vyper.group/Solitaire_FunPak_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Solomons Club (Usa)",
-    "rom_url": "/worksheets/main/Solomons_Club_(USA).7z",
-    "core": "gambatte"
+    "title": "Solomons Club (Usa)",
+    "source": "https://files.vyper.group/Solomons_Club_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Space Invaders (Usa) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Space_Invaders_(USA)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Space Invaders (Usa) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Space_Invaders_(USA)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Spankys Quest (Usa)",
-    "rom_url": "/worksheets/main/Spankys_Quest_(USA).7z",
-    "core": "gambatte"
+    "title": "Spankys Quest (Usa)",
+    "source": "https://files.vyper.group/Spankys_Quest_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Speedball 2 - Brutal Deluxe (Usa Europe)",
-    "rom_url": "/worksheets/main/Speedball_2_-_Brutal_Deluxe_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Speedball 2 - Brutal Deluxe (Usa Europe)",
+    "source": "https://files.vyper.group/Speedball_2_-_Brutal_Deluxe_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Speedy Gonzales (Usa Europe)",
-    "rom_url": "/worksheets/main/Speedy_Gonzales_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Speedy Gonzales (Usa Europe)",
+    "source": "https://files.vyper.group/Speedy_Gonzales_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Spider-Man 2 (Usa Europe)",
-    "rom_url": "/worksheets/main/Spider-Man_2_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Spider-Man 2 (Usa Europe)",
+    "source": "https://files.vyper.group/Spider-Man_2_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Spider-Man 3 - Invasion Of The Spider-Slayers (Usa Europe)",
-    "rom_url": "/worksheets/main/Spider-Man_3_-_Invasion_of_the_Spider-Slayers_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Spider-Man 3 - Invasion Of The Spider-Slayers (Usa Europe)",
+    "source": "https://files.vyper.group/Spider-Man_3_-_Invasion_of_the_Spider-Slayers_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Spiritual Warfare (Usa) (Unl)",
-    "rom_url": "/worksheets/main/Spiritual_Warfare_(USA)_(Unl).7z",
-    "core": "gambatte"
+    "title": "Spiritual Warfare (Usa) (Unl)",
+    "source": "https://files.vyper.group/Spiritual_Warfare_(USA)_(Unl).html",
+    "type": "html"
   },
   {
-    "name": "Sports Illustrated - Championship Football & Baseball (Usa)",
-    "rom_url": "/worksheets/main/Sports_Illustrated_-_Championship_Football_&_Baseball_(USA).7z",
-    "core": "gambatte"
+    "title": "Sports Illustrated - Championship Football & Baseball (Usa)",
+    "source": "https://files.vyper.group/Sports_Illustrated_-_Championship_Football_&_Baseball_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Sports Illustrated - Golf Classic (Usa) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Sports_Illustrated_-_Golf_Classic_(USA)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Sports Illustrated - Golf Classic (Usa) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Sports_Illustrated_-_Golf_Classic_(USA)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Sports Illustrated For Kids - The Ultimate Triple Dare! (Usa)",
-    "rom_url": "/worksheets/main/Sports_Illustrated_for_Kids_-_The_Ultimate_Triple_Dare!_(USA).7z",
-    "core": "gambatte"
+    "title": "Sports Illustrated For Kids - The Ultimate Triple Dare! (Usa)",
+    "source": "https://files.vyper.group/Sports_Illustrated_for_Kids_-_The_Ultimate_Triple_Dare!_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Spot - The Cool Adventure (Usa)",
-    "rom_url": "/worksheets/main/Spot_-_The_Cool_Adventure_(USA).7z",
-    "core": "gambatte"
+    "title": "Spot - The Cool Adventure (Usa)",
+    "source": "https://files.vyper.group/Spot_-_The_Cool_Adventure_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Spot - The Video Game (Usa)",
-    "rom_url": "/worksheets/main/Spot_-_The_Video_Game_(USA).7z",
-    "core": "gambatte"
+    "title": "Spot - The Video Game (Usa)",
+    "source": "https://files.vyper.group/Spot_-_The_Video_Game_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Spuds Adventure (Usa)",
-    "rom_url": "/worksheets/main/Spuds_Adventure_(USA).7z",
-    "core": "gambatte"
+    "title": "Spuds Adventure (Usa)",
+    "source": "https://files.vyper.group/Spuds_Adventure_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Spy Vs Spy - Operation Boobytrap (Usa)",
-    "rom_url": "/worksheets/main/Spy_vs_Spy_-_Operation_Boobytrap_(USA).7z",
-    "core": "gambatte"
+    "title": "Spy Vs Spy - Operation Boobytrap (Usa)",
+    "source": "https://files.vyper.group/Spy_vs_Spy_-_Operation_Boobytrap_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Square Deal - The Game Of Two-Dimensional Poker (Usa)",
-    "rom_url": "/worksheets/main/Square_Deal_-_The_Game_of_Two-Dimensional_Poker_(USA).7z",
-    "core": "gambatte"
+    "title": "Square Deal - The Game Of Two-Dimensional Poker (Usa)",
+    "source": "https://files.vyper.group/Square_Deal_-_The_Game_of_Two-Dimensional_Poker_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Stargate (Usa Europe)",
-    "rom_url": "/worksheets/main/Stargate_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Stargate (Usa Europe)",
+    "source": "https://files.vyper.group/Stargate_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Star Trek - 25Th Anniversary (Usa Europe)",
-    "rom_url": "/worksheets/main/Star_Trek_-_25th_Anniversary_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Star Trek - 25Th Anniversary (Usa Europe)",
+    "source": "https://files.vyper.group/Star_Trek_-_25th_Anniversary_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Star Trek - The Next Generation (Usa Europe)",
-    "rom_url": "/worksheets/main/Star_Trek_-_The_Next_Generation_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Star Trek - The Next Generation (Usa Europe)",
+    "source": "https://files.vyper.group/Star_Trek_-_The_Next_Generation_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Star Trek Generations - Beyond The Nexus (Usa) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Star_Trek_Generations_-_Beyond_the_Nexus_(USA)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Star Trek Generations - Beyond The Nexus (Usa) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Star_Trek_Generations_-_Beyond_the_Nexus_(USA)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Star Wars (Usa)",
-    "rom_url": "/worksheets/main/Star_Wars_(USA).7z",
-    "core": "gambatte"
+    "title": "Star Wars (Usa)",
+    "source": "https://files.vyper.group/Star_Wars_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Star Wars - The Empire Strikes Back (Usa)",
-    "rom_url": "/worksheets/main/Star_Wars_-_The_Empire_Strikes_Back_(USA).7z",
-    "core": "gambatte"
+    "title": "Star Wars - The Empire Strikes Back (Usa)",
+    "source": "https://files.vyper.group/Star_Wars_-_The_Empire_Strikes_Back_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Star Wars - The Empire Strikes Back (Usa Europe)",
-    "rom_url": "/worksheets/main/Star_Wars_-_The_Empire_Strikes_Back_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Star Wars - The Empire Strikes Back (Usa Europe)",
+    "source": "https://files.vyper.group/Star_Wars_-_The_Empire_Strikes_Back_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Stop That Roach! (Usa)",
-    "rom_url": "/worksheets/main/Stop_That_Roach!_(USA).7z",
-    "core": "gambatte"
+    "title": "Stop That Roach! (Usa)",
+    "source": "https://files.vyper.group/Stop_That_Roach!_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Street Fighter Ii (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Street_Fighter_II_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Street Fighter Ii (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Street_Fighter_II_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Street Racer (Usa Europe)",
-    "rom_url": "/worksheets/main/Street_Racer_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Street Racer (Usa Europe)",
+    "source": "https://files.vyper.group/Street_Racer_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Sumo Fighter (Usa)",
-    "rom_url": "/worksheets/main/Sumo_Fighter_(USA).7z",
-    "core": "gambatte"
+    "title": "Sumo Fighter (Usa)",
+    "source": "https://files.vyper.group/Sumo_Fighter_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Superman (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Superman_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Superman (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Superman_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Super Battletank (Usa)",
-    "rom_url": "/worksheets/main/Super_Battletank_(USA).7z",
-    "core": "gambatte"
+    "title": "Super Battletank (Usa)",
+    "source": "https://files.vyper.group/Super_Battletank_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Super Black Bass (Usa)",
-    "rom_url": "/worksheets/main/Super_Black_Bass_(USA).7z",
-    "core": "gambatte"
+    "title": "Super Black Bass (Usa)",
+    "source": "https://files.vyper.group/Super_Black_Bass_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Super Breakout (Usa)",
-    "rom_url": "/worksheets/main/Super_Breakout_(USA).7z",
-    "core": "gambatte"
+    "title": "Super Breakout (Usa)",
+    "source": "https://files.vyper.group/Super_Breakout_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Super Chase H.Q. (Usa Europe)",
-    "rom_url": "/worksheets/main/Super_Chase_H.Q._(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Super Chase H.Q. (Usa Europe)",
+    "source": "https://files.vyper.group/Super_Chase_H.Q._(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Super Hunchback (Usa)",
-    "rom_url": "/worksheets/main/Super_Hunchback_(USA).7z",
-    "core": "gambatte"
+    "title": "Super Hunchback (Usa)",
+    "source": "https://files.vyper.group/Super_Hunchback_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Super Mario Land 2 - 6 Golden Coins (Usa Europe)",
-    "rom_url": "/worksheets/main/Super_Mario_Land_2_-_6_Golden_Coins_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Super Mario Land 2 - 6 Golden Coins (Usa Europe)",
+    "source": "https://files.vyper.group/Super_Mario_Land_2_-_6_Golden_Coins_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Super Off Road (Usa Europe)",
-    "rom_url": "/worksheets/main/Super_Off_Road_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Super Off Road (Usa Europe)",
+    "source": "https://files.vyper.group/Super_Off_Road_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Super R.C. Pro-Am (Usa Europe)",
-    "rom_url": "/worksheets/main/Super_R.C._Pro-Am_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Super R.C. Pro-Am (Usa Europe)",
+    "source": "https://files.vyper.group/Super_R.C._Pro-Am_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Super Scrabble (Usa)",
-    "rom_url": "/worksheets/main/Super_Scrabble_(USA).7z",
-    "core": "gambatte"
+    "title": "Super Scrabble (Usa)",
+    "source": "https://files.vyper.group/Super_Scrabble_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Super Star Wars - Return Of The Jedi (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Super_Star_Wars_-_Return_of_the_Jedi_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Super Star Wars - Return Of The Jedi (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Super_Star_Wars_-_Return_of_the_Jedi_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Swamp Thing (Usa Europe)",
-    "rom_url": "/worksheets/main/Swamp_Thing_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Swamp Thing (Usa Europe)",
+    "source": "https://files.vyper.group/Swamp_Thing_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Sword Of Hope Ii The (Usa)",
-    "rom_url": "/worksheets/main/Sword_of_Hope_II_The_(USA).7z",
-    "core": "gambatte"
+    "title": "Sword Of Hope Ii The (Usa)",
+    "source": "https://files.vyper.group/Sword_of_Hope_II_The_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Sword Of Hope The (Usa)",
-    "rom_url": "/worksheets/main/Sword_of_Hope_The_(USA).7z",
-    "core": "gambatte"
+    "title": "Sword Of Hope The (Usa)",
+    "source": "https://files.vyper.group/Sword_of_Hope_The_(USA).html",
+    "type": "html"
   },
   {
-    "name": "T2 - The Arcade Game (Usa Europe)",
-    "rom_url": "/worksheets/main/T2_-_The_Arcade_Game_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "T2 - The Arcade Game (Usa Europe)",
+    "source": "https://files.vyper.group/T2_-_The_Arcade_Game_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Tail Gator (Usa Europe)",
-    "rom_url": "/worksheets/main/Tail_Gator_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Tail Gator (Usa Europe)",
+    "source": "https://files.vyper.group/Tail_Gator_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Talespin (Usa)",
-    "rom_url": "/worksheets/main/TaleSpin_(USA).7z",
-    "core": "gambatte"
+    "title": "Talespin (Usa)",
+    "source": "https://files.vyper.group/TaleSpin_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Tamagotchi (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Tamagotchi_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Tamagotchi (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Tamagotchi_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Tarzan - Lord Of The Jungle (Usa Europe)",
-    "rom_url": "/worksheets/main/Tarzan_-_Lord_of_the_Jungle_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Tarzan - Lord Of The Jungle (Usa Europe)",
+    "source": "https://files.vyper.group/Tarzan_-_Lord_of_the_Jungle_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Tasmania Story (Usa)",
-    "rom_url": "/worksheets/main/Tasmania_Story_(USA).7z",
-    "core": "gambatte"
+    "title": "Tasmania Story (Usa)",
+    "source": "https://files.vyper.group/Tasmania_Story_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Taz-Mania 2 (Usa)",
-    "rom_url": "/worksheets/main/Taz-Mania_2_(USA).7z",
-    "core": "gambatte"
+    "title": "Taz-Mania 2 (Usa)",
+    "source": "https://files.vyper.group/Taz-Mania_2_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Tecmo Bowl (Usa)",
-    "rom_url": "/worksheets/main/Tecmo_Bowl_(USA).7z",
-    "core": "gambatte"
+    "title": "Tecmo Bowl (Usa)",
+    "source": "https://files.vyper.group/Tecmo_Bowl_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Teenage Mutant Ninja Turtles - Fall Of The Foot Clan (Usa)",
-    "rom_url": "/worksheets/main/Teenage_Mutant_Ninja_Turtles_-_Fall_of_the_Foot_Clan_(USA).7z",
-    "core": "gambatte"
+    "title": "Teenage Mutant Ninja Turtles - Fall Of The Foot Clan (Usa)",
+    "source": "https://files.vyper.group/Teenage_Mutant_Ninja_Turtles_-_Fall_of_the_Foot_Clan_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Teenage Mutant Ninja Turtles Iii - Radical Rescue (Usa)",
-    "rom_url": "/worksheets/main/Teenage_Mutant_Ninja_Turtles_III_-_Radical_Rescue_(USA).7z",
-    "core": "gambatte"
+    "title": "Teenage Mutant Ninja Turtles Iii - Radical Rescue (Usa)",
+    "source": "https://files.vyper.group/Teenage_Mutant_Ninja_Turtles_III_-_Radical_Rescue_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Teenage Mutant Ninja Turtles Ii - Back From The Sewers (Usa)",
-    "rom_url": "/worksheets/main/Teenage_Mutant_Ninja_Turtles_II_-_Back_from_the_Sewers_(USA).7z",
-    "core": "gambatte"
+    "title": "Teenage Mutant Ninja Turtles Ii - Back From The Sewers (Usa)",
+    "source": "https://files.vyper.group/Teenage_Mutant_Ninja_Turtles_II_-_Back_from_the_Sewers_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Terminator 2 - Judgment Day (Usa Europe)",
-    "rom_url": "/worksheets/main/Terminator_2_-_Judgment_Day_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Terminator 2 - Judgment Day (Usa Europe)",
+    "source": "https://files.vyper.group/Terminator_2_-_Judgment_Day_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Tesserae (Usa)",
-    "rom_url": "/worksheets/main/Tesserae_(USA).7z",
-    "core": "gambatte"
+    "title": "Tesserae (Usa)",
+    "source": "https://files.vyper.group/Tesserae_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Tetris 2 (Usa)",
-    "rom_url": "/worksheets/main/Tetris_2_(USA).7z",
-    "core": "gambatte"
+    "title": "Tetris 2 (Usa)",
+    "source": "https://files.vyper.group/Tetris_2_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Tetris 2 (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Tetris_2_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Tetris 2 (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Tetris_2_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Tetris Attack (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Tetris_Attack_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Tetris Attack (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Tetris_Attack_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Tetris Blast (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Tetris_Blast_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Tetris Blast (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Tetris_Blast_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Tetris Plus (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Tetris_Plus_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Tetris Plus (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Tetris_Plus_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Tiny Toon Adventures - Babs Big Break (Usa Europe)",
-    "rom_url": "/worksheets/main/Tiny_Toon_Adventures_-_Babs_Big_Break_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Tiny Toon Adventures - Babs Big Break (Usa Europe)",
+    "source": "https://files.vyper.group/Tiny_Toon_Adventures_-_Babs_Big_Break_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Tiny Toon Adventures - Wacky Sports (Usa)",
-    "rom_url": "/worksheets/main/Tiny_Toon_Adventures_-_Wacky_Sports_(USA).7z",
-    "core": "gambatte"
+    "title": "Tiny Toon Adventures - Wacky Sports (Usa)",
+    "source": "https://files.vyper.group/Tiny_Toon_Adventures_-_Wacky_Sports_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Tiny Toon Adventures 2 - Montanas Movie Madness (Usa Europe)",
-    "rom_url": "/worksheets/main/Tiny_Toon_Adventures_2_-_Montanas_Movie_Madness_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Tiny Toon Adventures 2 - Montanas Movie Madness (Usa Europe)",
+    "source": "https://files.vyper.group/Tiny_Toon_Adventures_2_-_Montanas_Movie_Madness_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Titus The Fox (Usa Europe)",
-    "rom_url": "/worksheets/main/Titus_the_Fox_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Titus The Fox (Usa Europe)",
+    "source": "https://files.vyper.group/Titus_the_Fox_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Tom & Jerry (Usa Europe)",
-    "rom_url": "/worksheets/main/Tom_&_Jerry_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Tom & Jerry (Usa Europe)",
+    "source": "https://files.vyper.group/Tom_&_Jerry_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Tom And Jerry - Frantic Antics! (Usa Europe)",
-    "rom_url": "/worksheets/main/Tom_and_Jerry_-_Frantic_Antics!_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Tom And Jerry - Frantic Antics! (Usa Europe)",
+    "source": "https://files.vyper.group/Tom_and_Jerry_-_Frantic_Antics!_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Top Gun - Guts & Glory (Usa Europe)",
-    "rom_url": "/worksheets/main/Top_Gun_-_Guts_&_Glory_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Top Gun - Guts & Glory (Usa Europe)",
+    "source": "https://files.vyper.group/Top_Gun_-_Guts_&_Glory_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Top Rank Tennis (Usa)",
-    "rom_url": "/worksheets/main/Top_Rank_Tennis_(USA).7z",
-    "core": "gambatte"
+    "title": "Top Rank Tennis (Usa)",
+    "source": "https://files.vyper.group/Top_Rank_Tennis_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Torpedo Range (Usa)",
-    "rom_url": "/worksheets/main/Torpedo_Range_(USA).7z",
-    "core": "gambatte"
+    "title": "Torpedo Range (Usa)",
+    "source": "https://files.vyper.group/Torpedo_Range_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Total Carnage (Usa Europe)",
-    "rom_url": "/worksheets/main/Total_Carnage_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Total Carnage (Usa Europe)",
+    "source": "https://files.vyper.group/Total_Carnage_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Toxic Crusaders (Usa)",
-    "rom_url": "/worksheets/main/Toxic_Crusaders_(USA).7z",
-    "core": "gambatte"
+    "title": "Toxic Crusaders (Usa)",
+    "source": "https://files.vyper.group/Toxic_Crusaders_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Toy Story (Usa) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Toy_Story_(USA)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Toy Story (Usa) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Toy_Story_(USA)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Track & Field (Usa Europe)",
-    "rom_url": "/worksheets/main/Track_&_Field_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Track & Field (Usa Europe)",
+    "source": "https://files.vyper.group/Track_&_Field_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Track Meet (Usa Europe)",
-    "rom_url": "/worksheets/main/Track_Meet_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Track Meet (Usa Europe)",
+    "source": "https://files.vyper.group/Track_Meet_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Trax (Usa Europe)",
-    "rom_url": "/worksheets/main/Trax_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Trax (Usa Europe)",
+    "source": "https://files.vyper.group/Trax_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "True Lies (Usa Europe)",
-    "rom_url": "/worksheets/main/True_Lies_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "True Lies (Usa Europe)",
+    "source": "https://files.vyper.group/True_Lies_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Tumble Pop (Usa Europe)",
-    "rom_url": "/worksheets/main/Tumble_Pop_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Tumble Pop (Usa Europe)",
+    "source": "https://files.vyper.group/Tumble_Pop_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Turn And Burn - The F-14 Dogfight Simulator (Usa)",
-    "rom_url": "/worksheets/main/Turn_and_Burn_-_The_F-14_Dogfight_Simulator_(USA).7z",
-    "core": "gambatte"
+    "title": "Turn And Burn - The F-14 Dogfight Simulator (Usa)",
+    "source": "https://files.vyper.group/Turn_and_Burn_-_The_F-14_Dogfight_Simulator_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Turok - Battle Of The Bionosaurs (Usa Europe) (Enfrdees)",
-    "rom_url": "/worksheets/main/Turok_-_Battle_of_the_Bionosaurs_(USA_Europe)_(EnFrDeEs).7z",
-    "core": "gambatte"
+    "title": "Turok - Battle Of The Bionosaurs (Usa Europe) (Enfrdees)",
+    "source": "https://files.vyper.group/Turok_-_Battle_of_the_Bionosaurs_(USA_Europe)_(EnFrDeEs).html",
+    "type": "html"
   },
   {
-    "name": "Turrican (Usa Europe)",
-    "rom_url": "/worksheets/main/Turrican_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Turrican (Usa Europe)",
+    "source": "https://files.vyper.group/Turrican_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Ultima - Runes Of Virtue (Usa)",
-    "rom_url": "/worksheets/main/Ultima_-_Runes_of_Virtue_(USA).7z",
-    "core": "gambatte"
+    "title": "Ultima - Runes Of Virtue (Usa)",
+    "source": "https://files.vyper.group/Ultima_-_Runes_of_Virtue_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Ultima - Runes Of Virtue Ii (Usa)",
-    "rom_url": "/worksheets/main/Ultima_-_Runes_of_Virtue_II_(USA).7z",
-    "core": "gambatte"
+    "title": "Ultima - Runes Of Virtue Ii (Usa)",
+    "source": "https://files.vyper.group/Ultima_-_Runes_of_Virtue_II_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Ultra Golf (Usa)",
-    "rom_url": "/worksheets/main/Ultra_Golf_(USA).7z",
-    "core": "gambatte"
+    "title": "Ultra Golf (Usa)",
+    "source": "https://files.vyper.group/Ultra_Golf_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Universal Soldier (Usa Europe)",
-    "rom_url": "/worksheets/main/Universal_Soldier_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Universal Soldier (Usa Europe)",
+    "source": "https://files.vyper.group/Universal_Soldier_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Urban Strike (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Urban_Strike_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Urban Strike (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Urban_Strike_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Vegas Stakes (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Vegas_Stakes_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Vegas Stakes (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Vegas_Stakes_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Wario Blast Featuring Bomberman! (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Wario_Blast_Featuring_Bomberman!_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Wario Blast Featuring Bomberman! (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Wario_Blast_Featuring_Bomberman!_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Wario Land Ii (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Wario_Land_II_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Wario Land Ii (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Wario_Land_II_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Wave Race (Usa Europe)",
-    "rom_url": "/worksheets/main/Wave_Race_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Wave Race (Usa Europe)",
+    "source": "https://files.vyper.group/Wave_Race_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Waynes World (Usa)",
-    "rom_url": "/worksheets/main/Waynes_World_(USA).7z",
-    "core": "gambatte"
+    "title": "Waynes World (Usa)",
+    "source": "https://files.vyper.group/Waynes_World_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Wcw - The Main Event (Usa Europe)",
-    "rom_url": "/worksheets/main/WCW_-_The_Main_Event_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Wcw - The Main Event (Usa Europe)",
+    "source": "https://files.vyper.group/WCW_-_The_Main_Event_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Were Back! - A Dinosaurs Story (Usa Europe)",
-    "rom_url": "/worksheets/main/Were_Back!_-_A_Dinosaurs_Story_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Were Back! - A Dinosaurs Story (Usa Europe)",
+    "source": "https://files.vyper.group/Were_Back!_-_A_Dinosaurs_Story_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Wheel Of Fortune (Usa)",
-    "rom_url": "/worksheets/main/Wheel_of_Fortune_(USA).7z",
-    "core": "gambatte"
+    "title": "Wheel Of Fortune (Usa)",
+    "source": "https://files.vyper.group/Wheel_of_Fortune_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Who Framed Roger Rabbit (Usa)",
-    "rom_url": "/worksheets/main/Who_Framed_Roger_Rabbit_(USA).7z",
-    "core": "gambatte"
+    "title": "Who Framed Roger Rabbit (Usa)",
+    "source": "https://files.vyper.group/Who_Framed_Roger_Rabbit_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Wild Snake (Usa) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/Wild_Snake_(USA)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "Wild Snake (Usa) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/Wild_Snake_(USA)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Winter Olympic Games (Usa)",
-    "rom_url": "/worksheets/main/Winter_Olympic_Games_(USA).7z",
-    "core": "gambatte"
+    "title": "Winter Olympic Games (Usa)",
+    "source": "https://files.vyper.group/Winter_Olympic_Games_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Wizards & Warriors X - The Fortress Of Fear (Usa Europe)",
-    "rom_url": "/worksheets/main/Wizards_&_Warriors_X_-_The_Fortress_of_Fear_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Wizards & Warriors X - The Fortress Of Fear (Usa Europe)",
+    "source": "https://files.vyper.group/Wizards_&_Warriors_X_-_The_Fortress_of_Fear_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Wordtris (Usa)",
-    "rom_url": "/worksheets/main/Wordtris_(USA).7z",
-    "core": "gambatte"
+    "title": "Wordtris (Usa)",
+    "source": "https://files.vyper.group/Wordtris_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Wordzap (Usa)",
-    "rom_url": "/worksheets/main/WordZap_(USA).7z",
-    "core": "gambatte"
+    "title": "Wordzap (Usa)",
+    "source": "https://files.vyper.group/WordZap_(USA).html",
+    "type": "html"
   },
   {
-    "name": "World Bowling (Usa)",
-    "rom_url": "/worksheets/main/World_Bowling_(USA).7z",
-    "core": "gambatte"
+    "title": "World Bowling (Usa)",
+    "source": "https://files.vyper.group/World_Bowling_(USA).html",
+    "type": "html"
   },
   {
-    "name": "World Circuit Series (Usa)",
-    "rom_url": "/worksheets/main/World_Circuit_Series_(USA).7z",
-    "core": "gambatte"
+    "title": "World Circuit Series (Usa)",
+    "source": "https://files.vyper.group/World_Circuit_Series_(USA).html",
+    "type": "html"
   },
   {
-    "name": "World Cup 98 (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/World_Cup_98_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "World Cup 98 (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/World_Cup_98_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "World Cup Usa 94 (Europe) (Enfrdeesitnlptsv)",
-    "rom_url": "/worksheets/main/World_Cup_USA_94_(Europe)_(EnFrDeEsItNlPtSv).7z",
-    "core": "gambatte"
+    "title": "World Cup Usa 94 (Europe) (Enfrdeesitnlptsv)",
+    "source": "https://files.vyper.group/World_Cup_USA_94_(Europe)_(EnFrDeEsItNlPtSv).html",
+    "type": "html"
   },
   {
-    "name": "World Cup Usa 94 (Japan) (Enfrdeesitnlptsv)",
-    "rom_url": "/worksheets/main/World_Cup_USA_94_(Japan)_(EnFrDeEsItNlPtSv).7z",
-    "core": "gambatte"
+    "title": "World Cup Usa 94 (Japan) (Enfrdeesitnlptsv)",
+    "source": "https://files.vyper.group/World_Cup_USA_94_(Japan)_(EnFrDeEsItNlPtSv).html",
+    "type": "html"
   },
   {
-    "name": "World Heroes 2 Jet (Usa Europe) (Sgb Enhanced)",
-    "rom_url": "/worksheets/main/World_Heroes_2_Jet_(USA_Europe)_(SGB_Enhanced).7z",
-    "core": "gambatte"
+    "title": "World Heroes 2 Jet (Usa Europe) (Sgb Enhanced)",
+    "source": "https://files.vyper.group/World_Heroes_2_Jet_(USA_Europe)_(SGB_Enhanced).html",
+    "type": "html"
   },
   {
-    "name": "Wwf King Of The Ring (Usa Europe)",
-    "rom_url": "/worksheets/main/WWF_King_of_the_Ring_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Wwf King Of The Ring (Usa Europe)",
+    "source": "https://files.vyper.group/WWF_King_of_the_Ring_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Wwf Raw (Usa Europe)",
-    "rom_url": "/worksheets/main/WWF_Raw_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Wwf Raw (Usa Europe)",
+    "source": "https://files.vyper.group/WWF_Raw_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Wwf Superstars (Usa Europe)",
-    "rom_url": "/worksheets/main/WWF_Superstars_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Wwf Superstars (Usa Europe)",
+    "source": "https://files.vyper.group/WWF_Superstars_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Wwf Superstars 2 (Usa Europe)",
-    "rom_url": "/worksheets/main/WWF_Superstars_2_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Wwf Superstars 2 (Usa Europe)",
+    "source": "https://files.vyper.group/WWF_Superstars_2_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Wwf War Zone (Usa Europe)",
-    "rom_url": "/worksheets/main/WWF_War_Zone_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Wwf War Zone (Usa Europe)",
+    "source": "https://files.vyper.group/WWF_War_Zone_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Xenon 2 (Usa Europe)",
-    "rom_url": "/worksheets/main/Xenon_2_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Xenon 2 (Usa Europe)",
+    "source": "https://files.vyper.group/Xenon_2_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Year After The (Usa) (Aftermarket) (Homebrew)",
-    "rom_url": "/worksheets/main/Year_After_The_(USA)_(Aftermarket)_(Homebrew).7z",
-    "core": "gambatte"
+    "title": "Year After The (Usa) (Aftermarket) (Homebrew)",
+    "source": "https://files.vyper.group/Year_After_The_(USA)_(Aftermarket)_(Homebrew).html",
+    "type": "html"
   },
   {
-    "name": "Yogi Bears Gold Rush (Usa)",
-    "rom_url": "/worksheets/main/Yogi_Bears_Gold_Rush_(USA).7z",
-    "core": "gambatte"
+    "title": "Yogi Bears Gold Rush (Usa)",
+    "source": "https://files.vyper.group/Yogi_Bears_Gold_Rush_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Yoshis Cookie (Usa Europe)",
-    "rom_url": "/worksheets/main/Yoshis_Cookie_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Yoshis Cookie (Usa Europe)",
+    "source": "https://files.vyper.group/Yoshis_Cookie_(USA_Europe).html",
+    "type": "html"
   },
   {
-    "name": "Yoshi (Usa)",
-    "rom_url": "/worksheets/main/Yoshi_(USA).7z",
-    "core": "gambatte"
+    "title": "Yoshi (Usa)",
+    "source": "https://files.vyper.group/Yoshi_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Zen - Intergalactic Ninja (Usa)",
-    "rom_url": "/worksheets/main/Zen_-_Intergalactic_Ninja_(USA).7z",
-    "core": "gambatte"
+    "title": "Zen - Intergalactic Ninja (Usa)",
+    "source": "https://files.vyper.group/Zen_-_Intergalactic_Ninja_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Zool - Ninja Of The Nth Dimension (Usa)",
-    "rom_url": "/worksheets/main/Zool_-_Ninja_of_the_Nth_Dimension_(USA).7z",
-    "core": "gambatte"
+    "title": "Zool - Ninja Of The Nth Dimension (Usa)",
+    "source": "https://files.vyper.group/Zool_-_Ninja_of_the_Nth_Dimension_(USA).html",
+    "type": "html"
   },
   {
-    "name": "Zoop (Usa Europe)",
-    "rom_url": "/worksheets/main/Zoop_(USA_Europe).7z",
-    "core": "gambatte"
+    "title": "Zoop (Usa Europe)",
+    "source": "https://files.vyper.group/Zoop_(USA_Europe).html",
+    "type": "html"
   }
 ]
-}

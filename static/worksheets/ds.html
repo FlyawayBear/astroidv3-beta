@@ -20,12 +20,12 @@ function work(value) {
     }
     if (url.endsWith(".swf")) {
       sessionStorage.setItem("uvURL", __uv$config.encodeUrl(url));
-      location.href = "flash-loader.html";
-      console.log("Redirection to flash-loader successful");
+      location.href = "loader.html";
+      console.log("Redirection to Testloader successful");
     } else {
       sessionStorage.setItem("uvURL", __uv$config.encodeUrl(url));
-      location.href = "html-loader.html";
-      console.log("Redirection to html-loader successful");
+      location.href = "loader.html";
+      console.log("Redirection to Worksheet successful");
     }
   })
   .catch((error) => {

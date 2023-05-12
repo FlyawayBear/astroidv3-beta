@@ -1,3564 +1,3562 @@
-{
-  "Nintendo Entertainment System": [
+[
   {
-    "name": "10-Yard Fight",
-    "rom_url": "/worksheets/main/10-Yard_Fight.nes.zip",
-    "core": "fceumm"
+    "title": "10-Yard Fight",
+    "source": "https://files.vyper.group/10-Yard_Fight.nes.html",
+    "type": "html"
   },
   {
-    "name": "100 Man $ Kid - Maboroshi No Teiou Hen (Japan)",
-    "rom_url": "/worksheets/main/100_Man_$_Kid_-_Maboroshi_no_Teiou_Hen_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "100 Man $ Kid - Maboroshi No Teiou Hen (Japan)",
+    "source": "https://files.vyper.group/100_Man_$_Kid_-_Maboroshi_no_Teiou_Hen_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "110-In-1",
-    "rom_url": "/worksheets/main/110-in-1.nes.zip",
-    "core": "fceumm"
+    "title": "110-In-1",
+    "source": "https://files.vyper.group/110-in-1.nes.html",
+    "type": "html"
   },
   {
-    "name": "1942",
-    "rom_url": "/worksheets/main/1942.nes.zip",
-    "core": "fceumm"
+    "title": "1942",
+    "source": "https://files.vyper.group/1942.nes.html",
+    "type": "html"
   },
   {
-    "name": "1943 - The Battle Of Midway",
-    "rom_url": "/worksheets/main/1943_-_The_Battle_of_Midway.nes.zip",
-    "core": "fceumm"
+    "title": "1943 - The Battle Of Midway",
+    "source": "https://files.vyper.group/1943_-_The_Battle_of_Midway.nes.html",
+    "type": "html"
   },
   {
-    "name": "1999 - Hore, Mitakotoka! Seikimatsu (Japan)",
-    "rom_url": "/worksheets/main/1999_-_Hore,_Mitakotoka!_Seikimatsu_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "1999 - Hore, Mitakotoka! Seikimatsu (Japan)",
+    "source": "https://files.vyper.group/1999_-_Hore,_Mitakotoka!_Seikimatsu_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "3-D Battles Of World Runner",
-    "rom_url": "/worksheets/main/3-D_Battles_of_World_Runner.nes.zip",
-    "core": "fceumm"
+    "title": "3-D Battles Of World Runner",
+    "source": "https://files.vyper.group/3-D_Battles_of_World_Runner.nes.html",
+    "type": "html"
   },
   {
-    "name": "720",
-    "rom_url": "/worksheets/main/720.nes.zip",
-    "core": "fceumm"
+    "title": "720",
+    "source": "https://files.vyper.group/720.nes.html",
+    "type": "html"
   },
   {
-    "name": "8 Eyes",
-    "rom_url": "/worksheets/main/8_Eyes.nes.zip",
-    "core": "fceumm"
+    "title": "8 Eyes",
+    "source": "https://files.vyper.group/8_Eyes.nes.html",
+    "type": "html"
   },
   {
-    "name": "Aa Yakyuu Jinsei Icchokusen (Japan)",
-    "rom_url": "/worksheets/main/Aa_Yakyuu_Jinsei_Icchokusen_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Aa Yakyuu Jinsei Icchokusen (Japan)",
+    "source": "https://files.vyper.group/Aa_Yakyuu_Jinsei_Icchokusen_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Abadox",
-    "rom_url": "/worksheets/main/Abadox.nes.zip",
-    "core": "fceumm"
+    "title": "Abadox",
+    "source": "https://files.vyper.group/Abadox.nes.html",
+    "type": "html"
   },
   {
-    "name": "Aces - Iron Eagle 3",
-    "rom_url": "/worksheets/main/Aces_-_Iron_Eagle_3.nes.zip",
-    "core": "fceumm"
+    "title": "Aces - Iron Eagle 3",
+    "source": "https://files.vyper.group/Aces_-_Iron_Eagle_3.nes.html",
+    "type": "html"
   },
   {
-    "name": "Action 52",
-    "rom_url": "/worksheets/main/Action_52.nes.zip",
-    "core": "fceumm"
+    "title": "Action 52",
+    "source": "https://files.vyper.group/Action_52.nes.html",
+    "type": "html"
   },
   {
-    "name": "Action In New York",
-    "rom_url": "/worksheets/main/Action_in_New_York.nes.zip",
-    "core": "fceumm"
+    "title": "Action In New York",
+    "source": "https://files.vyper.group/Action_in_New_York.nes.html",
+    "type": "html"
   },
   {
-    "name": "Ad&D Dragon Strike",
-    "rom_url": "/worksheets/main/AD&D_Dragon_Strike.nes.zip",
-    "core": "fceumm"
+    "title": "Ad&D Dragon Strike",
+    "source": "https://files.vyper.group/AD&D_Dragon_Strike.nes.html",
+    "type": "html"
   },
   {
-    "name": "Ad&D Heroes Of The Lance",
-    "rom_url": "/worksheets/main/AD&D_Heroes_of_the_Lance.nes.zip",
-    "core": "fceumm"
+    "title": "Ad&D Heroes Of The Lance",
+    "source": "https://files.vyper.group/AD&D_Heroes_of_the_Lance.nes.html",
+    "type": "html"
   },
   {
-    "name": "Ad&D Hillsfar",
-    "rom_url": "/worksheets/main/AD&D_Hillsfar.nes.zip",
-    "core": "fceumm"
+    "title": "Ad&D Hillsfar",
+    "source": "https://files.vyper.group/AD&D_Hillsfar.nes.html",
+    "type": "html"
   },
   {
-    "name": "Addams Family - Pugsleys Scavenger Hunt",
-    "rom_url": "/worksheets/main/Addams_Family_-_Pugsleys_Scavenger_Hunt.nes.zip",
-    "core": "fceumm"
+    "title": "Addams Family - Pugsleys Scavenger Hunt",
+    "source": "https://files.vyper.group/Addams_Family_-_Pugsleys_Scavenger_Hunt.nes.html",
+    "type": "html"
   },
   {
-    "name": "Advanced Dungeons & Dragons - Dragon Strike",
-    "rom_url": "/worksheets/main/Advanced_Dungeons_&_Dragons_-_Dragon_Strike.nes.zip",
-    "core": "fceumm"
+    "title": "Advanced Dungeons & Dragons - Dragon Strike",
+    "source": "https://files.vyper.group/Advanced_Dungeons_&_Dragons_-_Dragon_Strike.nes.html",
+    "type": "html"
   },
   {
-    "name": "Advanced Dungeons & Dragons - Heroes Of The Lance",
-    "rom_url": "/worksheets/main/Advanced_Dungeons_&_Dragons_-_Heroes_of_the_Lance.nes.zip",
-    "core": "fceumm"
+    "title": "Advanced Dungeons & Dragons - Heroes Of The Lance",
+    "source": "https://files.vyper.group/Advanced_Dungeons_&_Dragons_-_Heroes_of_the_Lance.nes.html",
+    "type": "html"
   },
   {
-    "name": "Advanced Dungeons & Dragons - Pool Of Radiance",
-    "rom_url": "/worksheets/main/Advanced_Dungeons_&_Dragons_-_Pool_of_Radiance.nes.zip",
-    "core": "fceumm"
+    "title": "Advanced Dungeons & Dragons - Pool Of Radiance",
+    "source": "https://files.vyper.group/Advanced_Dungeons_&_Dragons_-_Pool_of_Radiance.nes.html",
+    "type": "html"
   },
   {
-    "name": "Adventures In The Magic Kingdom",
-    "rom_url": "/worksheets/main/Adventures_in_the_Magic_Kingdom.nes.zip",
-    "core": "fceumm"
+    "title": "Adventures In The Magic Kingdom",
+    "source": "https://files.vyper.group/Adventures_in_the_Magic_Kingdom.nes.html",
+    "type": "html"
   },
   {
-    "name": "Adventures Of Bayou Billy",
-    "rom_url": "/worksheets/main/Adventures_of_Bayou_Billy.nes.zip",
-    "core": "fceumm"
+    "title": "Adventures Of Bayou Billy",
+    "source": "https://files.vyper.group/Adventures_of_Bayou_Billy.nes.html",
+    "type": "html"
   },
   {
-    "name": "Adventures Of Captain Comic",
-    "rom_url": "/worksheets/main/Adventures_of_Captain_Comic.nes.zip",
-    "core": "fceumm"
+    "title": "Adventures Of Captain Comic",
+    "source": "https://files.vyper.group/Adventures_of_Captain_Comic.nes.html",
+    "type": "html"
   },
   {
-    "name": "Adventures Of Dino Riki",
-    "rom_url": "/worksheets/main/Adventures_of_Dino_Riki.nes.zip",
-    "core": "fceumm"
+    "title": "Adventures Of Dino Riki",
+    "source": "https://files.vyper.group/Adventures_of_Dino_Riki.nes.html",
+    "type": "html"
   },
   {
-    "name": "Adventures Of Lolo",
-    "rom_url": "/worksheets/main/Adventures_of_Lolo.nes.zip",
-    "core": "fceumm"
+    "title": "Adventures Of Lolo",
+    "source": "https://files.vyper.group/Adventures_of_Lolo.nes.html",
+    "type": "html"
   },
   {
-    "name": "Adventures Of Lolo 2",
-    "rom_url": "/worksheets/main/Adventures_of_Lolo_2.nes.zip",
-    "core": "fceumm"
+    "title": "Adventures Of Lolo 2",
+    "source": "https://files.vyper.group/Adventures_of_Lolo_2.nes.html",
+    "type": "html"
   },
   {
-    "name": "Adventures Of Lolo 3",
-    "rom_url": "/worksheets/main/Adventures_of_Lolo_3.nes.zip",
-    "core": "fceumm"
+    "title": "Adventures Of Lolo 3",
+    "source": "https://files.vyper.group/Adventures_of_Lolo_3.nes.html",
+    "type": "html"
   },
   {
-    "name": "Adventures Of Rad Gravity",
-    "rom_url": "/worksheets/main/Adventures_of_Rad_Gravity.nes.zip",
-    "core": "fceumm"
+    "title": "Adventures Of Rad Gravity",
+    "source": "https://files.vyper.group/Adventures_of_Rad_Gravity.nes.html",
+    "type": "html"
   },
   {
-    "name": "Adventures Of Rocky And Bullwinkle And Friends",
-    "rom_url": "/worksheets/main/Adventures_of_Rocky_and_Bullwinkle_and_Friends.nes.zip",
-    "core": "fceumm"
+    "title": "Adventures Of Rocky And Bullwinkle And Friends",
+    "source": "https://files.vyper.group/Adventures_of_Rocky_and_Bullwinkle_and_Friends.nes.html",
+    "type": "html"
   },
   {
-    "name": "Adventures Of Tom Sawyer",
-    "rom_url": "/worksheets/main/Adventures_of_Tom_Sawyer.nes.zip",
-    "core": "fceumm"
+    "title": "Adventures Of Tom Sawyer",
+    "source": "https://files.vyper.group/Adventures_of_Tom_Sawyer.nes.html",
+    "type": "html"
   },
   {
-    "name": "Adventure Island",
-    "rom_url": "/worksheets/main/Adventure_Island.nes.zip",
-    "core": "fceumm"
+    "title": "Adventure Island",
+    "source": "https://files.vyper.group/Adventure_Island.nes.html",
+    "type": "html"
   },
   {
-    "name": "Adventure Island Ii",
-    "rom_url": "/worksheets/main/Adventure_Island_II.nes.zip",
-    "core": "fceumm"
+    "title": "Adventure Island Ii",
+    "source": "https://files.vyper.group/Adventure_Island_II.nes.html",
+    "type": "html"
   },
   {
-    "name": "Adventure Island Iii",
-    "rom_url": "/worksheets/main/Adventure_Island_III.nes.zip",
-    "core": "fceumm"
+    "title": "Adventure Island Iii",
+    "source": "https://files.vyper.group/Adventure_Island_III.nes.html",
+    "type": "html"
   },
   {
-    "name": "Afterburner",
-    "rom_url": "/worksheets/main/Afterburner.nes.zip",
-    "core": "fceumm"
+    "title": "Afterburner",
+    "source": "https://files.vyper.group/Afterburner.nes.html",
+    "type": "html"
   },
   {
-    "name": "Afterburner Ii",
-    "rom_url": "/worksheets/main/Afterburner_II.nes.zip",
-    "core": "fceumm"
+    "title": "Afterburner Ii",
+    "source": "https://files.vyper.group/Afterburner_II.nes.html",
+    "type": "html"
   },
   {
-    "name": "Aigiina No Yogen - From The Legend Of Balubalouk",
-    "rom_url": "/worksheets/main/Aigiina_no_Yogen_-_From_The_Legend_of_Balubalouk.nes.zip",
-    "core": "fceumm"
+    "title": "Aigiina No Yogen - From The Legend Of Balubalouk",
+    "source": "https://files.vyper.group/Aigiina_no_Yogen_-_From_The_Legend_of_Balubalouk.nes.html",
+    "type": "html"
   },
   {
-    "name": "Ai Sensei No Oshiete - Watashi No Hoshi (Japan)",
-    "rom_url": "/worksheets/main/Ai_Sensei_no_Oshiete_-_Watashi_no_Hoshi_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Ai Sensei No Oshiete - Watashi No Hoshi (Japan)",
+    "source": "https://files.vyper.group/Ai_Sensei_no_Oshiete_-_Watashi_no_Hoshi_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Akumajou Densetsu",
-    "rom_url": "/worksheets/main/Akumajou_Densetsu.nes.zip",
-    "core": "fceumm"
+    "title": "Akumajou Densetsu",
+    "source": "https://files.vyper.group/Akumajou_Densetsu.nes.html",
+    "type": "html"
   },
   {
-    "name": "Akumajou Dracula",
-    "rom_url": "/worksheets/main/Akumajou_Dracula.nes.zip",
-    "core": "fceumm"
+    "title": "Akumajou Dracula",
+    "source": "https://files.vyper.group/Akumajou_Dracula.nes.html",
+    "type": "html"
   },
   {
-    "name": "Aladdin",
-    "rom_url": "/worksheets/main/Aladdin.nes.zip",
-    "core": "fceumm"
+    "title": "Aladdin",
+    "source": "https://files.vyper.group/Aladdin.nes.html",
+    "type": "html"
   },
   {
-    "name": "Aladdin 2",
-    "rom_url": "/worksheets/main/Aladdin_2.nes.zip",
-    "core": "fceumm"
+    "title": "Aladdin 2",
+    "source": "https://files.vyper.group/Aladdin_2.nes.html",
+    "type": "html"
   },
   {
-    "name": "Aladdin 3",
-    "rom_url": "/worksheets/main/Aladdin_3.nes.zip",
-    "core": "fceumm"
+    "title": "Aladdin 3",
+    "source": "https://files.vyper.group/Aladdin_3.nes.html",
+    "type": "html"
   },
   {
-    "name": "Alfred Chicken",
-    "rom_url": "/worksheets/main/Alfred_Chicken.nes.zip",
-    "core": "fceumm"
+    "title": "Alfred Chicken",
+    "source": "https://files.vyper.group/Alfred_Chicken.nes.html",
+    "type": "html"
   },
   {
-    "name": "Alien 3",
-    "rom_url": "/worksheets/main/Alien_3.nes.zip",
-    "core": "fceumm"
+    "title": "Alien 3",
+    "source": "https://files.vyper.group/Alien_3.nes.html",
+    "type": "html"
   },
   {
-    "name": "Alien Syndrome",
-    "rom_url": "/worksheets/main/Alien_Syndrome.nes.zip",
-    "core": "fceumm"
+    "title": "Alien Syndrome",
+    "source": "https://files.vyper.group/Alien_Syndrome.nes.html",
+    "type": "html"
   },
   {
-    "name": "All-Pro Basketball",
-    "rom_url": "/worksheets/main/All-Pro_Basketball.nes.zip",
-    "core": "fceumm"
+    "title": "All-Pro Basketball",
+    "source": "https://files.vyper.group/All-Pro_Basketball.nes.html",
+    "type": "html"
   },
   {
-    "name": "All-Star Softball",
-    "rom_url": "/worksheets/main/All-Star_Softball.nes.zip",
-    "core": "fceumm"
+    "title": "All-Star Softball",
+    "source": "https://files.vyper.group/All-Star_Softball.nes.html",
+    "type": "html"
   },
   {
-    "name": "Alpha Mission",
-    "rom_url": "/worksheets/main/Alpha_Mission.nes.zip",
-    "core": "fceumm"
+    "title": "Alpha Mission",
+    "source": "https://files.vyper.group/Alpha_Mission.nes.html",
+    "type": "html"
   },
   {
-    "name": "Al Unser Jr. Turbo Racing",
-    "rom_url": "/worksheets/main/Al_Unser_Jr._Turbo_Racing.nes.zip",
-    "core": "fceumm"
+    "title": "Al Unser Jr. Turbo Racing",
+    "source": "https://files.vyper.group/Al_Unser_Jr._Turbo_Racing.nes.html",
+    "type": "html"
   },
   {
-    "name": "Amagon",
-    "rom_url": "/worksheets/main/Amagon.nes.zip",
-    "core": "fceumm"
+    "title": "Amagon",
+    "source": "https://files.vyper.group/Amagon.nes.html",
+    "type": "html"
   },
   {
-    "name": "American Dream (Japan)",
-    "rom_url": "/worksheets/main/American_Dream_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "American Dream (Japan)",
+    "source": "https://files.vyper.group/American_Dream_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "American Gladiators",
-    "rom_url": "/worksheets/main/American_Gladiators.nes.zip",
-    "core": "fceumm"
+    "title": "American Gladiators",
+    "source": "https://files.vyper.group/American_Gladiators.nes.html",
+    "type": "html"
   },
   {
-    "name": "America Daitouryou Senkyo (Japan)",
-    "rom_url": "/worksheets/main/America_Daitouryou_Senkyo_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "America Daitouryou Senkyo (Japan)",
+    "source": "https://files.vyper.group/America_Daitouryou_Senkyo_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "America Oudan Ultra Quiz - Shijou Saidai No Tatakai (Japan)",
-    "rom_url": "/worksheets/main/America_Oudan_Ultra_Quiz_-_Shijou_Saidai_no_Tatakai_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "America Oudan Ultra Quiz - Shijou Saidai No Tatakai (Japan)",
+    "source": "https://files.vyper.group/America_Oudan_Ultra_Quiz_-_Shijou_Saidai_no_Tatakai_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Ankoku Shinwa - Yamato Takeru Densetsu (Japan)",
-    "rom_url": "/worksheets/main/Ankoku_Shinwa_-_Yamato_Takeru_Densetsu_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Ankoku Shinwa - Yamato Takeru Densetsu (Japan)",
+    "source": "https://files.vyper.group/Ankoku_Shinwa_-_Yamato_Takeru_Densetsu_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Antarctic Adventures",
-    "rom_url": "/worksheets/main/Antarctic_Adventures.nes.zip",
-    "core": "fceumm"
+    "title": "Antarctic Adventures",
+    "source": "https://files.vyper.group/Antarctic_Adventures.nes.html",
+    "type": "html"
   },
   {
-    "name": "Anticipation",
-    "rom_url": "/worksheets/main/Anticipation.nes.zip",
-    "core": "fceumm"
+    "title": "Anticipation",
+    "source": "https://files.vyper.group/Anticipation.nes.html",
+    "type": "html"
   },
   {
-    "name": "Aoki Ookami To Shiroki Mejika - Genchou Hishi (Japan)",
-    "rom_url": "/worksheets/main/Aoki_Ookami_to_Shiroki_Mejika_-_Genchou_Hishi_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Aoki Ookami To Shiroki Mejika - Genchou Hishi (Japan)",
+    "source": "https://files.vyper.group/Aoki_Ookami_to_Shiroki_Mejika_-_Genchou_Hishi_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Arabian Dream Sherazaado",
-    "rom_url": "/worksheets/main/Arabian_Dream_Sherazaado.nes.zip",
-    "core": "fceumm"
+    "title": "Arabian Dream Sherazaado",
+    "source": "https://files.vyper.group/Arabian_Dream_Sherazaado.nes.html",
+    "type": "html"
   },
   {
-    "name": "Archon",
-    "rom_url": "/worksheets/main/Archon.nes.zip",
-    "core": "fceumm"
+    "title": "Archon",
+    "source": "https://files.vyper.group/Archon.nes.html",
+    "type": "html"
   },
   {
-    "name": "Arch Rivals",
-    "rom_url": "/worksheets/main/Arch_Rivals.nes.zip",
-    "core": "fceumm"
+    "title": "Arch Rivals",
+    "source": "https://files.vyper.group/Arch_Rivals.nes.html",
+    "type": "html"
   },
   {
-    "name": "Arctic",
-    "rom_url": "/worksheets/main/Arctic.nes.zip",
-    "core": "fceumm"
+    "title": "Arctic",
+    "source": "https://files.vyper.group/Arctic.nes.html",
+    "type": "html"
   },
   {
-    "name": "Argos No Senshi (Japan)",
-    "rom_url": "/worksheets/main/Argos_no_Senshi_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Argos No Senshi (Japan)",
+    "source": "https://files.vyper.group/Argos_no_Senshi_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Argus",
-    "rom_url": "/worksheets/main/Argus.nes.zip",
-    "core": "fceumm"
+    "title": "Argus",
+    "source": "https://files.vyper.group/Argus.nes.html",
+    "type": "html"
   },
   {
-    "name": "Arkanoid",
-    "rom_url": "/worksheets/main/Arkanoid.nes.zip",
-    "core": "fceumm"
+    "title": "Arkanoid",
+    "source": "https://files.vyper.group/Arkanoid.nes.html",
+    "type": "html"
   },
   {
-    "name": "Arkanoid 2",
-    "rom_url": "/worksheets/main/Arkanoid_2.nes.zip",
-    "core": "fceumm"
+    "title": "Arkanoid 2",
+    "source": "https://files.vyper.group/Arkanoid_2.nes.html",
+    "type": "html"
   },
   {
-    "name": "Arkistas Ring",
-    "rom_url": "/worksheets/main/Arkistas_Ring.nes.zip",
-    "core": "fceumm"
+    "title": "Arkistas Ring",
+    "source": "https://files.vyper.group/Arkistas_Ring.nes.html",
+    "type": "html"
   },
   {
-    "name": "Armadillo",
-    "rom_url": "/worksheets/main/Armadillo.nes.zip",
-    "core": "fceumm"
+    "title": "Armadillo",
+    "source": "https://files.vyper.group/Armadillo.nes.html",
+    "type": "html"
   },
   {
-    "name": "Artelius",
-    "rom_url": "/worksheets/main/Artelius.nes.zip",
-    "core": "fceumm"
+    "title": "Artelius",
+    "source": "https://files.vyper.group/Artelius.nes.html",
+    "type": "html"
   },
   {
-    "name": "Aso - Armored Scrum Object",
-    "rom_url": "/worksheets/main/ASO_-_Armored_Scrum_Object.nes.zip",
-    "core": "fceumm"
+    "title": "Aso - Armored Scrum Object",
+    "source": "https://files.vyper.group/ASO_-_Armored_Scrum_Object.nes.html",
+    "type": "html"
   },
   {
-    "name": "Asterix",
-    "rom_url": "/worksheets/main/Asterix.nes.zip",
-    "core": "fceumm"
+    "title": "Asterix",
+    "source": "https://files.vyper.group/Asterix.nes.html",
+    "type": "html"
   },
   {
-    "name": "Astro Fang - Super Machine",
-    "rom_url": "/worksheets/main/Astro_Fang_-_Super_Machine.nes.zip",
-    "core": "fceumm"
+    "title": "Astro Fang - Super Machine",
+    "source": "https://files.vyper.group/Astro_Fang_-_Super_Machine.nes.html",
+    "type": "html"
   },
   {
-    "name": "Astro Robo",
-    "rom_url": "/worksheets/main/Astro_Robo.nes.zip",
-    "core": "fceumm"
+    "title": "Astro Robo",
+    "source": "https://files.vyper.group/Astro_Robo.nes.html",
+    "type": "html"
   },
   {
-    "name": "Astro Robo Sasa",
-    "rom_url": "/worksheets/main/Astro_Robo_Sasa.nes.zip",
-    "core": "fceumm"
+    "title": "Astro Robo Sasa",
+    "source": "https://files.vyper.group/Astro_Robo_Sasa.nes.html",
+    "type": "html"
   },
   {
-    "name": "Astyanax",
-    "rom_url": "/worksheets/main/Astyanax.nes.zip",
-    "core": "fceumm"
+    "title": "Astyanax",
+    "source": "https://files.vyper.group/Astyanax.nes.html",
+    "type": "html"
   },
   {
-    "name": "Athena",
-    "rom_url": "/worksheets/main/Athena.nes.zip",
-    "core": "fceumm"
+    "title": "Athena",
+    "source": "https://files.vyper.group/Athena.nes.html",
+    "type": "html"
   },
   {
-    "name": "Athletic World",
-    "rom_url": "/worksheets/main/Athletic_World.nes.zip",
-    "core": "fceumm"
+    "title": "Athletic World",
+    "source": "https://files.vyper.group/Athletic_World.nes.html",
+    "type": "html"
   },
   {
-    "name": "Atlantis No Nazo",
-    "rom_url": "/worksheets/main/Atlantis_no_Nazo.nes.zip",
-    "core": "fceumm"
+    "title": "Atlantis No Nazo",
+    "source": "https://files.vyper.group/Atlantis_no_Nazo.nes.html",
+    "type": "html"
   },
   {
-    "name": "Attack Animal Gakuen (Japan)",
-    "rom_url": "/worksheets/main/Attack_Animal_Gakuen_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Attack Animal Gakuen (Japan)",
+    "source": "https://files.vyper.group/Attack_Animal_Gakuen_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Attack Of The Killer Tomatoes",
-    "rom_url": "/worksheets/main/Attack_of_the_Killer_Tomatoes.nes.zip",
-    "core": "fceumm"
+    "title": "Attack Of The Killer Tomatoes",
+    "source": "https://files.vyper.group/Attack_of_the_Killer_Tomatoes.nes.html",
+    "type": "html"
   },
   {
-    "name": "Aussie Rules Footy",
-    "rom_url": "/worksheets/main/Aussie_Rules_Footy.nes.zip",
-    "core": "fceumm"
+    "title": "Aussie Rules Footy",
+    "source": "https://files.vyper.group/Aussie_Rules_Footy.nes.html",
+    "type": "html"
   },
   {
-    "name": "A Boy And His Blob",
-    "rom_url": "/worksheets/main/A_Boy_and_His_Blob.nes.zip",
-    "core": "fceumm"
+    "title": "A Boy And His Blob",
+    "source": "https://files.vyper.group/A_Boy_and_His_Blob.nes.html",
+    "type": "html"
   },
   {
-    "name": "A Ressha De Ikou (Japan)",
-    "rom_url": "/worksheets/main/A_Ressha_de_Ikou_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "A Ressha De Ikou (Japan)",
+    "source": "https://files.vyper.group/A_Ressha_de_Ikou_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "B-Wings",
-    "rom_url": "/worksheets/main/B-Wings.nes.zip",
-    "core": "fceumm"
+    "title": "B-Wings",
+    "source": "https://files.vyper.group/B-Wings.nes.html",
+    "type": "html"
   },
   {
-    "name": "Babel No Tou",
-    "rom_url": "/worksheets/main/Babel_no_Tou.nes.zip",
-    "core": "fceumm"
+    "title": "Babel No Tou",
+    "source": "https://files.vyper.group/Babel_no_Tou.nes.html",
+    "type": "html"
   },
   {
-    "name": "Baby Boomer",
-    "rom_url": "/worksheets/main/Baby_Boomer.nes.zip",
-    "core": "fceumm"
+    "title": "Baby Boomer",
+    "source": "https://files.vyper.group/Baby_Boomer.nes.html",
+    "type": "html"
   },
   {
-    "name": "Baby Boomer - Copy",
-    "rom_url": "/worksheets/main/Baby_Boomer_-_Copy.nes.zip",
-    "core": "fceumm"
+    "title": "Baby Boomer - Copy",
+    "source": "https://files.vyper.group/Baby_Boomer_-_Copy.nes.html",
+    "type": "html"
   },
   {
-    "name": "Back To The Future",
-    "rom_url": "/worksheets/main/Back_to_the_Future.nes.zip",
-    "core": "fceumm"
+    "title": "Back To The Future",
+    "source": "https://files.vyper.group/Back_to_the_Future.nes.html",
+    "type": "html"
   },
   {
-    "name": "Back To The Future 2 & 3",
-    "rom_url": "/worksheets/main/Back_to_the_Future_2_&_3.nes.zip",
-    "core": "fceumm"
+    "title": "Back To The Future 2 & 3",
+    "source": "https://files.vyper.group/Back_to_the_Future_2_&_3.nes.html",
+    "type": "html"
   },
   {
-    "name": "Bad Dudes",
-    "rom_url": "/worksheets/main/Bad_Dudes.nes.zip",
-    "core": "fceumm"
+    "title": "Bad Dudes",
+    "source": "https://files.vyper.group/Bad_Dudes.nes.html",
+    "type": "html"
   },
   {
-    "name": "Bad Dudes Vs. Dragon Ninja",
-    "rom_url": "/worksheets/main/Bad_Dudes_vs._Dragon_Ninja.nes.zip",
-    "core": "fceumm"
+    "title": "Bad Dudes Vs. Dragon Ninja",
+    "source": "https://files.vyper.group/Bad_Dudes_vs._Dragon_Ninja.nes.html",
+    "type": "html"
   },
   {
-    "name": "Bad News Baseball",
-    "rom_url": "/worksheets/main/Bad_News_Baseball.nes.zip",
-    "core": "fceumm"
+    "title": "Bad News Baseball",
+    "source": "https://files.vyper.group/Bad_News_Baseball.nes.html",
+    "type": "html"
   },
   {
-    "name": "Bad Street Brawler",
-    "rom_url": "/worksheets/main/Bad_Street_Brawler.nes.zip",
-    "core": "fceumm"
+    "title": "Bad Street Brawler",
+    "source": "https://files.vyper.group/Bad_Street_Brawler.nes.html",
+    "type": "html"
   },
   {
-    "name": "Baken Hisshou Gaku - Gate In (Japan)",
-    "rom_url": "/worksheets/main/Baken_Hisshou_Gaku_-_Gate_In_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Baken Hisshou Gaku - Gate In (Japan)",
+    "source": "https://files.vyper.group/Baken_Hisshou_Gaku_-_Gate_In_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Bakushou! Star Monomane Shitennou (Japan)",
-    "rom_url": "/worksheets/main/Bakushou!_Star_Monomane_Shitennou_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Bakushou! Star Monomane Shitennou (Japan)",
+    "source": "https://files.vyper.group/Bakushou!_Star_Monomane_Shitennou_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Ballblazer",
-    "rom_url": "/worksheets/main/Ballblazer.nes.zip",
-    "core": "fceumm"
+    "title": "Ballblazer",
+    "source": "https://files.vyper.group/Ballblazer.nes.html",
+    "type": "html"
   },
   {
-    "name": "Balloon Fight",
-    "rom_url": "/worksheets/main/Balloon_Fight.nes.zip",
-    "core": "fceumm"
+    "title": "Balloon Fight",
+    "source": "https://files.vyper.group/Balloon_Fight.nes.html",
+    "type": "html"
   },
   {
-    "name": "Baltron",
-    "rom_url": "/worksheets/main/Baltron.nes.zip",
-    "core": "fceumm"
+    "title": "Baltron",
+    "source": "https://files.vyper.group/Baltron.nes.html",
+    "type": "html"
   },
   {
-    "name": "Banana",
-    "rom_url": "/worksheets/main/Banana.nes.zip",
-    "core": "fceumm"
+    "title": "Banana",
+    "source": "https://files.vyper.group/Banana.nes.html",
+    "type": "html"
   },
   {
-    "name": "Bandai Golf - Challenge Pebble Beach",
-    "rom_url": "/worksheets/main/Bandai_Golf_-_Challenge_Pebble_Beach.nes.zip",
-    "core": "fceumm"
+    "title": "Bandai Golf - Challenge Pebble Beach",
+    "source": "https://files.vyper.group/Bandai_Golf_-_Challenge_Pebble_Beach.nes.html",
+    "type": "html"
   },
   {
-    "name": "Bandit Kings Of Ancient China",
-    "rom_url": "/worksheets/main/Bandit_Kings_of_Ancient_China.nes.zip",
-    "core": "fceumm"
+    "title": "Bandit Kings Of Ancient China",
+    "source": "https://files.vyper.group/Bandit_Kings_of_Ancient_China.nes.html",
+    "type": "html"
   },
   {
-    "name": "Barbie",
-    "rom_url": "/worksheets/main/Barbie.nes.zip",
-    "core": "fceumm"
+    "title": "Barbie",
+    "source": "https://files.vyper.group/Barbie.nes.html",
+    "type": "html"
   },
   {
-    "name": "Barcode World",
-    "rom_url": "/worksheets/main/Barcode_World.nes.zip",
-    "core": "fceumm"
+    "title": "Barcode World",
+    "source": "https://files.vyper.group/Barcode_World.nes.html",
+    "type": "html"
   },
   {
-    "name": "Bards Tale",
-    "rom_url": "/worksheets/main/Bards_Tale.nes.zip",
-    "core": "fceumm"
+    "title": "Bards Tale",
+    "source": "https://files.vyper.group/Bards_Tale.nes.html",
+    "type": "html"
   },
   {
-    "name": "Bards Tale Ii - The Destiny Knight",
-    "rom_url": "/worksheets/main/Bards_Tale_II_-_The_Destiny_Knight.nes.zip",
-    "core": "fceumm"
+    "title": "Bards Tale Ii - The Destiny Knight",
+    "source": "https://files.vyper.group/Bards_Tale_II_-_The_Destiny_Knight.nes.html",
+    "type": "html"
   },
   {
-    "name": "Barker Bills Trick Shooting",
-    "rom_url": "/worksheets/main/Barker_Bills_Trick_Shooting.nes.zip",
-    "core": "fceumm"
+    "title": "Barker Bills Trick Shooting",
+    "source": "https://files.vyper.group/Barker_Bills_Trick_Shooting.nes.html",
+    "type": "html"
   },
   {
-    "name": "Baseball",
-    "rom_url": "/worksheets/main/Baseball.nes.zip",
-    "core": "fceumm"
+    "title": "Baseball",
+    "source": "https://files.vyper.group/Baseball.nes.html",
+    "type": "html"
   },
   {
-    "name": "Baseball Fighter",
-    "rom_url": "/worksheets/main/Baseball_Fighter.nes.zip",
-    "core": "fceumm"
+    "title": "Baseball Fighter",
+    "source": "https://files.vyper.group/Baseball_Fighter.nes.html",
+    "type": "html"
   },
   {
-    "name": "Baseball Simulator 1000",
-    "rom_url": "/worksheets/main/Baseball_Simulator_1000.nes.zip",
-    "core": "fceumm"
+    "title": "Baseball Simulator 1000",
+    "source": "https://files.vyper.group/Baseball_Simulator_1000.nes.html",
+    "type": "html"
   },
   {
-    "name": "Baseball Stars",
-    "rom_url": "/worksheets/main/Baseball_Stars.nes.zip",
-    "core": "fceumm"
+    "title": "Baseball Stars",
+    "source": "https://files.vyper.group/Baseball_Stars.nes.html",
+    "type": "html"
   },
   {
-    "name": "Baseball Stars 2",
-    "rom_url": "/worksheets/main/Baseball_Stars_2.nes.zip",
-    "core": "fceumm"
+    "title": "Baseball Stars 2",
+    "source": "https://files.vyper.group/Baseball_Stars_2.nes.html",
+    "type": "html"
   },
   {
-    "name": "Baseball Star - Mezase Sankanou!! (Japan)",
-    "rom_url": "/worksheets/main/Baseball_Star_-_Mezase_Sankanou!!_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Baseball Star - Mezase Sankanou!! (Japan)",
+    "source": "https://files.vyper.group/Baseball_Star_-_Mezase_Sankanou!!_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Bases Loaded",
-    "rom_url": "/worksheets/main/Bases_Loaded.nes.zip",
-    "core": "fceumm"
+    "title": "Bases Loaded",
+    "source": "https://files.vyper.group/Bases_Loaded.nes.html",
+    "type": "html"
   },
   {
-    "name": "Bases Loaded 2",
-    "rom_url": "/worksheets/main/Bases_Loaded_2.nes.zip",
-    "core": "fceumm"
+    "title": "Bases Loaded 2",
+    "source": "https://files.vyper.group/Bases_Loaded_2.nes.html",
+    "type": "html"
   },
   {
-    "name": "Bases Loaded 3",
-    "rom_url": "/worksheets/main/Bases_Loaded_3.nes.zip",
-    "core": "fceumm"
+    "title": "Bases Loaded 3",
+    "source": "https://files.vyper.group/Bases_Loaded_3.nes.html",
+    "type": "html"
   },
   {
-    "name": "Bases Loaded 4",
-    "rom_url": "/worksheets/main/Bases_Loaded_4.nes.zip",
-    "core": "fceumm"
+    "title": "Bases Loaded 4",
+    "source": "https://files.vyper.group/Bases_Loaded_4.nes.html",
+    "type": "html"
   },
   {
-    "name": "Base Wars",
-    "rom_url": "/worksheets/main/Base_Wars.nes.zip",
-    "core": "fceumm"
+    "title": "Base Wars",
+    "source": "https://files.vyper.group/Base_Wars.nes.html",
+    "type": "html"
   },
   {
-    "name": "Batman",
-    "rom_url": "/worksheets/main/Batman.nes.zip",
-    "core": "fceumm"
+    "title": "Batman",
+    "source": "https://files.vyper.group/Batman.nes.html",
+    "type": "html"
   },
   {
-    "name": "Batman - Return Of The Joker",
-    "rom_url": "/worksheets/main/Batman_-_Return_of_the_Joker.nes.zip",
-    "core": "fceumm"
+    "title": "Batman - Return Of The Joker",
+    "source": "https://files.vyper.group/Batman_-_Return_of_the_Joker.nes.html",
+    "type": "html"
   },
   {
-    "name": "Batman 3",
-    "rom_url": "/worksheets/main/Batman_3.nes.zip",
-    "core": "fceumm"
+    "title": "Batman 3",
+    "source": "https://files.vyper.group/Batman_3.nes.html",
+    "type": "html"
   },
   {
-    "name": "Batman Returns",
-    "rom_url": "/worksheets/main/Batman_Returns.nes.zip",
-    "core": "fceumm"
+    "title": "Batman Returns",
+    "source": "https://files.vyper.group/Batman_Returns.nes.html",
+    "type": "html"
   },
   {
-    "name": "Batsu & Terii (Japan)",
-    "rom_url": "/worksheets/main/Batsu_&_Terii_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Batsu & Terii (Japan)",
+    "source": "https://files.vyper.group/Batsu_&_Terii_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Battleship",
-    "rom_url": "/worksheets/main/Battleship.nes.zip",
-    "core": "fceumm"
+    "title": "Battleship",
+    "source": "https://files.vyper.group/Battleship.nes.html",
+    "type": "html"
   },
   {
-    "name": "Battletoads",
-    "rom_url": "/worksheets/main/Battletoads.nes.zip",
-    "core": "fceumm"
+    "title": "Battletoads",
+    "source": "https://files.vyper.group/Battletoads.nes.html",
+    "type": "html"
   },
   {
-    "name": "Battletoads Double Dragon",
-    "rom_url": "/worksheets/main/Battletoads_Double_Dragon.nes.zip",
-    "core": "fceumm"
+    "title": "Battletoads Double Dragon",
+    "source": "https://files.vyper.group/Battletoads_Double_Dragon.nes.html",
+    "type": "html"
   },
   {
-    "name": "Battle Baseball",
-    "rom_url": "/worksheets/main/Battle_Baseball.nes.zip",
-    "core": "fceumm"
+    "title": "Battle Baseball",
+    "source": "https://files.vyper.group/Battle_Baseball.nes.html",
+    "type": "html"
   },
   {
-    "name": "Battle Chess",
-    "rom_url": "/worksheets/main/Battle_Chess.nes.zip",
-    "core": "fceumm"
+    "title": "Battle Chess",
+    "source": "https://files.vyper.group/Battle_Chess.nes.html",
+    "type": "html"
   },
   {
-    "name": "Battle City",
-    "rom_url": "/worksheets/main/Battle_City.nes.zip",
-    "core": "fceumm"
+    "title": "Battle City",
+    "source": "https://files.vyper.group/Battle_City.nes.html",
+    "type": "html"
   },
   {
-    "name": "Battle Fleet",
-    "rom_url": "/worksheets/main/Battle_Fleet.nes.zip",
-    "core": "fceumm"
+    "title": "Battle Fleet",
+    "source": "https://files.vyper.group/Battle_Fleet.nes.html",
+    "type": "html"
   },
   {
-    "name": "Battle Formula",
-    "rom_url": "/worksheets/main/Battle_Formula.nes.zip",
-    "core": "fceumm"
+    "title": "Battle Formula",
+    "source": "https://files.vyper.group/Battle_Formula.nes.html",
+    "type": "html"
   },
   {
-    "name": "Battle Of Olympus",
-    "rom_url": "/worksheets/main/Battle_of_Olympus.nes.zip",
-    "core": "fceumm"
+    "title": "Battle Of Olympus",
+    "source": "https://files.vyper.group/Battle_of_Olympus.nes.html",
+    "type": "html"
   },
   {
-    "name": "Battle Stadium - Senbatsu Pro Yakyuu (Japan)",
-    "rom_url": "/worksheets/main/Battle_Stadium_-_Senbatsu_Pro_Yakyuu_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Battle Stadium - Senbatsu Pro Yakyuu (Japan)",
+    "source": "https://files.vyper.group/Battle_Stadium_-_Senbatsu_Pro_Yakyuu_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Battle Storm",
-    "rom_url": "/worksheets/main/Battle_Storm.nes.zip",
-    "core": "fceumm"
+    "title": "Battle Storm",
+    "source": "https://files.vyper.group/Battle_Storm.nes.html",
+    "type": "html"
   },
   {
-    "name": "Battle Tank",
-    "rom_url": "/worksheets/main/Battle_Tank.nes.zip",
-    "core": "fceumm"
+    "title": "Battle Tank",
+    "source": "https://files.vyper.group/Battle_Tank.nes.html",
+    "type": "html"
   },
   {
-    "name": "Bayou Billy",
-    "rom_url": "/worksheets/main/Bayou_Billy.nes.zip",
-    "core": "fceumm"
+    "title": "Bayou Billy",
+    "source": "https://files.vyper.group/Bayou_Billy.nes.html",
+    "type": "html"
   },
   {
-    "name": "Be-Bop-Highschool - Koukousei Gokuraku Densetsu (Japan)",
-    "rom_url": "/worksheets/main/Be-Bop-Highschool_-_Koukousei_Gokuraku_Densetsu_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Be-Bop-Highschool - Koukousei Gokuraku Densetsu (Japan)",
+    "source": "https://files.vyper.group/Be-Bop-Highschool_-_Koukousei_Gokuraku_Densetsu_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Beauty And The Beast",
-    "rom_url": "/worksheets/main/Beauty_and_the_Beast.nes.zip",
-    "core": "fceumm"
+    "title": "Beauty And The Beast",
+    "source": "https://files.vyper.group/Beauty_and_the_Beast.nes.html",
+    "type": "html"
   },
   {
-    "name": "Beetlejuice",
-    "rom_url": "/worksheets/main/Beetlejuice.nes.zip",
-    "core": "fceumm"
+    "title": "Beetlejuice",
+    "source": "https://files.vyper.group/Beetlejuice.nes.html",
+    "type": "html"
   },
   {
-    "name": "Bee 52",
-    "rom_url": "/worksheets/main/Bee_52.nes.zip",
-    "core": "fceumm"
+    "title": "Bee 52",
+    "source": "https://files.vyper.group/Bee_52.nes.html",
+    "type": "html"
   },
   {
-    "name": "Best Keiba - Derby Stallion (Japan)",
-    "rom_url": "/worksheets/main/Best_Keiba_-_Derby_Stallion_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Best Keiba - Derby Stallion (Japan)",
+    "source": "https://files.vyper.group/Best_Keiba_-_Derby_Stallion_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Best Of The Best - Championship Karate",
-    "rom_url": "/worksheets/main/Best_of_the_Best_-_Championship_Karate.nes.zip",
-    "core": "fceumm"
+    "title": "Best Of The Best - Championship Karate",
+    "source": "https://files.vyper.group/Best_of_the_Best_-_Championship_Karate.nes.html",
+    "type": "html"
   },
   {
-    "name": "Best Play Pro Yakyuu 90 (Japan)",
-    "rom_url": "/worksheets/main/Best_Play_Pro_Yakyuu_90_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Best Play Pro Yakyuu 90 (Japan)",
+    "source": "https://files.vyper.group/Best_Play_Pro_Yakyuu_90_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Best Play Pro Yakyuu Special (Japan)",
-    "rom_url": "/worksheets/main/Best_Play_Pro_Yakyuu_Special_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Best Play Pro Yakyuu Special (Japan)",
+    "source": "https://files.vyper.group/Best_Play_Pro_Yakyuu_Special_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Bible Adventures",
-    "rom_url": "/worksheets/main/Bible_Adventures.nes.zip",
-    "core": "fceumm"
+    "title": "Bible Adventures",
+    "source": "https://files.vyper.group/Bible_Adventures.nes.html",
+    "type": "html"
   },
   {
-    "name": "Bible Buffet",
-    "rom_url": "/worksheets/main/Bible_Buffet.nes.zip",
-    "core": "fceumm"
+    "title": "Bible Buffet",
+    "source": "https://files.vyper.group/Bible_Buffet.nes.html",
+    "type": "html"
   },
   {
-    "name": "Bigfoot",
-    "rom_url": "/worksheets/main/Bigfoot.nes.zip",
-    "core": "fceumm"
+    "title": "Bigfoot",
+    "source": "https://files.vyper.group/Bigfoot.nes.html",
+    "type": "html"
   },
   {
-    "name": "Big Birds Hide & Speak",
-    "rom_url": "/worksheets/main/Big_Birds_Hide_&_Speak.nes.zip",
-    "core": "fceumm"
+    "title": "Big Birds Hide & Speak",
+    "source": "https://files.vyper.group/Big_Birds_Hide_&_Speak.nes.html",
+    "type": "html"
   },
   {
-    "name": "Big Nose Freaks Out",
-    "rom_url": "/worksheets/main/Big_Nose_Freaks_Out.nes.zip",
-    "core": "fceumm"
+    "title": "Big Nose Freaks Out",
+    "source": "https://files.vyper.group/Big_Nose_Freaks_Out.nes.html",
+    "type": "html"
   },
   {
-    "name": "Big Nose The Caveman",
-    "rom_url": "/worksheets/main/Big_Nose_the_Caveman.nes.zip",
-    "core": "fceumm"
+    "title": "Big Nose The Caveman",
+    "source": "https://files.vyper.group/Big_Nose_the_Caveman.nes.html",
+    "type": "html"
   },
   {
-    "name": "Bikkuriman World - Gekitou Sei Senshi (Japan)",
-    "rom_url": "/worksheets/main/Bikkuriman_World_-_Gekitou_Sei_Senshi_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Bikkuriman World - Gekitou Sei Senshi (Japan)",
+    "source": "https://files.vyper.group/Bikkuriman_World_-_Gekitou_Sei_Senshi_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Bikkuri Nekketsu Shin Kiroku! - Harukanaru Kin Medal (Japan)",
-    "rom_url": "/worksheets/main/Bikkuri_Nekketsu_Shin_Kiroku!_-_Harukanaru_Kin_Medal_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Bikkuri Nekketsu Shin Kiroku! - Harukanaru Kin Medal (Japan)",
+    "source": "https://files.vyper.group/Bikkuri_Nekketsu_Shin_Kiroku!_-_Harukanaru_Kin_Medal_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Bill & Teds Excellent Video Game Adventure",
-    "rom_url": "/worksheets/main/Bill_&_Teds_Excellent_Video_Game_Adventure.nes.zip",
-    "core": "fceumm"
+    "title": "Bill & Teds Excellent Video Game Adventure",
+    "source": "https://files.vyper.group/Bill_&_Teds_Excellent_Video_Game_Adventure.nes.html",
+    "type": "html"
   },
   {
-    "name": "Binary Land",
-    "rom_url": "/worksheets/main/Binary_Land.nes.zip",
-    "core": "fceumm"
+    "title": "Binary Land",
+    "source": "https://files.vyper.group/Binary_Land.nes.html",
+    "type": "html"
   },
   {
-    "name": "Bionic Commando",
-    "rom_url": "/worksheets/main/Bionic_Commando.nes.zip",
-    "core": "fceumm"
+    "title": "Bionic Commando",
+    "source": "https://files.vyper.group/Bionic_Commando.nes.html",
+    "type": "html"
   },
   {
-    "name": "Bio Miracle Bokutte Upa (Japan)",
-    "rom_url": "/worksheets/main/Bio_Miracle_Bokutte_Upa_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Bio Miracle Bokutte Upa (Japan)",
+    "source": "https://files.vyper.group/Bio_Miracle_Bokutte_Upa_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Bird Week",
-    "rom_url": "/worksheets/main/Bird_Week.nes.zip",
-    "core": "fceumm"
+    "title": "Bird Week",
+    "source": "https://files.vyper.group/Bird_Week.nes.html",
+    "type": "html"
   },
   {
-    "name": "Blackjack",
-    "rom_url": "/worksheets/main/Blackjack.nes.zip",
-    "core": "fceumm"
+    "title": "Blackjack",
+    "source": "https://files.vyper.group/Blackjack.nes.html",
+    "type": "html"
   },
   {
-    "name": "Black Bass",
-    "rom_url": "/worksheets/main/Black_Bass.nes.zip",
-    "core": "fceumm"
+    "title": "Black Bass",
+    "source": "https://files.vyper.group/Black_Bass.nes.html",
+    "type": "html"
   },
   {
-    "name": "Black Bass 2",
-    "rom_url": "/worksheets/main/Black_Bass_2.nes.zip",
-    "core": "fceumm"
+    "title": "Black Bass 2",
+    "source": "https://files.vyper.group/Black_Bass_2.nes.html",
+    "type": "html"
   },
   {
-    "name": "Blades Of Steel",
-    "rom_url": "/worksheets/main/Blades_of_Steel.nes.zip",
-    "core": "fceumm"
+    "title": "Blades Of Steel",
+    "source": "https://files.vyper.group/Blades_of_Steel.nes.html",
+    "type": "html"
   },
   {
-    "name": "Blaster Master",
-    "rom_url": "/worksheets/main/Blaster_Master.nes.zip",
-    "core": "fceumm"
+    "title": "Blaster Master",
+    "source": "https://files.vyper.group/Blaster_Master.nes.html",
+    "type": "html"
   },
   {
-    "name": "Blodia Land - Puzzle Quest",
-    "rom_url": "/worksheets/main/Blodia_Land_-_Puzzle_Quest.nes.zip",
-    "core": "fceumm"
+    "title": "Blodia Land - Puzzle Quest",
+    "source": "https://files.vyper.group/Blodia_Land_-_Puzzle_Quest.nes.html",
+    "type": "html"
   },
   {
-    "name": "Bloody Warriors - Shan-Go No Gyakushuu (Japan)",
-    "rom_url": "/worksheets/main/Bloody_Warriors_-_Shan-Go_no_Gyakushuu_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Bloody Warriors - Shan-Go No Gyakushuu (Japan)",
+    "source": "https://files.vyper.group/Bloody_Warriors_-_Shan-Go_no_Gyakushuu_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Blues Brothers",
-    "rom_url": "/worksheets/main/Blues_Brothers.nes.zip",
-    "core": "fceumm"
+    "title": "Blues Brothers",
+    "source": "https://files.vyper.group/Blues_Brothers.nes.html",
+    "type": "html"
   },
   {
-    "name": "Blue Marlin",
-    "rom_url": "/worksheets/main/Blue_Marlin.nes.zip",
-    "core": "fceumm"
+    "title": "Blue Marlin",
+    "source": "https://files.vyper.group/Blue_Marlin.nes.html",
+    "type": "html"
   },
   {
-    "name": "Blue Shadow",
-    "rom_url": "/worksheets/main/Blue_Shadow.nes.zip",
-    "core": "fceumm"
+    "title": "Blue Shadow",
+    "source": "https://files.vyper.group/Blue_Shadow.nes.html",
+    "type": "html"
   },
   {
-    "name": "Bokosuka Wars",
-    "rom_url": "/worksheets/main/Bokosuka_Wars.nes.zip",
-    "core": "fceumm"
+    "title": "Bokosuka Wars",
+    "source": "https://files.vyper.group/Bokosuka_Wars.nes.html",
+    "type": "html"
   },
   {
-    "name": "Bomberman",
-    "rom_url": "/worksheets/main/Bomberman.nes.zip",
-    "core": "fceumm"
+    "title": "Bomberman",
+    "source": "https://files.vyper.group/Bomberman.nes.html",
+    "type": "html"
   },
   {
-    "name": "Bomberman 2",
-    "rom_url": "/worksheets/main/Bomberman_2.nes.zip",
-    "core": "fceumm"
+    "title": "Bomberman 2",
+    "source": "https://files.vyper.group/Bomberman_2.nes.html",
+    "type": "html"
   },
   {
-    "name": "Bomberman Collection",
-    "rom_url": "/worksheets/main/Bomberman_Collection.nes.zip",
-    "core": "fceumm"
+    "title": "Bomberman Collection",
+    "source": "https://files.vyper.group/Bomberman_Collection.nes.html",
+    "type": "html"
   },
   {
-    "name": "Bonks Adventure",
-    "rom_url": "/worksheets/main/Bonks_Adventure.nes.zip",
-    "core": "fceumm"
+    "title": "Bonks Adventure",
+    "source": "https://files.vyper.group/Bonks_Adventure.nes.html",
+    "type": "html"
   },
   {
-    "name": "Booby Kids",
-    "rom_url": "/worksheets/main/Booby_Kids.nes.zip",
-    "core": "fceumm"
+    "title": "Booby Kids",
+    "source": "https://files.vyper.group/Booby_Kids.nes.html",
+    "type": "html"
   },
   {
-    "name": "Boulder Dash",
-    "rom_url": "/worksheets/main/Boulder_Dash.nes.zip",
-    "core": "fceumm"
+    "title": "Boulder Dash",
+    "source": "https://files.vyper.group/Boulder_Dash.nes.html",
+    "type": "html"
   },
   {
-    "name": "Boy And His Blob, A - Trouble On Blobolonia",
-    "rom_url": "/worksheets/main/Boy_and_His_Blob,_A_-_Trouble_on_Blobolonia.nes.zip",
-    "core": "fceumm"
+    "title": "Boy And His Blob, A - Trouble On Blobolonia",
+    "source": "https://files.vyper.group/Boy_and_His_Blob,_A_-_Trouble_on_Blobolonia.nes.html",
+    "type": "html"
   },
   {
-    "name": "Bo Jackson Baseball",
-    "rom_url": "/worksheets/main/Bo_Jackson_Baseball.nes.zip",
-    "core": "fceumm"
+    "title": "Bo Jackson Baseball",
+    "source": "https://files.vyper.group/Bo_Jackson_Baseball.nes.html",
+    "type": "html"
   },
   {
-    "name": "Bram Stokers Dracula",
-    "rom_url": "/worksheets/main/Bram_Stokers_Dracula.nes.zip",
-    "core": "fceumm"
+    "title": "Bram Stokers Dracula",
+    "source": "https://files.vyper.group/Bram_Stokers_Dracula.nes.html",
+    "type": "html"
   },
   {
-    "name": "Breakthru",
-    "rom_url": "/worksheets/main/BreakThru.nes.zip",
-    "core": "fceumm"
+    "title": "Breakthru",
+    "source": "https://files.vyper.group/BreakThru.nes.html",
+    "type": "html"
   },
   {
-    "name": "Break Time - The National Pool Tour",
-    "rom_url": "/worksheets/main/Break_Time_-_The_National_Pool_Tour.nes.zip",
-    "core": "fceumm"
+    "title": "Break Time - The National Pool Tour",
+    "source": "https://files.vyper.group/Break_Time_-_The_National_Pool_Tour.nes.html",
+    "type": "html"
   },
   {
-    "name": "Bubble Bobble",
-    "rom_url": "/worksheets/main/Bubble_Bobble.nes.zip",
-    "core": "fceumm"
+    "title": "Bubble Bobble",
+    "source": "https://files.vyper.group/Bubble_Bobble.nes.html",
+    "type": "html"
   },
   {
-    "name": "Bubble Bobble 2",
-    "rom_url": "/worksheets/main/Bubble_Bobble_2.nes.zip",
-    "core": "fceumm"
+    "title": "Bubble Bobble 2",
+    "source": "https://files.vyper.group/Bubble_Bobble_2.nes.html",
+    "type": "html"
   },
   {
-    "name": "Bucky Ohare",
-    "rom_url": "/worksheets/main/Bucky_OHare.nes.zip",
-    "core": "fceumm"
+    "title": "Bucky Ohare",
+    "source": "https://files.vyper.group/Bucky_OHare.nes.html",
+    "type": "html"
   },
   {
-    "name": "Buggy Popper",
-    "rom_url": "/worksheets/main/Buggy_Popper.nes.zip",
-    "core": "fceumm"
+    "title": "Buggy Popper",
+    "source": "https://files.vyper.group/Buggy_Popper.nes.html",
+    "type": "html"
   },
   {
-    "name": "Bugs Bunny Birthday Blowout",
-    "rom_url": "/worksheets/main/Bugs_Bunny_Birthday_Blowout.nes.zip",
-    "core": "fceumm"
+    "title": "Bugs Bunny Birthday Blowout",
+    "source": "https://files.vyper.group/Bugs_Bunny_Birthday_Blowout.nes.html",
+    "type": "html"
   },
   {
-    "name": "Bugs Bunny Crazy Castle",
-    "rom_url": "/worksheets/main/Bugs_Bunny_Crazy_Castle.nes.zip",
-    "core": "fceumm"
+    "title": "Bugs Bunny Crazy Castle",
+    "source": "https://files.vyper.group/Bugs_Bunny_Crazy_Castle.nes.html",
+    "type": "html"
   },
   {
-    "name": "Bumpnjump",
-    "rom_url": "/worksheets/main/BumpnJump.nes.zip",
-    "core": "fceumm"
+    "title": "Bumpnjump",
+    "source": "https://files.vyper.group/BumpnJump.nes.html",
+    "type": "html"
   },
   {
-    "name": "Burai Fighter",
-    "rom_url": "/worksheets/main/Burai_Fighter.nes.zip",
-    "core": "fceumm"
+    "title": "Burai Fighter",
+    "source": "https://files.vyper.group/Burai_Fighter.nes.html",
+    "type": "html"
   },
   {
-    "name": "Burger Time",
-    "rom_url": "/worksheets/main/Burger_Time.nes.zip",
-    "core": "fceumm"
+    "title": "Burger Time",
+    "source": "https://files.vyper.group/Burger_Time.nes.html",
+    "type": "html"
   },
   {
-    "name": "Business Wars (Japan)",
-    "rom_url": "/worksheets/main/Business_Wars_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Business Wars (Japan)",
+    "source": "https://files.vyper.group/Business_Wars_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Cabal",
-    "rom_url": "/worksheets/main/Cabal.nes.zip",
-    "core": "fceumm"
+    "title": "Cabal",
+    "source": "https://files.vyper.group/Cabal.nes.html",
+    "type": "html"
   },
   {
-    "name": "Cadillac",
-    "rom_url": "/worksheets/main/Cadillac.nes.zip",
-    "core": "fceumm"
+    "title": "Cadillac",
+    "source": "https://files.vyper.group/Cadillac.nes.html",
+    "type": "html"
   },
   {
-    "name": "Caesars Palace",
-    "rom_url": "/worksheets/main/Caesars_Palace.nes.zip",
-    "core": "fceumm"
+    "title": "Caesars Palace",
+    "source": "https://files.vyper.group/Caesars_Palace.nes.html",
+    "type": "html"
   },
   {
-    "name": "California Games",
-    "rom_url": "/worksheets/main/California_Games.nes.zip",
-    "core": "fceumm"
+    "title": "California Games",
+    "source": "https://files.vyper.group/California_Games.nes.html",
+    "type": "html"
   },
   {
-    "name": "California Raisins - The Grape Escape",
-    "rom_url": "/worksheets/main/California_Raisins_-_The_Grape_Escape.nes.zip",
-    "core": "fceumm"
+    "title": "California Raisins - The Grape Escape",
+    "source": "https://files.vyper.group/California_Raisins_-_The_Grape_Escape.nes.html",
+    "type": "html"
   },
   {
-    "name": "Caltron 6-In-1",
-    "rom_url": "/worksheets/main/Caltron_6-in-1.nes.zip",
-    "core": "fceumm"
+    "title": "Caltron 6-In-1",
+    "source": "https://files.vyper.group/Caltron_6-in-1.nes.html",
+    "type": "html"
   },
   {
-    "name": "Capcom Barcelona 92",
-    "rom_url": "/worksheets/main/Capcom_Barcelona_92.nes.zip",
-    "core": "fceumm"
+    "title": "Capcom Barcelona 92",
+    "source": "https://files.vyper.group/Capcom_Barcelona_92.nes.html",
+    "type": "html"
   },
   {
-    "name": "Captain America And The Avengers",
-    "rom_url": "/worksheets/main/Captain_America_and_the_Avengers.nes.zip",
-    "core": "fceumm"
+    "title": "Captain America And The Avengers",
+    "source": "https://files.vyper.group/Captain_America_and_the_Avengers.nes.html",
+    "type": "html"
   },
   {
-    "name": "Captain Ed",
-    "rom_url": "/worksheets/main/Captain_Ed.nes.zip",
-    "core": "fceumm"
+    "title": "Captain Ed",
+    "source": "https://files.vyper.group/Captain_Ed.nes.html",
+    "type": "html"
   },
   {
-    "name": "Captain Planet And The Planeteers",
-    "rom_url": "/worksheets/main/Captain_Planet_and_The_Planeteers.nes.zip",
-    "core": "fceumm"
+    "title": "Captain Planet And The Planeteers",
+    "source": "https://files.vyper.group/Captain_Planet_and_The_Planeteers.nes.html",
+    "type": "html"
   },
   {
-    "name": "Captain Saver",
-    "rom_url": "/worksheets/main/Captain_Saver.nes.zip",
-    "core": "fceumm"
+    "title": "Captain Saver",
+    "source": "https://files.vyper.group/Captain_Saver.nes.html",
+    "type": "html"
   },
   {
-    "name": "Captain Silver",
-    "rom_url": "/worksheets/main/Captain_Silver.nes.zip",
-    "core": "fceumm"
+    "title": "Captain Silver",
+    "source": "https://files.vyper.group/Captain_Silver.nes.html",
+    "type": "html"
   },
   {
-    "name": "Captain Skyhawk",
-    "rom_url": "/worksheets/main/Captain_Skyhawk.nes.zip",
-    "core": "fceumm"
+    "title": "Captain Skyhawk",
+    "source": "https://files.vyper.group/Captain_Skyhawk.nes.html",
+    "type": "html"
   },
   {
-    "name": "Captain Tsubasa (Japan)",
-    "rom_url": "/worksheets/main/Captain_Tsubasa_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Captain Tsubasa (Japan)",
+    "source": "https://files.vyper.group/Captain_Tsubasa_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Captain Tsubasa Vol. Ii - Super Striker (Japan)",
-    "rom_url": "/worksheets/main/Captain_Tsubasa_Vol._II_-_Super_Striker_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Captain Tsubasa Vol. Ii - Super Striker (Japan)",
+    "source": "https://files.vyper.group/Captain_Tsubasa_Vol._II_-_Super_Striker_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Casino Kid",
-    "rom_url": "/worksheets/main/Casino_Kid.nes.zip",
-    "core": "fceumm"
+    "title": "Casino Kid",
+    "source": "https://files.vyper.group/Casino_Kid.nes.html",
+    "type": "html"
   },
   {
-    "name": "Casino Kid 2",
-    "rom_url": "/worksheets/main/Casino_Kid_2.nes.zip",
-    "core": "fceumm"
+    "title": "Casino Kid 2",
+    "source": "https://files.vyper.group/Casino_Kid_2.nes.html",
+    "type": "html"
   },
   {
-    "name": "Castelian",
-    "rom_url": "/worksheets/main/Castelian.nes.zip",
-    "core": "fceumm"
+    "title": "Castelian",
+    "source": "https://files.vyper.group/Castelian.nes.html",
+    "type": "html"
   },
   {
-    "name": "Castlequest",
-    "rom_url": "/worksheets/main/Castlequest.nes.zip",
-    "core": "fceumm"
+    "title": "Castlequest",
+    "source": "https://files.vyper.group/Castlequest.nes.html",
+    "type": "html"
   },
   {
-    "name": "Castlevania",
-    "rom_url": "/worksheets/main/Castlevania.nes.zip",
-    "core": "fceumm"
+    "title": "Castlevania",
+    "source": "https://files.vyper.group/Castlevania.nes.html",
+    "type": "html"
   },
   {
-    "name": "Castlevania 2 - Simons Quest",
-    "rom_url": "/worksheets/main/Castlevania_2_-_Simons_Quest.nes.zip",
-    "core": "fceumm"
+    "title": "Castlevania 2 - Simons Quest",
+    "source": "https://files.vyper.group/Castlevania_2_-_Simons_Quest.nes.html",
+    "type": "html"
   },
   {
-    "name": "Castlevania 3 - Draculas Curse",
-    "rom_url": "/worksheets/main/Castlevania_3_-_Draculas_Curse.nes.zip",
-    "core": "fceumm"
+    "title": "Castlevania 3 - Draculas Curse",
+    "source": "https://files.vyper.group/Castlevania_3_-_Draculas_Curse.nes.html",
+    "type": "html"
   },
   {
-    "name": "Castle Excellent",
-    "rom_url": "/worksheets/main/Castle_Excellent.nes.zip",
-    "core": "fceumm"
+    "title": "Castle Excellent",
+    "source": "https://files.vyper.group/Castle_Excellent.nes.html",
+    "type": "html"
   },
   {
-    "name": "Castle Of Deceit",
-    "rom_url": "/worksheets/main/Castle_of_Deceit.nes.zip",
-    "core": "fceumm"
+    "title": "Castle Of Deceit",
+    "source": "https://files.vyper.group/Castle_of_Deceit.nes.html",
+    "type": "html"
   },
   {
-    "name": "Castle Of Dragon",
-    "rom_url": "/worksheets/main/Castle_of_Dragon.nes.zip",
-    "core": "fceumm"
+    "title": "Castle Of Dragon",
+    "source": "https://files.vyper.group/Castle_of_Dragon.nes.html",
+    "type": "html"
   },
   {
-    "name": "Caveman Games",
-    "rom_url": "/worksheets/main/Caveman_Games.nes.zip",
-    "core": "fceumm"
+    "title": "Caveman Games",
+    "source": "https://files.vyper.group/Caveman_Games.nes.html",
+    "type": "html"
   },
   {
-    "name": "Chack N Pop",
-    "rom_url": "/worksheets/main/Chack_n_Pop.nes.zip",
-    "core": "fceumm"
+    "title": "Chack N Pop",
+    "source": "https://files.vyper.group/Chack_n_Pop.nes.html",
+    "type": "html"
   },
   {
-    "name": "Challenger",
-    "rom_url": "/worksheets/main/Challenger.nes.zip",
-    "core": "fceumm"
+    "title": "Challenger",
+    "source": "https://files.vyper.group/Challenger.nes.html",
+    "type": "html"
   },
   {
-    "name": "Challenge Of The Dragon",
-    "rom_url": "/worksheets/main/Challenge_of_the_Dragon.nes.zip",
-    "core": "fceumm"
+    "title": "Challenge Of The Dragon",
+    "source": "https://files.vyper.group/Challenge_of_the_Dragon.nes.html",
+    "type": "html"
   },
   {
-    "name": "Championship Bowling",
-    "rom_url": "/worksheets/main/Championship_Bowling.nes.zip",
-    "core": "fceumm"
+    "title": "Championship Bowling",
+    "source": "https://files.vyper.group/Championship_Bowling.nes.html",
+    "type": "html"
   },
   {
-    "name": "Championship Lode Runner",
-    "rom_url": "/worksheets/main/Championship_Lode_Runner.nes.zip",
-    "core": "fceumm"
+    "title": "Championship Lode Runner",
+    "source": "https://files.vyper.group/Championship_Lode_Runner.nes.html",
+    "type": "html"
   },
   {
-    "name": "Championship Pool",
-    "rom_url": "/worksheets/main/Championship_Pool.nes.zip",
-    "core": "fceumm"
+    "title": "Championship Pool",
+    "source": "https://files.vyper.group/Championship_Pool.nes.html",
+    "type": "html"
   },
   {
-    "name": "Chaos World",
-    "rom_url": "/worksheets/main/Chaos_World.nes.zip",
-    "core": "fceumm"
+    "title": "Chaos World",
+    "source": "https://files.vyper.group/Chaos_World.nes.html",
+    "type": "html"
   },
   {
-    "name": "Cheetah Men Ii",
-    "rom_url": "/worksheets/main/Cheetah_Men_II.nes.zip",
-    "core": "fceumm"
+    "title": "Cheetah Men Ii",
+    "source": "https://files.vyper.group/Cheetah_Men_II.nes.html",
+    "type": "html"
   },
   {
-    "name": "Chessmaster",
-    "rom_url": "/worksheets/main/Chessmaster.nes.zip",
-    "core": "fceumm"
+    "title": "Chessmaster",
+    "source": "https://files.vyper.group/Chessmaster.nes.html",
+    "type": "html"
   },
   {
-    "name": "Chester Field - Ankoku Shin Heno Chousen (Japan)",
-    "rom_url": "/worksheets/main/Chester_Field_-_Ankoku_Shin_heno_Chousen_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Chester Field - Ankoku Shin Heno Chousen (Japan)",
+    "source": "https://files.vyper.group/Chester_Field_-_Ankoku_Shin_heno_Chousen_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Chiisana Obake - Acchi Socchi Kocchi",
-    "rom_url": "/worksheets/main/Chiisana_Obake_-_Acchi_Socchi_Kocchi.nes.zip",
-    "core": "fceumm"
+    "title": "Chiisana Obake - Acchi Socchi Kocchi",
+    "source": "https://files.vyper.group/Chiisana_Obake_-_Acchi_Socchi_Kocchi.nes.html",
+    "type": "html"
   },
   {
-    "name": "Chiki Chiki Machine Mou Race (Japan)",
-    "rom_url": "/worksheets/main/Chiki_Chiki_Machine_Mou_Race_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Chiki Chiki Machine Mou Race (Japan)",
+    "source": "https://files.vyper.group/Chiki_Chiki_Machine_Mou_Race_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Chiller",
-    "rom_url": "/worksheets/main/Chiller.nes.zip",
-    "core": "fceumm"
+    "title": "Chiller",
+    "source": "https://files.vyper.group/Chiller.nes.html",
+    "type": "html"
   },
   {
-    "name": "Chip N Dale Rescue Rangers",
-    "rom_url": "/worksheets/main/Chip_n_Dale_Rescue_Rangers.nes.zip",
-    "core": "fceumm"
+    "title": "Chip N Dale Rescue Rangers",
+    "source": "https://files.vyper.group/Chip_n_Dale_Rescue_Rangers.nes.html",
+    "type": "html"
   },
   {
-    "name": "Chip N Dale Rescue Rangers 2",
-    "rom_url": "/worksheets/main/Chip_n_Dale_Rescue_Rangers_2.nes.zip",
-    "core": "fceumm"
+    "title": "Chip N Dale Rescue Rangers 2",
+    "source": "https://files.vyper.group/Chip_n_Dale_Rescue_Rangers_2.nes.html",
+    "type": "html"
   },
   {
-    "name": "Chitei Senkuu Vazorudaa",
-    "rom_url": "/worksheets/main/Chitei_Senkuu_Vazorudaa.nes.zip",
-    "core": "fceumm"
+    "title": "Chitei Senkuu Vazorudaa",
+    "source": "https://files.vyper.group/Chitei_Senkuu_Vazorudaa.nes.html",
+    "type": "html"
   },
   {
-    "name": "Choplifter",
-    "rom_url": "/worksheets/main/Choplifter.nes.zip",
-    "core": "fceumm"
+    "title": "Choplifter",
+    "source": "https://files.vyper.group/Choplifter.nes.html",
+    "type": "html"
   },
   {
-    "name": "Choujikuu Yousai - Macross",
-    "rom_url": "/worksheets/main/Choujikuu_Yousai_-_Macross.nes.zip",
-    "core": "fceumm"
+    "title": "Choujikuu Yousai - Macross",
+    "source": "https://files.vyper.group/Choujikuu_Yousai_-_Macross.nes.html",
+    "type": "html"
   },
   {
-    "name": "Choujin - Ultra Baseball (Japan)",
-    "rom_url": "/worksheets/main/Choujin_-_Ultra_Baseball_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Choujin - Ultra Baseball (Japan)",
+    "source": "https://files.vyper.group/Choujin_-_Ultra_Baseball_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Choujin Sentai - Jetman",
-    "rom_url": "/worksheets/main/Choujin_Sentai_-_Jetman.nes.zip",
-    "core": "fceumm"
+    "title": "Choujin Sentai - Jetman",
+    "source": "https://files.vyper.group/Choujin_Sentai_-_Jetman.nes.html",
+    "type": "html"
   },
   {
-    "name": "Chubby Cherub",
-    "rom_url": "/worksheets/main/Chubby_Cherub.nes.zip",
-    "core": "fceumm"
+    "title": "Chubby Cherub",
+    "source": "https://files.vyper.group/Chubby_Cherub.nes.html",
+    "type": "html"
   },
   {
-    "name": "Chuugoku Janshi Story - Tonpuu (Japan)",
-    "rom_url": "/worksheets/main/Chuugoku_Janshi_Story_-_Tonpuu_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Chuugoku Janshi Story - Tonpuu (Japan)",
+    "source": "https://files.vyper.group/Chuugoku_Janshi_Story_-_Tonpuu_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Chuugoku Senseijutsu (Japan)",
-    "rom_url": "/worksheets/main/Chuugoku_Senseijutsu_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Chuugoku Senseijutsu (Japan)",
+    "source": "https://files.vyper.group/Chuugoku_Senseijutsu_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Circus Caper",
-    "rom_url": "/worksheets/main/Circus_Caper.nes.zip",
-    "core": "fceumm"
+    "title": "Circus Caper",
+    "source": "https://files.vyper.group/Circus_Caper.nes.html",
+    "type": "html"
   },
   {
-    "name": "Circus Charlie",
-    "rom_url": "/worksheets/main/Circus_Charlie.nes.zip",
-    "core": "fceumm"
+    "title": "Circus Charlie",
+    "source": "https://files.vyper.group/Circus_Charlie.nes.html",
+    "type": "html"
   },
   {
-    "name": "City Adventure Touch - Mystery Of Triangle (Japan)",
-    "rom_url": "/worksheets/main/City_Adventure_Touch_-_Mystery_of_Triangle_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "City Adventure Touch - Mystery Of Triangle (Japan)",
+    "source": "https://files.vyper.group/City_Adventure_Touch_-_Mystery_of_Triangle_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "City Connection",
-    "rom_url": "/worksheets/main/City_Connection.nes.zip",
-    "core": "fceumm"
+    "title": "City Connection",
+    "source": "https://files.vyper.group/City_Connection.nes.html",
+    "type": "html"
   },
   {
-    "name": "Clash At Demonhead",
-    "rom_url": "/worksheets/main/Clash_at_Demonhead.nes.zip",
-    "core": "fceumm"
+    "title": "Clash At Demonhead",
+    "source": "https://files.vyper.group/Clash_at_Demonhead.nes.html",
+    "type": "html"
   },
   {
-    "name": "Classic Concentration",
-    "rom_url": "/worksheets/main/Classic_Concentration.nes.zip",
-    "core": "fceumm"
+    "title": "Classic Concentration",
+    "source": "https://files.vyper.group/Classic_Concentration.nes.html",
+    "type": "html"
   },
   {
-    "name": "Cliffhanger",
-    "rom_url": "/worksheets/main/Cliffhanger.nes.zip",
-    "core": "fceumm"
+    "title": "Cliffhanger",
+    "source": "https://files.vyper.group/Cliffhanger.nes.html",
+    "type": "html"
   },
   {
-    "name": "Clu Clu Land",
-    "rom_url": "/worksheets/main/Clu_Clu_Land.nes.zip",
-    "core": "fceumm"
+    "title": "Clu Clu Land",
+    "source": "https://files.vyper.group/Clu_Clu_Land.nes.html",
+    "type": "html"
   },
   {
-    "name": "Cobra Command",
-    "rom_url": "/worksheets/main/Cobra_Command.nes.zip",
-    "core": "fceumm"
+    "title": "Cobra Command",
+    "source": "https://files.vyper.group/Cobra_Command.nes.html",
+    "type": "html"
   },
   {
-    "name": "Cobra Triangle",
-    "rom_url": "/worksheets/main/Cobra_Triangle.nes.zip",
-    "core": "fceumm"
+    "title": "Cobra Triangle",
+    "source": "https://files.vyper.group/Cobra_Triangle.nes.html",
+    "type": "html"
   },
   {
-    "name": "Cocoron",
-    "rom_url": "/worksheets/main/Cocoron.nes.zip",
-    "core": "fceumm"
+    "title": "Cocoron",
+    "source": "https://files.vyper.group/Cocoron.nes.html",
+    "type": "html"
   },
   {
-    "name": "Code Name - Viper",
-    "rom_url": "/worksheets/main/Code_Name_-_Viper.nes.zip",
-    "core": "fceumm"
+    "title": "Code title - Viper",
+    "source": "https://files.vyper.group/Code_title_-_Viper.nes.html",
+    "type": "html"
   },
   {
-    "name": "Color A Dinosaur",
-    "rom_url": "/worksheets/main/Color_A_Dinosaur.nes.zip",
-    "core": "fceumm"
+    "title": "Color A Dinosaur",
+    "source": "https://files.vyper.group/Color_A_Dinosaur.nes.html",
+    "type": "html"
   },
   {
-    "name": "Columbus - Ougon No Yoake (Japan)",
-    "rom_url": "/worksheets/main/Columbus_-_Ougon_no_Yoake_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Columbus - Ougon No Yoake (Japan)",
+    "source": "https://files.vyper.group/Columbus_-_Ougon_no_Yoake_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Commando",
-    "rom_url": "/worksheets/main/Commando.nes.zip",
-    "core": "fceumm"
+    "title": "Commando",
+    "source": "https://files.vyper.group/Commando.nes.html",
+    "type": "html"
   },
   {
-    "name": "Conan",
-    "rom_url": "/worksheets/main/Conan.nes.zip",
-    "core": "fceumm"
+    "title": "Conan",
+    "source": "https://files.vyper.group/Conan.nes.html",
+    "type": "html"
   },
   {
-    "name": "Conflict",
-    "rom_url": "/worksheets/main/Conflict.nes.zip",
-    "core": "fceumm"
+    "title": "Conflict",
+    "source": "https://files.vyper.group/Conflict.nes.html",
+    "type": "html"
   },
   {
-    "name": "Conquest Of The Crystal Palace",
-    "rom_url": "/worksheets/main/Conquest_of_the_Crystal_Palace.nes.zip",
-    "core": "fceumm"
+    "title": "Conquest Of The Crystal Palace",
+    "source": "https://files.vyper.group/Conquest_of_the_Crystal_Palace.nes.html",
+    "type": "html"
   },
   {
-    "name": "Contra",
-    "rom_url": "/worksheets/main/Contra.nes.zip",
-    "core": "fceumm"
+    "title": "Contra",
+    "source": "https://files.vyper.group/Contra.nes.html",
+    "type": "html"
   },
   {
-    "name": "Contra Force",
-    "rom_url": "/worksheets/main/Contra_Force.nes.zip",
-    "core": "fceumm"
+    "title": "Contra Force",
+    "source": "https://files.vyper.group/Contra_Force.nes.html",
+    "type": "html"
   },
   {
-    "name": "Cool World",
-    "rom_url": "/worksheets/main/Cool_World.nes.zip",
-    "core": "fceumm"
+    "title": "Cool World",
+    "source": "https://files.vyper.group/Cool_World.nes.html",
+    "type": "html"
   },
   {
-    "name": "Corvette Zr-1 Challenge",
-    "rom_url": "/worksheets/main/Corvette_ZR-1_Challenge.nes.zip",
-    "core": "fceumm"
+    "title": "Corvette Zr-1 Challenge",
+    "source": "https://files.vyper.group/Corvette_ZR-1_Challenge.nes.html",
+    "type": "html"
   },
   {
-    "name": "Cosmic Epsilon",
-    "rom_url": "/worksheets/main/Cosmic_Epsilon.nes.zip",
-    "core": "fceumm"
+    "title": "Cosmic Epsilon",
+    "source": "https://files.vyper.group/Cosmic_Epsilon.nes.html",
+    "type": "html"
   },
   {
-    "name": "Cosmic Wars (Japan)",
-    "rom_url": "/worksheets/main/Cosmic_Wars_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Cosmic Wars (Japan)",
+    "source": "https://files.vyper.group/Cosmic_Wars_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Cosmo Genesis",
-    "rom_url": "/worksheets/main/Cosmo_Genesis.nes.zip",
-    "core": "fceumm"
+    "title": "Cosmo Genesis",
+    "source": "https://files.vyper.group/Cosmo_Genesis.nes.html",
+    "type": "html"
   },
   {
-    "name": "Cosmo Police Galivan",
-    "rom_url": "/worksheets/main/Cosmo_Police_Galivan.nes.zip",
-    "core": "fceumm"
+    "title": "Cosmo Police Galivan",
+    "source": "https://files.vyper.group/Cosmo_Police_Galivan.nes.html",
+    "type": "html"
   },
   {
-    "name": "Cowboy Kid",
-    "rom_url": "/worksheets/main/Cowboy_Kid.nes.zip",
-    "core": "fceumm"
+    "title": "Cowboy Kid",
+    "source": "https://files.vyper.group/Cowboy_Kid.nes.html",
+    "type": "html"
   },
   {
-    "name": "Crackout",
-    "rom_url": "/worksheets/main/Crackout.nes.zip",
-    "core": "fceumm"
+    "title": "Crackout",
+    "source": "https://files.vyper.group/Crackout.nes.html",
+    "type": "html"
   },
   {
-    "name": "Crash N The Boys - Street Challenge",
-    "rom_url": "/worksheets/main/Crash_n_the_Boys_-_Street_Challenge.nes.zip",
-    "core": "fceumm"
+    "title": "Crash N The Boys - Street Challenge",
+    "source": "https://files.vyper.group/Crash_n_the_Boys_-_Street_Challenge.nes.html",
+    "type": "html"
   },
   {
-    "name": "Crazy Climber",
-    "rom_url": "/worksheets/main/Crazy_Climber.nes.zip",
-    "core": "fceumm"
+    "title": "Crazy Climber",
+    "source": "https://files.vyper.group/Crazy_Climber.nes.html",
+    "type": "html"
   },
   {
-    "name": "Crisis Force",
-    "rom_url": "/worksheets/main/Crisis_Force.nes.zip",
-    "core": "fceumm"
+    "title": "Crisis Force",
+    "source": "https://files.vyper.group/Crisis_Force.nes.html",
+    "type": "html"
   },
   {
-    "name": "Cross Fire",
-    "rom_url": "/worksheets/main/Cross_Fire.nes.zip",
-    "core": "fceumm"
+    "title": "Cross Fire",
+    "source": "https://files.vyper.group/Cross_Fire.nes.html",
+    "type": "html"
   },
   {
-    "name": "Crystalis",
-    "rom_url": "/worksheets/main/Crystalis.nes.zip",
-    "core": "fceumm"
+    "title": "Crystalis",
+    "source": "https://files.vyper.group/Crystalis.nes.html",
+    "type": "html"
   },
   {
-    "name": "Crystal Mines",
-    "rom_url": "/worksheets/main/Crystal_Mines.nes.zip",
-    "core": "fceumm"
+    "title": "Crystal Mines",
+    "source": "https://files.vyper.group/Crystal_Mines.nes.html",
+    "type": "html"
   },
   {
-    "name": "Cyberball",
-    "rom_url": "/worksheets/main/Cyberball.nes.zip",
-    "core": "fceumm"
+    "title": "Cyberball",
+    "source": "https://files.vyper.group/Cyberball.nes.html",
+    "type": "html"
   },
   {
-    "name": "Cybernoid - The Fighting Machine",
-    "rom_url": "/worksheets/main/Cybernoid_-_The_Fighting_Machine.nes.zip",
-    "core": "fceumm"
+    "title": "Cybernoid - The Fighting Machine",
+    "source": "https://files.vyper.group/Cybernoid_-_The_Fighting_Machine.nes.html",
+    "type": "html"
   },
   {
-    "name": "Cycle Race - Road Man",
-    "rom_url": "/worksheets/main/Cycle_Race_-_Road_Man.nes.zip",
-    "core": "fceumm"
+    "title": "Cycle Race - Road Man",
+    "source": "https://files.vyper.group/Cycle_Race_-_Road_Man.nes.html",
+    "type": "html"
   },
   {
-    "name": "Daiku No Gen San (Japan)",
-    "rom_url": "/worksheets/main/Daiku_no_Gen_San_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Daiku No Gen San (Japan)",
+    "source": "https://files.vyper.group/Daiku_no_Gen_San_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Daiku No Gen San 2 - Akage No Dan No Gyakushuu (Japan)",
-    "rom_url": "/worksheets/main/Daiku_no_Gen_San_2_-_Akage_no_Dan_no_Gyakushuu_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Daiku No Gen San 2 - Akage No Dan No Gyakushuu (Japan)",
+    "source": "https://files.vyper.group/Daiku_no_Gen_San_2_-_Akage_no_Dan_no_Gyakushuu_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Daiva - Imperial Of Nirsartia",
-    "rom_url": "/worksheets/main/Daiva_-_Imperial_of_Nirsartia.nes.zip",
-    "core": "fceumm"
+    "title": "Daiva - Imperial Of Nirsartia",
+    "source": "https://files.vyper.group/Daiva_-_Imperial_of_Nirsartia.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dai Meiro - Meikyuu No Tatsujin (Japan)",
-    "rom_url": "/worksheets/main/Dai_Meiro_-_Meikyuu_no_Tatsujin_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Dai Meiro - Meikyuu No Tatsujin (Japan)",
+    "source": "https://files.vyper.group/Dai_Meiro_-_Meikyuu_no_Tatsujin_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Danny Sullivans Indy Heat",
-    "rom_url": "/worksheets/main/Danny_Sullivans_Indy_Heat.nes.zip",
-    "core": "fceumm"
+    "title": "Danny Sullivans Indy Heat",
+    "source": "https://files.vyper.group/Danny_Sullivans_Indy_Heat.nes.html",
+    "type": "html"
   },
   {
-    "name": "Darkman",
-    "rom_url": "/worksheets/main/Darkman.nes.zip",
-    "core": "fceumm"
+    "title": "Darkman",
+    "source": "https://files.vyper.group/Darkman.nes.html",
+    "type": "html"
   },
   {
-    "name": "Darkwing Duck",
-    "rom_url": "/worksheets/main/Darkwing_Duck.nes.zip",
-    "core": "fceumm"
+    "title": "Darkwing Duck",
+    "source": "https://files.vyper.group/Darkwing_Duck.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dash Galaxy In The Alien Asylum",
-    "rom_url": "/worksheets/main/Dash_Galaxy_in_the_Alien_Asylum.nes.zip",
-    "core": "fceumm"
+    "title": "Dash Galaxy In The Alien Asylum",
+    "source": "https://files.vyper.group/Dash_Galaxy_in_the_Alien_Asylum.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dash Yarou",
-    "rom_url": "/worksheets/main/Dash_Yarou.nes.zip",
-    "core": "fceumm"
+    "title": "Dash Yarou",
+    "source": "https://files.vyper.group/Dash_Yarou.nes.html",
+    "type": "html"
   },
   {
-    "name": "Datach - Battle Rush - Build Up Robot Tournament (Japan)",
-    "rom_url": "/worksheets/main/Datach_-_Battle_Rush_-_Build_Up_Robot_Tournament_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Datach - Battle Rush - Build Up Robot Tourtitlent (Japan)",
+    "source": "https://files.vyper.group/Datach_-_Battle_Rush_-_Build_Up_Robot_Tourtitlent_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Datach - Crayon Shin Chan - Ora To Poi Poi (Japan)",
-    "rom_url": "/worksheets/main/Datach_-_Crayon_Shin_Chan_-_Ora_to_Poi_Poi_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Datach - Crayon Shin Chan - Ora To Poi Poi (Japan)",
+    "source": "https://files.vyper.group/Datach_-_Crayon_Shin_Chan_-_Ora_to_Poi_Poi_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Datach - Dragon Ball Z - Gekitou Tenkaichi Budou Kai (Japan)",
-    "rom_url": "/worksheets/main/Datach_-_Dragon_Ball_Z_-_Gekitou_Tenkaichi_Budou_Kai_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Datach - Dragon Ball Z - Gekitou Tenkaichi Budou Kai (Japan)",
+    "source": "https://files.vyper.group/Datach_-_Dragon_Ball_Z_-_Gekitou_Tenkaichi_Budou_Kai_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Datach - J League Super Top Players",
-    "rom_url": "/worksheets/main/Datach_-_J_League_Super_Top_Players.nes.zip",
-    "core": "fceumm"
+    "title": "Datach - J League Super Top Players",
+    "source": "https://files.vyper.group/Datach_-_J_League_Super_Top_Players.nes.html",
+    "type": "html"
   },
   {
-    "name": "Datach - Sd Gundam - Gundam Wars (Japan)",
-    "rom_url": "/worksheets/main/Datach_-_SD_Gundam_-_Gundam_Wars_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Datach - Sd Gundam - Gundam Wars (Japan)",
+    "source": "https://files.vyper.group/Datach_-_SD_Gundam_-_Gundam_Wars_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Datach - Ultraman Club - Supokon Fight! (Japan)",
-    "rom_url": "/worksheets/main/Datach_-_Ultraman_Club_-_Supokon_Fight!_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Datach - Ultraman Club - Supokon Fight! (Japan)",
+    "source": "https://files.vyper.group/Datach_-_Ultraman_Club_-_Supokon_Fight!_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Datach - Yuu Yuu Hakusho - Bakutou Ankoku Bujutsu Kai (Japan)",
-    "rom_url": "/worksheets/main/Datach_-_Yuu_Yuu_Hakusho_-_Bakutou_Ankoku_Bujutsu_Kai_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Datach - Yuu Yuu Hakusho - Bakutou Ankoku Bujutsu Kai (Japan)",
+    "source": "https://files.vyper.group/Datach_-_Yuu_Yuu_Hakusho_-_Bakutou_Ankoku_Bujutsu_Kai_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Datsugoku",
-    "rom_url": "/worksheets/main/Datsugoku.nes.zip",
-    "core": "fceumm"
+    "title": "Datsugoku",
+    "source": "https://files.vyper.group/Datsugoku.nes.html",
+    "type": "html"
   },
   {
-    "name": "Days Of Thunder",
-    "rom_url": "/worksheets/main/Days_of_Thunder.nes.zip",
-    "core": "fceumm"
+    "title": "Days Of Thunder",
+    "source": "https://files.vyper.group/Days_of_Thunder.nes.html",
+    "type": "html"
   },
   {
-    "name": "Day Dreamin Davey",
-    "rom_url": "/worksheets/main/Day_Dreamin_Davey.nes.zip",
-    "core": "fceumm"
+    "title": "Day Dreamin Davey",
+    "source": "https://files.vyper.group/Day_Dreamin_Davey.nes.html",
+    "type": "html"
   },
   {
-    "name": "Deadly Towers",
-    "rom_url": "/worksheets/main/Deadly_Towers.nes.zip",
-    "core": "fceumm"
+    "title": "Deadly Towers",
+    "source": "https://files.vyper.group/Deadly_Towers.nes.html",
+    "type": "html"
   },
   {
-    "name": "Deathbots",
-    "rom_url": "/worksheets/main/Deathbots.nes.zip",
-    "core": "fceumm"
+    "title": "Deathbots",
+    "source": "https://files.vyper.group/Deathbots.nes.html",
+    "type": "html"
   },
   {
-    "name": "Death Race",
-    "rom_url": "/worksheets/main/Death_Race.nes.zip",
-    "core": "fceumm"
+    "title": "Death Race",
+    "source": "https://files.vyper.group/Death_Race.nes.html",
+    "type": "html"
   },
   {
-    "name": "Deblock",
-    "rom_url": "/worksheets/main/Deblock.nes.zip",
-    "core": "fceumm"
+    "title": "Deblock",
+    "source": "https://files.vyper.group/Deblock.nes.html",
+    "type": "html"
   },
   {
-    "name": "Deep Dungeon 3 - Yuushi Heno Tabi (Japan)",
-    "rom_url": "/worksheets/main/Deep_Dungeon_3_-_Yuushi_heno_Tabi_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Deep Dungeon 3 - Yuushi Heno Tabi (Japan)",
+    "source": "https://files.vyper.group/Deep_Dungeon_3_-_Yuushi_heno_Tabi_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Deep Dungeon 4 - Kuro No Youjutsushi (Japan)",
-    "rom_url": "/worksheets/main/Deep_Dungeon_4_-_Kuro_no_Youjutsushi_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Deep Dungeon 4 - Kuro No Youjutsushi (Japan)",
+    "source": "https://files.vyper.group/Deep_Dungeon_4_-_Kuro_no_Youjutsushi_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Defenders Of Dynatron City",
-    "rom_url": "/worksheets/main/Defenders_of_Dynatron_City.nes.zip",
-    "core": "fceumm"
+    "title": "Defenders Of Dynatron City",
+    "source": "https://files.vyper.group/Defenders_of_Dynatron_City.nes.html",
+    "type": "html"
   },
   {
-    "name": "Defender Ii",
-    "rom_url": "/worksheets/main/Defender_II.nes.zip",
-    "core": "fceumm"
+    "title": "Defender Ii",
+    "source": "https://files.vyper.group/Defender_II.nes.html",
+    "type": "html"
   },
   {
-    "name": "Defender Of The Crown",
-    "rom_url": "/worksheets/main/Defender_of_the_Crown.nes.zip",
-    "core": "fceumm"
+    "title": "Defender Of The Crown",
+    "source": "https://files.vyper.group/Defender_of_the_Crown.nes.html",
+    "type": "html"
   },
   {
-    "name": "Deja Vu",
-    "rom_url": "/worksheets/main/Deja_Vu.nes.zip",
-    "core": "fceumm"
+    "title": "Deja Vu",
+    "source": "https://files.vyper.group/Deja_Vu.nes.html",
+    "type": "html"
   },
   {
-    "name": "Demon Sword",
-    "rom_url": "/worksheets/main/Demon_Sword.nes.zip",
-    "core": "fceumm"
+    "title": "Demon Sword",
+    "source": "https://files.vyper.group/Demon_Sword.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dengeki - Big Bang! (Japan)",
-    "rom_url": "/worksheets/main/Dengeki_-_Big_Bang!_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Dengeki - Big Bang! (Japan)",
+    "source": "https://files.vyper.group/Dengeki_-_Big_Bang!_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Densetsu No Kishi - Elrond",
-    "rom_url": "/worksheets/main/Densetsu_no_Kishi_-_Elrond.nes.zip",
-    "core": "fceumm"
+    "title": "Densetsu No Kishi - Elrond",
+    "source": "https://files.vyper.group/Densetsu_no_Kishi_-_Elrond.nes.html",
+    "type": "html"
   },
   {
-    "name": "Desert Commander",
-    "rom_url": "/worksheets/main/Desert_Commander.nes.zip",
-    "core": "fceumm"
+    "title": "Desert Commander",
+    "source": "https://files.vyper.group/Desert_Commander.nes.html",
+    "type": "html"
   },
   {
-    "name": "Destination Earthstar",
-    "rom_url": "/worksheets/main/Destination_Earthstar.nes.zip",
-    "core": "fceumm"
+    "title": "Destination Earthstar",
+    "source": "https://files.vyper.group/Destination_Earthstar.nes.html",
+    "type": "html"
   },
   {
-    "name": "Destiny Of An Emperor",
-    "rom_url": "/worksheets/main/Destiny_of_an_Emperor.nes.zip",
-    "core": "fceumm"
+    "title": "Destiny Of An Emperor",
+    "source": "https://files.vyper.group/Destiny_of_an_Emperor.nes.html",
+    "type": "html"
   },
   {
-    "name": "Devil Man",
-    "rom_url": "/worksheets/main/Devil_Man.nes.zip",
-    "core": "fceumm"
+    "title": "Devil Man",
+    "source": "https://files.vyper.group/Devil_Man.nes.html",
+    "type": "html"
   },
   {
-    "name": "Devil World",
-    "rom_url": "/worksheets/main/Devil_World.nes.zip",
-    "core": "fceumm"
+    "title": "Devil World",
+    "source": "https://files.vyper.group/Devil_World.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dezaemon (Japan)",
-    "rom_url": "/worksheets/main/Dezaemon_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Dezaemon (Japan)",
+    "source": "https://files.vyper.group/Dezaemon_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Dick Tracy",
-    "rom_url": "/worksheets/main/Dick_Tracy.nes.zip",
-    "core": "fceumm"
+    "title": "Dick Tracy",
+    "source": "https://files.vyper.group/Dick_Tracy.nes.html",
+    "type": "html"
   },
   {
-    "name": "Die Hard",
-    "rom_url": "/worksheets/main/Die_Hard.nes.zip",
-    "core": "fceumm"
+    "title": "Die Hard",
+    "source": "https://files.vyper.group/Die_Hard.nes.html",
+    "type": "html"
   },
   {
-    "name": "Digger - The Legend Of The Lost City",
-    "rom_url": "/worksheets/main/Digger_-_The_Legend_of_the_Lost_City.nes.zip",
-    "core": "fceumm"
+    "title": "Digger - The Legend Of The Lost City",
+    "source": "https://files.vyper.group/Digger_-_The_Legend_of_the_Lost_City.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dig Dug Jp",
-    "rom_url": "/worksheets/main/Dig_Dug_jp.nes.zip",
-    "core": "fceumm"
+    "title": "Dig Dug Jp",
+    "source": "https://files.vyper.group/Dig_Dug_jp.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dirty Harry",
-    "rom_url": "/worksheets/main/Dirty_Harry.nes.zip",
-    "core": "fceumm"
+    "title": "Dirty Harry",
+    "source": "https://files.vyper.group/Dirty_Harry.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dizzy The Adventurer",
-    "rom_url": "/worksheets/main/Dizzy_The_Adventurer.nes.zip",
-    "core": "fceumm"
+    "title": "Dizzy The Adventurer",
+    "source": "https://files.vyper.group/Dizzy_The_Adventurer.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dokuganryuu Masamune (Japan)",
-    "rom_url": "/worksheets/main/Dokuganryuu_Masamune_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Dokuganryuu Masamune (Japan)",
+    "source": "https://files.vyper.group/Dokuganryuu_Masamune_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Donald Duck",
-    "rom_url": "/worksheets/main/Donald_Duck.nes.zip",
-    "core": "fceumm"
+    "title": "Donald Duck",
+    "source": "https://files.vyper.group/Donald_Duck.nes.html",
+    "type": "html"
   },
   {
-    "name": "Donald Land",
-    "rom_url": "/worksheets/main/Donald_Land.nes.zip",
-    "core": "fceumm"
+    "title": "Donald Land",
+    "source": "https://files.vyper.group/Donald_Land.nes.html",
+    "type": "html"
   },
   {
-    "name": "Donkey Kong",
-    "rom_url": "/worksheets/main/Donkey_Kong.nes.zip",
-    "core": "fceumm"
+    "title": "Donkey Kong",
+    "source": "https://files.vyper.group/Donkey_Kong.nes.html",
+    "type": "html"
   },
   {
-    "name": "Donkey Kong 3",
-    "rom_url": "/worksheets/main/Donkey_Kong_3.nes.zip",
-    "core": "fceumm"
+    "title": "Donkey Kong 3",
+    "source": "https://files.vyper.group/Donkey_Kong_3.nes.html",
+    "type": "html"
   },
   {
-    "name": "Donkey Kong Classics",
-    "rom_url": "/worksheets/main/Donkey_Kong_Classics.nes.zip",
-    "core": "fceumm"
+    "title": "Donkey Kong Classics",
+    "source": "https://files.vyper.group/Donkey_Kong_Classics.nes.html",
+    "type": "html"
   },
   {
-    "name": "Donkey Kong Jr.",
-    "rom_url": "/worksheets/main/Donkey_Kong_Jr..nes.zip",
-    "core": "fceumm"
+    "title": "Donkey Kong Jr.",
+    "source": "https://files.vyper.group/Donkey_Kong_Jr..nes.html",
+    "type": "html"
   },
   {
-    "name": "Donkey Kong Jr. + Jr. Lesson",
-    "rom_url": "/worksheets/main/Donkey_Kong_Jr._+_Jr._Lesson.nes.zip",
-    "core": "fceumm"
+    "title": "Donkey Kong Jr. + Jr. Lesson",
+    "source": "https://files.vyper.group/Donkey_Kong_Jr._+_Jr._Lesson.nes.html",
+    "type": "html"
   },
   {
-    "name": "Donkey Kong Jr. Math",
-    "rom_url": "/worksheets/main/Donkey_Kong_Jr._Math.nes.zip",
-    "core": "fceumm"
+    "title": "Donkey Kong Jr. Math",
+    "source": "https://files.vyper.group/Donkey_Kong_Jr._Math.nes.html",
+    "type": "html"
   },
   {
-    "name": "Donkey Kong Jr. No Sansuu Asobi (Japan)",
-    "rom_url": "/worksheets/main/Donkey_Kong_Jr._no_Sansuu_Asobi_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Donkey Kong Jr. No Sansuu Asobi (Japan)",
+    "source": "https://files.vyper.group/Donkey_Kong_Jr._no_Sansuu_Asobi_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Don Doko Don",
-    "rom_url": "/worksheets/main/Don_Doko_Don.nes.zip",
-    "core": "fceumm"
+    "title": "Don Doko Don",
+    "source": "https://files.vyper.group/Don_Doko_Don.nes.html",
+    "type": "html"
   },
   {
-    "name": "Don Doko Don 2",
-    "rom_url": "/worksheets/main/Don_Doko_Don_2.nes.zip",
-    "core": "fceumm"
+    "title": "Don Doko Don 2",
+    "source": "https://files.vyper.group/Don_Doko_Don_2.nes.html",
+    "type": "html"
   },
   {
-    "name": "Door Door",
-    "rom_url": "/worksheets/main/Door_Door.nes.zip",
-    "core": "fceumm"
+    "title": "Door Door",
+    "source": "https://files.vyper.group/Door_Door.nes.html",
+    "type": "html"
   },
   {
-    "name": "Double Dare",
-    "rom_url": "/worksheets/main/Double_Dare.nes.zip",
-    "core": "fceumm"
+    "title": "Double Dare",
+    "source": "https://files.vyper.group/Double_Dare.nes.html",
+    "type": "html"
   },
   {
-    "name": "Double Dragon",
-    "rom_url": "/worksheets/main/Double_Dragon.nes.zip",
-    "core": "fceumm"
+    "title": "Double Dragon",
+    "source": "https://files.vyper.group/Double_Dragon.nes.html",
+    "type": "html"
   },
   {
-    "name": "Double Dragon 2 - The Revenge",
-    "rom_url": "/worksheets/main/Double_Dragon_2_-_The_Revenge.nes.zip",
-    "core": "fceumm"
+    "title": "Double Dragon 2 - The Revenge",
+    "source": "https://files.vyper.group/Double_Dragon_2_-_The_Revenge.nes.html",
+    "type": "html"
   },
   {
-    "name": "Double Dragon 3 - The Sacred Stones",
-    "rom_url": "/worksheets/main/Double_Dragon_3_-_The_Sacred_Stones.nes.zip",
-    "core": "fceumm"
+    "title": "Double Dragon 3 - The Sacred Stones",
+    "source": "https://files.vyper.group/Double_Dragon_3_-_The_Sacred_Stones.nes.html",
+    "type": "html"
   },
   {
-    "name": "Double Dribble",
-    "rom_url": "/worksheets/main/Double_Dribble.nes.zip",
-    "core": "fceumm"
+    "title": "Double Dribble",
+    "source": "https://files.vyper.group/Double_Dribble.nes.html",
+    "type": "html"
   },
   {
-    "name": "Double Moon Densetsu (Japan)",
-    "rom_url": "/worksheets/main/Double_Moon_Densetsu_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Double Moon Densetsu (Japan)",
+    "source": "https://files.vyper.group/Double_Moon_Densetsu_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Double Strike",
-    "rom_url": "/worksheets/main/Double_Strike.nes.zip",
-    "core": "fceumm"
+    "title": "Double Strike",
+    "source": "https://files.vyper.group/Double_Strike.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dough Boy",
-    "rom_url": "/worksheets/main/Dough_Boy.nes.zip",
-    "core": "fceumm"
+    "title": "Dough Boy",
+    "source": "https://files.vyper.group/Dough_Boy.nes.html",
+    "type": "html"
   },
   {
-    "name": "Downtown - Nekketsu Koushin Kyoku - Soreyuke Daiundoukai (Japan)",
-    "rom_url": "/worksheets/main/Downtown_-_Nekketsu_Koushin_Kyoku_-_Soreyuke_Daiundoukai_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Downtown - Nekketsu Koushin Kyoku - Soreyuke Daiundoukai (Japan)",
+    "source": "https://files.vyper.group/Downtown_-_Nekketsu_Koushin_Kyoku_-_Soreyuke_Daiundoukai_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Downtown - Nekketsu Monogatari (Japan)",
-    "rom_url": "/worksheets/main/Downtown_-_Nekketsu_Monogatari_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Downtown - Nekketsu Monogatari (Japan)",
+    "source": "https://files.vyper.group/Downtown_-_Nekketsu_Monogatari_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Downtown Special - Kunio-Kun No Jidaigeki Dayo Zenin Shuugou! (Japan)",
-    "rom_url": "/worksheets/main/Downtown_Special_-_Kunio-kun_no_Jidaigeki_Dayo_Zenin_Shuugou!_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Downtown Special - Kunio-Kun No Jidaigeki Dayo Zenin Shuugou! (Japan)",
+    "source": "https://files.vyper.group/Downtown_Special_-_Kunio-kun_no_Jidaigeki_Dayo_Zenin_Shuugou!_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Dr. Chaos",
-    "rom_url": "/worksheets/main/Dr._Chaos.nes.zip",
-    "core": "fceumm"
+    "title": "Dr. Chaos",
+    "source": "https://files.vyper.group/Dr._Chaos.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dr. Jekyll And Mr. Hyde",
-    "rom_url": "/worksheets/main/Dr._Jekyll_and_Mr._Hyde.nes.zip",
-    "core": "fceumm"
+    "title": "Dr. Jekyll And Mr. Hyde",
+    "source": "https://files.vyper.group/Dr._Jekyll_and_Mr._Hyde.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dr. Mario",
-    "rom_url": "/worksheets/main/Dr._Mario.nes.zip",
-    "core": "fceumm"
+    "title": "Dr. Mario",
+    "source": "https://files.vyper.group/Dr._Mario.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dragons Lair",
-    "rom_url": "/worksheets/main/Dragons_Lair.nes.zip",
-    "core": "fceumm"
+    "title": "Dragons Lair",
+    "source": "https://files.vyper.group/Dragons_Lair.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dragon Ball - Dai Maou Fukkatsu (Japan)",
-    "rom_url": "/worksheets/main/Dragon_Ball_-_Dai_Maou_Fukkatsu_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Dragon Ball - Dai Maou Fukkatsu (Japan)",
+    "source": "https://files.vyper.group/Dragon_Ball_-_Dai_Maou_Fukkatsu_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Dragon Ball - Shen Long No Nazo",
-    "rom_url": "/worksheets/main/Dragon_Ball_-_Shen_Long_no_Nazo.nes.zip",
-    "core": "fceumm"
+    "title": "Dragon Ball - Shen Long No Nazo",
+    "source": "https://files.vyper.group/Dragon_Ball_-_Shen_Long_no_Nazo.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dragon Ball 3 - Gokuu Den (Japan)",
-    "rom_url": "/worksheets/main/Dragon_Ball_3_-_Gokuu_Den_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Dragon Ball 3 - Gokuu Den (Japan)",
+    "source": "https://files.vyper.group/Dragon_Ball_3_-_Gokuu_Den_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Dragon Ball Z - Kyoushuu! Saiya Jin (Japan)",
-    "rom_url": "/worksheets/main/Dragon_Ball_Z_-_Kyoushuu!_Saiya_Jin_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Dragon Ball Z - Kyoushuu! Saiya Jin (Japan)",
+    "source": "https://files.vyper.group/Dragon_Ball_Z_-_Kyoushuu!_Saiya_Jin_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (Japan)",
-    "rom_url": "/worksheets/main/Dragon_Ball_Z_Gaiden_-_Saiya_Jin_Zetsumetsu_Keikaku_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (Japan)",
+    "source": "https://files.vyper.group/Dragon_Ball_Z_Gaiden_-_Saiya_Jin_Zetsumetsu_Keikaku_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Dragon Ball Z Iii - Ressen Jinzou Ningen (Japan)",
-    "rom_url": "/worksheets/main/Dragon_Ball_Z_III_-_Ressen_Jinzou_Ningen_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Dragon Ball Z Iii - Ressen Jinzou Ningen (Japan)",
+    "source": "https://files.vyper.group/Dragon_Ball_Z_III_-_Ressen_Jinzou_Ningen_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Dragon Ball Z Ii - Gekishin Freeza!! (Japan)",
-    "rom_url": "/worksheets/main/Dragon_Ball_Z_II_-_Gekishin_Freeza!!_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Dragon Ball Z Ii - Gekishin Freeza!! (Japan)",
+    "source": "https://files.vyper.group/Dragon_Ball_Z_II_-_Gekishin_Freeza!!_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Dragon Buster",
-    "rom_url": "/worksheets/main/Dragon_Buster.nes.zip",
-    "core": "fceumm"
+    "title": "Dragon Buster",
+    "source": "https://files.vyper.group/Dragon_Buster.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dragon Buster Ii - Yami No Fuuin",
-    "rom_url": "/worksheets/main/Dragon_Buster_II_-_Yami_no_Fuuin.nes.zip",
-    "core": "fceumm"
+    "title": "Dragon Buster Ii - Yami No Fuuin",
+    "source": "https://files.vyper.group/Dragon_Buster_II_-_Yami_no_Fuuin.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dragon Buster Jp",
-    "rom_url": "/worksheets/main/Dragon_Buster_jp.nes.zip",
-    "core": "fceumm"
+    "title": "Dragon Buster Jp",
+    "source": "https://files.vyper.group/Dragon_Buster_jp.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dragon Fighter",
-    "rom_url": "/worksheets/main/Dragon_Fighter.nes.zip",
-    "core": "fceumm"
+    "title": "Dragon Fighter",
+    "source": "https://files.vyper.group/Dragon_Fighter.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dragon Ninja",
-    "rom_url": "/worksheets/main/Dragon_Ninja.nes.zip",
-    "core": "fceumm"
+    "title": "Dragon Ninja",
+    "source": "https://files.vyper.group/Dragon_Ninja.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dragon Power",
-    "rom_url": "/worksheets/main/Dragon_Power.nes.zip",
-    "core": "fceumm"
+    "title": "Dragon Power",
+    "source": "https://files.vyper.group/Dragon_Power.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dragon Quest (Japan)",
-    "rom_url": "/worksheets/main/Dragon_Quest_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Dragon Quest (Japan)",
+    "source": "https://files.vyper.group/Dragon_Quest_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Dragon Quest Ii",
-    "rom_url": "/worksheets/main/Dragon_Quest_II.nes.zip",
-    "core": "fceumm"
+    "title": "Dragon Quest Ii",
+    "source": "https://files.vyper.group/Dragon_Quest_II.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dragon Quest Iii",
-    "rom_url": "/worksheets/main/Dragon_Quest_III.nes.zip",
-    "core": "fceumm"
+    "title": "Dragon Quest Iii",
+    "source": "https://files.vyper.group/Dragon_Quest_III.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dragon Quest Iv",
-    "rom_url": "/worksheets/main/Dragon_Quest_IV.nes.zip",
-    "core": "fceumm"
+    "title": "Dragon Quest Iv",
+    "source": "https://files.vyper.group/Dragon_Quest_IV.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dragon Scroll - Yomigaerishi Maryuu (Japan)",
-    "rom_url": "/worksheets/main/Dragon_Scroll_-_Yomigaerishi_Maryuu_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Dragon Scroll - Yomigaerishi Maryuu (Japan)",
+    "source": "https://files.vyper.group/Dragon_Scroll_-_Yomigaerishi_Maryuu_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Dragon Spirit - The New Legend",
-    "rom_url": "/worksheets/main/Dragon_Spirit_-_The_New_Legend.nes.zip",
-    "core": "fceumm"
+    "title": "Dragon Spirit - The New Legend",
+    "source": "https://files.vyper.group/Dragon_Spirit_-_The_New_Legend.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dragon Spirit Us",
-    "rom_url": "/worksheets/main/Dragon_Spirit_us.nes.zip",
-    "core": "fceumm"
+    "title": "Dragon Spirit Us",
+    "source": "https://files.vyper.group/Dragon_Spirit_us.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dragon Unit",
-    "rom_url": "/worksheets/main/Dragon_Unit.nes.zip",
-    "core": "fceumm"
+    "title": "Dragon Unit",
+    "source": "https://files.vyper.group/Dragon_Unit.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dragon Warrior",
-    "rom_url": "/worksheets/main/Dragon_Warrior.nes.zip",
-    "core": "fceumm"
+    "title": "Dragon Warrior",
+    "source": "https://files.vyper.group/Dragon_Warrior.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dragon Warrior 2",
-    "rom_url": "/worksheets/main/Dragon_Warrior_2.nes.zip",
-    "core": "fceumm"
+    "title": "Dragon Warrior 2",
+    "source": "https://files.vyper.group/Dragon_Warrior_2.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dragon Warrior 3",
-    "rom_url": "/worksheets/main/Dragon_Warrior_3.nes.zip",
-    "core": "fceumm"
+    "title": "Dragon Warrior 3",
+    "source": "https://files.vyper.group/Dragon_Warrior_3.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dragon Warrior 4",
-    "rom_url": "/worksheets/main/Dragon_Warrior_4.nes.zip",
-    "core": "fceumm"
+    "title": "Dragon Warrior 4",
+    "source": "https://files.vyper.group/Dragon_Warrior_4.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dragon Wars (Japan)",
-    "rom_url": "/worksheets/main/Dragon_Wars_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Dragon Wars (Japan)",
+    "source": "https://files.vyper.group/Dragon_Wars_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Dream Master",
-    "rom_url": "/worksheets/main/Dream_Master.nes.zip",
-    "core": "fceumm"
+    "title": "Dream Master",
+    "source": "https://files.vyper.group/Dream_Master.nes.html",
+    "type": "html"
   },
   {
-    "name": "Drop Zone",
-    "rom_url": "/worksheets/main/Drop_Zone.nes.zip",
-    "core": "fceumm"
+    "title": "Drop Zone",
+    "source": "https://files.vyper.group/Drop_Zone.nes.html",
+    "type": "html"
   },
   {
-    "name": "Druaga No Tou Jp",
-    "rom_url": "/worksheets/main/Druaga_no_tou_jp.nes.zip",
-    "core": "fceumm"
+    "title": "Druaga No Tou Jp",
+    "source": "https://files.vyper.group/Druaga_no_tou_jp.nes.html",
+    "type": "html"
   },
   {
-    "name": "Ducktales",
-    "rom_url": "/worksheets/main/DuckTales.nes.zip",
-    "core": "fceumm"
+    "title": "Ducktales",
+    "source": "https://files.vyper.group/DuckTales.nes.html",
+    "type": "html"
   },
   {
-    "name": "Ducktales 2",
-    "rom_url": "/worksheets/main/DuckTales_2.nes.zip",
-    "core": "fceumm"
+    "title": "Ducktales 2",
+    "source": "https://files.vyper.group/DuckTales_2.nes.html",
+    "type": "html"
   },
   {
-    "name": "Duck Hunt",
-    "rom_url": "/worksheets/main/Duck_Hunt.nes.zip",
-    "core": "fceumm"
+    "title": "Duck Hunt",
+    "source": "https://files.vyper.group/Duck_Hunt.nes.html",
+    "type": "html"
   },
   {
-    "name": "Duck Tales",
-    "rom_url": "/worksheets/main/Duck_Tales.nes.zip",
-    "core": "fceumm"
+    "title": "Duck Tales",
+    "source": "https://files.vyper.group/Duck_Tales.nes.html",
+    "type": "html"
   },
   {
-    "name": "Duck Tales 2",
-    "rom_url": "/worksheets/main/Duck_Tales_2.nes.zip",
-    "core": "fceumm"
+    "title": "Duck Tales 2",
+    "source": "https://files.vyper.group/Duck_Tales_2.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dudes With Attitude",
-    "rom_url": "/worksheets/main/Dudes_With_Attitude.nes.zip",
-    "core": "fceumm"
+    "title": "Dudes With Attitude",
+    "source": "https://files.vyper.group/Dudes_With_Attitude.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dungeon Kid (Japan)",
-    "rom_url": "/worksheets/main/Dungeon_Kid_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Dungeon Kid (Japan)",
+    "source": "https://files.vyper.group/Dungeon_Kid_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Dungeon Magic - Sword Of The Elements",
-    "rom_url": "/worksheets/main/Dungeon_Magic_-_Sword_of_the_Elements.nes.zip",
-    "core": "fceumm"
+    "title": "Dungeon Magic - Sword Of The Elements",
+    "source": "https://files.vyper.group/Dungeon_Magic_-_Sword_of_the_Elements.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dusty Diamonds All-Star Softball",
-    "rom_url": "/worksheets/main/Dusty_Diamonds_All-Star_Softball.nes.zip",
-    "core": "fceumm"
+    "title": "Dusty Diamonds All-Star Softball",
+    "source": "https://files.vyper.group/Dusty_Diamonds_All-Star_Softball.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dynablaster",
-    "rom_url": "/worksheets/main/Dynablaster.nes.zip",
-    "core": "fceumm"
+    "title": "Dynablaster",
+    "source": "https://files.vyper.group/Dynablaster.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dynamite Batman",
-    "rom_url": "/worksheets/main/Dynamite_Batman.nes.zip",
-    "core": "fceumm"
+    "title": "Dynamite Batman",
+    "source": "https://files.vyper.group/Dynamite_Batman.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dynamite Bowl",
-    "rom_url": "/worksheets/main/Dynamite_Bowl.nes.zip",
-    "core": "fceumm"
+    "title": "Dynamite Bowl",
+    "source": "https://files.vyper.group/Dynamite_Bowl.nes.html",
+    "type": "html"
   },
   {
-    "name": "Dynowarz - Destruction Of Spondylus",
-    "rom_url": "/worksheets/main/Dynowarz_-_Destruction_of_Spondylus.nes.zip",
-    "core": "fceumm"
+    "title": "Dynowarz - Destruction Of Spondylus",
+    "source": "https://files.vyper.group/Dynowarz_-_Destruction_of_Spondylus.nes.html",
+    "type": "html"
   },
   {
-    "name": "Egypt",
-    "rom_url": "/worksheets/main/Egypt.nes.zip",
-    "core": "fceumm"
+    "title": "Egypt",
+    "source": "https://files.vyper.group/Egypt.nes.html",
+    "type": "html"
   },
   {
-    "name": "Elevator Action",
-    "rom_url": "/worksheets/main/Elevator_Action.nes.zip",
-    "core": "fceumm"
+    "title": "Elevator Action",
+    "source": "https://files.vyper.group/Elevator_Action.nes.html",
+    "type": "html"
   },
   {
-    "name": "Eliminator Boat Duel",
-    "rom_url": "/worksheets/main/Eliminator_Boat_Duel.nes.zip",
-    "core": "fceumm"
+    "title": "Eliminator Boat Duel",
+    "source": "https://files.vyper.group/Eliminator_Boat_Duel.nes.html",
+    "type": "html"
   },
   {
-    "name": "Elite",
-    "rom_url": "/worksheets/main/Elite.nes.zip",
-    "core": "fceumm"
+    "title": "Elite",
+    "source": "https://files.vyper.group/Elite.nes.html",
+    "type": "html"
   },
   {
-    "name": "Elysion (Japan)",
-    "rom_url": "/worksheets/main/Elysion_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Elysion (Japan)",
+    "source": "https://files.vyper.group/Elysion_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Emo Yan No 10 Bai Pro Yakyuu (Japan)",
-    "rom_url": "/worksheets/main/Emo_Yan_no_10_Bai_Pro_Yakyuu_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Emo Yan No 10 Bai Pro Yakyuu (Japan)",
+    "source": "https://files.vyper.group/Emo_Yan_no_10_Bai_Pro_Yakyuu_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Erika To Satoru No Yume Bouken (Japan)",
-    "rom_url": "/worksheets/main/Erika_to_Satoru_no_Yume_Bouken_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Erika To Satoru No Yume Bouken (Japan)",
+    "source": "https://files.vyper.group/Erika_to_Satoru_no_Yume_Bouken_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Erunaaku No Zaihou (Japan)",
-    "rom_url": "/worksheets/main/Erunaaku_no_Zaihou_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Erunaaku No Zaihou (Japan)",
+    "source": "https://files.vyper.group/Erunaaku_no_Zaihou_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Esper Bouken Tai",
-    "rom_url": "/worksheets/main/Esper_Bouken_Tai.nes.zip",
-    "core": "fceumm"
+    "title": "Esper Bouken Tai",
+    "source": "https://files.vyper.group/Esper_Bouken_Tai.nes.html",
+    "type": "html"
   },
   {
-    "name": "Esper Dream 2 - Aratanaru Tatakai (Japan)",
-    "rom_url": "/worksheets/main/Esper_Dream_2_-_Aratanaru_Tatakai_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Esper Dream 2 - Aratanaru Tatakai (Japan)",
+    "source": "https://files.vyper.group/Esper_Dream_2_-_Aratanaru_Tatakai_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Excitebike",
-    "rom_url": "/worksheets/main/Excitebike.nes.zip",
-    "core": "fceumm"
+    "title": "Excitebike",
+    "source": "https://files.vyper.group/Excitebike.nes.html",
+    "type": "html"
   },
   {
-    "name": "Exciting Boxing",
-    "rom_url": "/worksheets/main/Exciting_Boxing.nes.zip",
-    "core": "fceumm"
+    "title": "Exciting Boxing",
+    "source": "https://files.vyper.group/Exciting_Boxing.nes.html",
+    "type": "html"
   },
   {
-    "name": "Exciting Rally - World Rally Championship",
-    "rom_url": "/worksheets/main/Exciting_Rally_-_World_Rally_Championship.nes.zip",
-    "core": "fceumm"
+    "title": "Exciting Rally - World Rally Championship",
+    "source": "https://files.vyper.group/Exciting_Rally_-_World_Rally_Championship.nes.html",
+    "type": "html"
   },
   {
-    "name": "Exed Exes",
-    "rom_url": "/worksheets/main/Exed_Exes.nes.zip",
-    "core": "fceumm"
+    "title": "Exed Exes",
+    "source": "https://files.vyper.group/Exed_Exes.nes.html",
+    "type": "html"
   },
   {
-    "name": "Exerion",
-    "rom_url": "/worksheets/main/Exerion.nes.zip",
-    "core": "fceumm"
+    "title": "Exerion",
+    "source": "https://files.vyper.group/Exerion.nes.html",
+    "type": "html"
   },
   {
-    "name": "Exodus",
-    "rom_url": "/worksheets/main/Exodus.nes.zip",
-    "core": "fceumm"
+    "title": "Exodus",
+    "source": "https://files.vyper.group/Exodus.nes.html",
+    "type": "html"
   },
   {
-    "name": "F-117A Stealth Fighter",
-    "rom_url": "/worksheets/main/F-117A_Stealth_Fighter.nes.zip",
-    "core": "fceumm"
+    "title": "F-117A Stealth Fighter",
+    "source": "https://files.vyper.group/F-117A_Stealth_Fighter.nes.html",
+    "type": "html"
   },
   {
-    "name": "F-15 City War",
-    "rom_url": "/worksheets/main/F-15_City_War.nes.zip",
-    "core": "fceumm"
+    "title": "F-15 City War",
+    "source": "https://files.vyper.group/F-15_City_War.nes.html",
+    "type": "html"
   },
   {
-    "name": "F-15 Strike Eagle",
-    "rom_url": "/worksheets/main/F-15_Strike_Eagle.nes.zip",
-    "core": "fceumm"
+    "title": "F-15 Strike Eagle",
+    "source": "https://files.vyper.group/F-15_Strike_Eagle.nes.html",
+    "type": "html"
   },
   {
-    "name": "F-1 Race",
-    "rom_url": "/worksheets/main/F-1_Race.nes.zip",
-    "core": "fceumm"
+    "title": "F-1 Race",
+    "source": "https://files.vyper.group/F-1_Race.nes.html",
+    "type": "html"
   },
   {
-    "name": "F1 Circus",
-    "rom_url": "/worksheets/main/F1_Circus.nes.zip",
-    "core": "fceumm"
+    "title": "F1 Circus",
+    "source": "https://files.vyper.group/F1_Circus.nes.html",
+    "type": "html"
   },
   {
-    "name": "Famicom Igo Nyuumon (Japan)",
-    "rom_url": "/worksheets/main/Famicom_Igo_Nyuumon_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Famicom Igo Nyuumon (Japan)",
+    "source": "https://files.vyper.group/Famicom_Igo_Nyuumon_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Famicom Jump - Eiyuu Retsuden (Japan)",
-    "rom_url": "/worksheets/main/Famicom_Jump_-_Eiyuu_Retsuden_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Famicom Jump - Eiyuu Retsuden (Japan)",
+    "source": "https://files.vyper.group/Famicom_Jump_-_Eiyuu_Retsuden_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Famicom Jump Ii - Saikyou No 7 Nin (Japan)",
-    "rom_url": "/worksheets/main/Famicom_Jump_II_-_Saikyou_no_7_Nin_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Famicom Jump Ii - Saikyou No 7 Nin (Japan)",
+    "source": "https://files.vyper.group/Famicom_Jump_II_-_Saikyou_no_7_Nin_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Famicom Meijin Sen (Japan)",
-    "rom_url": "/worksheets/main/Famicom_Meijin_Sen_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Famicom Meijin Sen (Japan)",
+    "source": "https://files.vyper.group/Famicom_Meijin_Sen_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Famicom Shougi - Ryuuousen (Japan)",
-    "rom_url": "/worksheets/main/Famicom_Shougi_-_Ryuuousen_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Famicom Shougi - Ryuuousen (Japan)",
+    "source": "https://files.vyper.group/Famicom_Shougi_-_Ryuuousen_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Famicom Wars (Japan)",
-    "rom_url": "/worksheets/main/Famicom_Wars_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Famicom Wars (Japan)",
+    "source": "https://files.vyper.group/Famicom_Wars_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Family Block",
-    "rom_url": "/worksheets/main/Family_Block.nes.zip",
-    "core": "fceumm"
+    "title": "Family Block",
+    "source": "https://files.vyper.group/Family_Block.nes.html",
+    "type": "html"
   },
   {
-    "name": "Family Boxing",
-    "rom_url": "/worksheets/main/Family_Boxing.nes.zip",
-    "core": "fceumm"
+    "title": "Family Boxing",
+    "source": "https://files.vyper.group/Family_Boxing.nes.html",
+    "type": "html"
   },
   {
-    "name": "Family Circuit (Japan)",
-    "rom_url": "/worksheets/main/Family_Circuit_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Family Circuit (Japan)",
+    "source": "https://files.vyper.group/Family_Circuit_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Family Circuit 91",
-    "rom_url": "/worksheets/main/Family_Circuit_91.nes.zip",
-    "core": "fceumm"
+    "title": "Family Circuit 91",
+    "source": "https://files.vyper.group/Family_Circuit_91.nes.html",
+    "type": "html"
   },
   {
-    "name": "Family Feud",
-    "rom_url": "/worksheets/main/Family_Feud.nes.zip",
-    "core": "fceumm"
+    "title": "Family Feud",
+    "source": "https://files.vyper.group/Family_Feud.nes.html",
+    "type": "html"
   },
   {
-    "name": "Family Jockey",
-    "rom_url": "/worksheets/main/Family_Jockey.nes.zip",
-    "core": "fceumm"
+    "title": "Family Jockey",
+    "source": "https://files.vyper.group/Family_Jockey.nes.html",
+    "type": "html"
   },
   {
-    "name": "Family Mahjong (Japan)",
-    "rom_url": "/worksheets/main/Family_Mahjong_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Family Mahjong (Japan)",
+    "source": "https://files.vyper.group/Family_Mahjong_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Family Mahjong Ii - Shanghai Heno Michi (Japan)",
-    "rom_url": "/worksheets/main/Family_Mahjong_II_-_Shanghai_heno_Michi_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Family Mahjong Ii - Shanghai Heno Michi (Japan)",
+    "source": "https://files.vyper.group/Family_Mahjong_II_-_Shanghai_heno_Michi_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Family Pinball",
-    "rom_url": "/worksheets/main/Family_Pinball.nes.zip",
-    "core": "fceumm"
+    "title": "Family Pinball",
+    "source": "https://files.vyper.group/Family_Pinball.nes.html",
+    "type": "html"
   },
   {
-    "name": "Family Quiz (Japan)",
-    "rom_url": "/worksheets/main/Family_Quiz_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Family Quiz (Japan)",
+    "source": "https://files.vyper.group/Family_Quiz_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Family School (Japan)",
-    "rom_url": "/worksheets/main/Family_School_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Family School (Japan)",
+    "source": "https://files.vyper.group/Family_School_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Family Tennis",
-    "rom_url": "/worksheets/main/Family_Tennis.nes.zip",
-    "core": "fceumm"
+    "title": "Family Tennis",
+    "source": "https://files.vyper.group/Family_Tennis.nes.html",
+    "type": "html"
   },
   {
-    "name": "Famista 89 - Kaimaku Han!! (Japan)",
-    "rom_url": "/worksheets/main/Famista_89_-_Kaimaku_Han!!_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Famista 89 - Kaimaku Han!! (Japan)",
+    "source": "https://files.vyper.group/Famista_89_-_Kaimaku_Han!!_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Famista 90 (Japan)",
-    "rom_url": "/worksheets/main/Famista_90_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Famista 90 (Japan)",
+    "source": "https://files.vyper.group/Famista_90_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Famista 91 (Japan)",
-    "rom_url": "/worksheets/main/Famista_91_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Famista 91 (Japan)",
+    "source": "https://files.vyper.group/Famista_91_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Famista 92 (Japan)",
-    "rom_url": "/worksheets/main/Famista_92_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Famista 92 (Japan)",
+    "source": "https://files.vyper.group/Famista_92_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Famista 93 (Japan)",
-    "rom_url": "/worksheets/main/Famista_93_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Famista 93 (Japan)",
+    "source": "https://files.vyper.group/Famista_93_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Famista 94 (Japan)",
-    "rom_url": "/worksheets/main/Famista_94_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Famista 94 (Japan)",
+    "source": "https://files.vyper.group/Famista_94_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Fantastic Adventures Of Dizzy",
-    "rom_url": "/worksheets/main/Fantastic_Adventures_of_Dizzy.nes.zip",
-    "core": "fceumm"
+    "title": "Fantastic Adventures Of Dizzy",
+    "source": "https://files.vyper.group/Fantastic_Adventures_of_Dizzy.nes.html",
+    "type": "html"
   },
   {
-    "name": "Fantasy Zone",
-    "rom_url": "/worksheets/main/Fantasy_Zone.nes.zip",
-    "core": "fceumm"
+    "title": "Fantasy Zone",
+    "source": "https://files.vyper.group/Fantasy_Zone.nes.html",
+    "type": "html"
   },
   {
-    "name": "Fantasy Zone 2 - The Teardrop Of Opa-Opa",
-    "rom_url": "/worksheets/main/Fantasy_Zone_2_-_The_Teardrop_of_Opa-Opa.nes.zip",
-    "core": "fceumm"
+    "title": "Fantasy Zone 2 - The Teardrop Of Opa-Opa",
+    "source": "https://files.vyper.group/Fantasy_Zone_2_-_The_Teardrop_of_Opa-Opa.nes.html",
+    "type": "html"
   },
   {
-    "name": "Faria - A World Of Mystery And Danger!",
-    "rom_url": "/worksheets/main/Faria_-_A_World_of_Mystery_and_Danger!.nes.zip",
-    "core": "fceumm"
+    "title": "Faria - A World Of Mystery And Danger!",
+    "source": "https://files.vyper.group/Faria_-_A_World_of_Mystery_and_Danger!.nes.html",
+    "type": "html"
   },
   {
-    "name": "Faxanadu",
-    "rom_url": "/worksheets/main/Faxanadu.nes.zip",
-    "core": "fceumm"
+    "title": "Faxanadu",
+    "source": "https://files.vyper.group/Faxanadu.nes.html",
+    "type": "html"
   },
   {
-    "name": "Fc Genjin - Freakthoropus Computerus (Japan)",
-    "rom_url": "/worksheets/main/FC_Genjin_-_Freakthoropus_Computerus_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Fc Genjin - Freakthoropus Computerus (Japan)",
+    "source": "https://files.vyper.group/FC_Genjin_-_Freakthoropus_Computerus_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Felix The Cat",
-    "rom_url": "/worksheets/main/Felix_the_Cat.nes.zip",
-    "core": "fceumm"
+    "title": "Felix The Cat",
+    "source": "https://files.vyper.group/Felix_the_Cat.nes.html",
+    "type": "html"
   },
   {
-    "name": "Ferrari - Grand Prix Challenge",
-    "rom_url": "/worksheets/main/Ferrari_-_Grand_Prix_Challenge.nes.zip",
-    "core": "fceumm"
+    "title": "Ferrari - Grand Prix Challenge",
+    "source": "https://files.vyper.group/Ferrari_-_Grand_Prix_Challenge.nes.html",
+    "type": "html"
   },
   {
-    "name": "Festers Quest",
-    "rom_url": "/worksheets/main/Festers_Quest.nes.zip",
-    "core": "fceumm"
+    "title": "Festers Quest",
+    "source": "https://files.vyper.group/Festers_Quest.nes.html",
+    "type": "html"
   },
   {
-    "name": "Field Combat",
-    "rom_url": "/worksheets/main/Field_Combat.nes.zip",
-    "core": "fceumm"
+    "title": "Field Combat",
+    "source": "https://files.vyper.group/Field_Combat.nes.html",
+    "type": "html"
   },
   {
-    "name": "Fighting Golf",
-    "rom_url": "/worksheets/main/Fighting_Golf.nes.zip",
-    "core": "fceumm"
+    "title": "Fighting Golf",
+    "source": "https://files.vyper.group/Fighting_Golf.nes.html",
+    "type": "html"
   },
   {
-    "name": "Fighting Road",
-    "rom_url": "/worksheets/main/Fighting_Road.nes.zip",
-    "core": "fceumm"
+    "title": "Fighting Road",
+    "source": "https://files.vyper.group/Fighting_Road.nes.html",
+    "type": "html"
   },
   {
-    "name": "Final Fantasy",
-    "rom_url": "/worksheets/main/Final_Fantasy.nes.zip",
-    "core": "fceumm"
+    "title": "Final Fantasy",
+    "source": "https://files.vyper.group/Final_Fantasy.nes.html",
+    "type": "html"
   },
   {
-    "name": "Final Fantasy Ii",
-    "rom_url": "/worksheets/main/Final_Fantasy_II.nes.zip",
-    "core": "fceumm"
+    "title": "Final Fantasy Ii",
+    "source": "https://files.vyper.group/Final_Fantasy_II.nes.html",
+    "type": "html"
   },
   {
-    "name": "Final Fantasy Iii",
-    "rom_url": "/worksheets/main/Final_Fantasy_III.nes.zip",
-    "core": "fceumm"
+    "title": "Final Fantasy Iii",
+    "source": "https://files.vyper.group/Final_Fantasy_III.nes.html",
+    "type": "html"
   },
   {
-    "name": "Final Lap",
-    "rom_url": "/worksheets/main/Final_Lap.nes.zip",
-    "core": "fceumm"
+    "title": "Final Lap",
+    "source": "https://files.vyper.group/Final_Lap.nes.html",
+    "type": "html"
   },
   {
-    "name": "Final Mission",
-    "rom_url": "/worksheets/main/Final_Mission.nes.zip",
-    "core": "fceumm"
+    "title": "Final Mission",
+    "source": "https://files.vyper.group/Final_Mission.nes.html",
+    "type": "html"
   },
   {
-    "name": "Firehouse Rescue",
-    "rom_url": "/worksheets/main/Firehouse_Rescue.nes.zip",
-    "core": "fceumm"
+    "title": "Firehouse Rescue",
+    "source": "https://files.vyper.group/Firehouse_Rescue.nes.html",
+    "type": "html"
   },
   {
-    "name": "Fire Emblem (Japan)",
-    "rom_url": "/worksheets/main/Fire_Emblem_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Fire Emblem (Japan)",
+    "source": "https://files.vyper.group/Fire_Emblem_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Fire Emblem Gaiden (Japan)",
-    "rom_url": "/worksheets/main/Fire_Emblem_Gaiden_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Fire Emblem Gaiden (Japan)",
+    "source": "https://files.vyper.group/Fire_Emblem_Gaiden_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Fire N Ice",
-    "rom_url": "/worksheets/main/Fire_n_Ice.nes.zip",
-    "core": "fceumm"
+    "title": "Fire N Ice",
+    "source": "https://files.vyper.group/Fire_n_Ice.nes.html",
+    "type": "html"
   },
   {
-    "name": "Fist Of The North Star",
-    "rom_url": "/worksheets/main/Fist_of_the_North_Star.nes.zip",
-    "core": "fceumm"
+    "title": "Fist Of The North Star",
+    "source": "https://files.vyper.group/Fist_of_the_North_Star.nes.html",
+    "type": "html"
   },
   {
-    "name": "Flappy",
-    "rom_url": "/worksheets/main/Flappy.nes.zip",
-    "core": "fceumm"
+    "title": "Flappy",
+    "source": "https://files.vyper.group/Flappy.nes.html",
+    "type": "html"
   },
   {
-    "name": "Flight Of The Intruder",
-    "rom_url": "/worksheets/main/Flight_of_the_Intruder.nes.zip",
-    "core": "fceumm"
+    "title": "Flight Of The Intruder",
+    "source": "https://files.vyper.group/Flight_of_the_Intruder.nes.html",
+    "type": "html"
   },
   {
-    "name": "Flintstones - The Rescue Of Dino & Hoppy",
-    "rom_url": "/worksheets/main/Flintstones_-_The_Rescue_of_Dino_&_Hoppy.nes.zip",
-    "core": "fceumm"
+    "title": "Flintstones - The Rescue Of Dino & Hoppy",
+    "source": "https://files.vyper.group/Flintstones_-_The_Rescue_of_Dino_&_Hoppy.nes.html",
+    "type": "html"
   },
   {
-    "name": "Flintstones - The Surprise At Dinosaur Peak!",
-    "rom_url": "/worksheets/main/Flintstones_-_The_Surprise_at_Dinosaur_Peak!.nes.zip",
-    "core": "fceumm"
+    "title": "Flintstones - The Surprise At Dinosaur Peak!",
+    "source": "https://files.vyper.group/Flintstones_-_The_Surprise_at_Dinosaur_Peak!.nes.html",
+    "type": "html"
   },
   {
-    "name": "Flipull - An Exciting Cube Game",
-    "rom_url": "/worksheets/main/Flipull_-_An_Exciting_Cube_Game.nes.zip",
-    "core": "fceumm"
+    "title": "Flipull - An Exciting Cube Game",
+    "source": "https://files.vyper.group/Flipull_-_An_Exciting_Cube_Game.nes.html",
+    "type": "html"
   },
   {
-    "name": "Flying Dragon - The Secret Scroll",
-    "rom_url": "/worksheets/main/Flying_Dragon_-_The_Secret_Scroll.nes.zip",
-    "core": "fceumm"
+    "title": "Flying Dragon - The Secret Scroll",
+    "source": "https://files.vyper.group/Flying_Dragon_-_The_Secret_Scroll.nes.html",
+    "type": "html"
   },
   {
-    "name": "Flying Hero",
-    "rom_url": "/worksheets/main/Flying_Hero.nes.zip",
-    "core": "fceumm"
+    "title": "Flying Hero",
+    "source": "https://files.vyper.group/Flying_Hero.nes.html",
+    "type": "html"
   },
   {
-    "name": "Flying Warriors",
-    "rom_url": "/worksheets/main/Flying_Warriors.nes.zip",
-    "core": "fceumm"
+    "title": "Flying Warriors",
+    "source": "https://files.vyper.group/Flying_Warriors.nes.html",
+    "type": "html"
   },
   {
-    "name": "Formation Z",
-    "rom_url": "/worksheets/main/Formation_Z.nes.zip",
-    "core": "fceumm"
+    "title": "Formation Z",
+    "source": "https://files.vyper.group/Formation_Z.nes.html",
+    "type": "html"
   },
   {
-    "name": "Formula 1 Sensation",
-    "rom_url": "/worksheets/main/Formula_1_Sensation.nes.zip",
-    "core": "fceumm"
+    "title": "Formula 1 Sensation",
+    "source": "https://files.vyper.group/Formula_1_Sensation.nes.html",
+    "type": "html"
   },
   {
-    "name": "Formula One - Built To Win",
-    "rom_url": "/worksheets/main/Formula_One_-_Built_To_Win.nes.zip",
-    "core": "fceumm"
+    "title": "Formula One - Built To Win",
+    "source": "https://files.vyper.group/Formula_One_-_Built_To_Win.nes.html",
+    "type": "html"
   },
   {
-    "name": "Foton - The Ultimate Game On Planet Earth",
-    "rom_url": "/worksheets/main/Foton_-_The_Ultimate_Game_on_Planet_Earth.nes.zip",
-    "core": "fceumm"
+    "title": "Foton - The Ultimate Game On Planet Earth",
+    "source": "https://files.vyper.group/Foton_-_The_Ultimate_Game_on_Planet_Earth.nes.html",
+    "type": "html"
   },
   {
-    "name": "Four Players Tennis",
-    "rom_url": "/worksheets/main/Four_Players_Tennis.nes.zip",
-    "core": "fceumm"
+    "title": "Four Players Tennis",
+    "source": "https://files.vyper.group/Four_Players_Tennis.nes.html",
+    "type": "html"
   },
   {
-    "name": "Frankenstein - The Monster Returns",
-    "rom_url": "/worksheets/main/Frankenstein_-_The_Monster_Returns.nes.zip",
-    "core": "fceumm"
+    "title": "Frankenstein - The Monster Returns",
+    "source": "https://files.vyper.group/Frankenstein_-_The_Monster_Returns.nes.html",
+    "type": "html"
   },
   {
-    "name": "Freedom Force",
-    "rom_url": "/worksheets/main/Freedom_Force.nes.zip",
-    "core": "fceumm"
+    "title": "Freedom Force",
+    "source": "https://files.vyper.group/Freedom_Force.nes.html",
+    "type": "html"
   },
   {
-    "name": "Friday The 13Th",
-    "rom_url": "/worksheets/main/Friday_the_13th.nes.zip",
-    "core": "fceumm"
+    "title": "Friday The 13Th",
+    "source": "https://files.vyper.group/Friday_the_13th.nes.html",
+    "type": "html"
   },
   {
-    "name": "Front Line",
-    "rom_url": "/worksheets/main/Front_Line.nes.zip",
-    "core": "fceumm"
+    "title": "Front Line",
+    "source": "https://files.vyper.group/Front_Line.nes.html",
+    "type": "html"
   },
   {
-    "name": "Fudou Myouou Den",
-    "rom_url": "/worksheets/main/Fudou_Myouou_Den.nes.zip",
-    "core": "fceumm"
+    "title": "Fudou Myouou Den",
+    "source": "https://files.vyper.group/Fudou_Myouou_Den.nes.html",
+    "type": "html"
   },
   {
-    "name": "Fun House",
-    "rom_url": "/worksheets/main/Fun_House.nes.zip",
-    "core": "fceumm"
+    "title": "Fun House",
+    "source": "https://files.vyper.group/Fun_House.nes.html",
+    "type": "html"
   },
   {
-    "name": "Fushigi No Umi No Nadia (Japan)",
-    "rom_url": "/worksheets/main/Fushigi_no_Umi_no_Nadia_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Fushigi No Umi No Nadia (Japan)",
+    "source": "https://files.vyper.group/Fushigi_no_Umi_no_Nadia_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Fuzzical Fighter",
-    "rom_url": "/worksheets/main/Fuzzical_Fighter.nes.zip",
-    "core": "fceumm"
+    "title": "Fuzzical Fighter",
+    "source": "https://files.vyper.group/Fuzzical_Fighter.nes.html",
+    "type": "html"
   },
   {
-    "name": "G.I. Joe",
-    "rom_url": "/worksheets/main/G.I._Joe.nes.zip",
-    "core": "fceumm"
+    "title": "G.I. Joe",
+    "source": "https://files.vyper.group/G.I._Joe.nes.html",
+    "type": "html"
   },
   {
-    "name": "G.I. Joe - The Atlantis Factor",
-    "rom_url": "/worksheets/main/G.I._Joe_-_The_Atlantis_Factor.nes.zip",
-    "core": "fceumm"
+    "title": "G.I. Joe - The Atlantis Factor",
+    "source": "https://files.vyper.group/G.I._Joe_-_The_Atlantis_Factor.nes.html",
+    "type": "html"
   },
   {
-    "name": "Galaga",
-    "rom_url": "/worksheets/main/Galaga.nes.zip",
-    "core": "fceumm"
+    "title": "Galaga",
+    "source": "https://files.vyper.group/Galaga.nes.html",
+    "type": "html"
   },
   {
-    "name": "Galaxian",
-    "rom_url": "/worksheets/main/Galaxian.nes.zip",
-    "core": "fceumm"
+    "title": "Galaxian",
+    "source": "https://files.vyper.group/Galaxian.nes.html",
+    "type": "html"
   },
   {
-    "name": "Galaxian Jp",
-    "rom_url": "/worksheets/main/Galaxian_jp.nes.zip",
-    "core": "fceumm"
+    "title": "Galaxian Jp",
+    "source": "https://files.vyper.group/Galaxian_jp.nes.html",
+    "type": "html"
   },
   {
-    "name": "Galaxy 5000",
-    "rom_url": "/worksheets/main/Galaxy_5000.nes.zip",
-    "core": "fceumm"
+    "title": "Galaxy 5000",
+    "source": "https://files.vyper.group/Galaxy_5000.nes.html",
+    "type": "html"
   },
   {
-    "name": "Galg",
-    "rom_url": "/worksheets/main/Galg.nes.zip",
-    "core": "fceumm"
+    "title": "Galg",
+    "source": "https://files.vyper.group/Galg.nes.html",
+    "type": "html"
   },
   {
-    "name": "Game Party",
-    "rom_url": "/worksheets/main/Game_Party.nes.zip",
-    "core": "fceumm"
+    "title": "Game Party",
+    "source": "https://files.vyper.group/Game_Party.nes.html",
+    "type": "html"
   },
   {
-    "name": "Ganbare Goemon! - Karakuri Douchuu (Japan)",
-    "rom_url": "/worksheets/main/Ganbare_Goemon!_-_Karakuri_Douchuu_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Ganbare Goemon! - Karakuri Douchuu (Japan)",
+    "source": "https://files.vyper.group/Ganbare_Goemon!_-_Karakuri_Douchuu_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Ganbare Goemon 2 (Japan)",
-    "rom_url": "/worksheets/main/Ganbare_Goemon_2_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Ganbare Goemon 2 (Japan)",
+    "source": "https://files.vyper.group/Ganbare_Goemon_2_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Ganbare Goemon Gaiden - Kieta Ougon Kiseru (Japan)",
-    "rom_url": "/worksheets/main/Ganbare_Goemon_Gaiden_-_Kieta_Ougon_Kiseru_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Ganbare Goemon Gaiden - Kieta Ougon Kiseru (Japan)",
+    "source": "https://files.vyper.group/Ganbare_Goemon_Gaiden_-_Kieta_Ougon_Kiseru_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Ganbare Goemon Gaiden 2 - Tenka No Zaihou (Japan)",
-    "rom_url": "/worksheets/main/Ganbare_Goemon_Gaiden_2_-_Tenka_no_Zaihou_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Ganbare Goemon Gaiden 2 - Tenka No Zaihou (Japan)",
+    "source": "https://files.vyper.group/Ganbare_Goemon_Gaiden_2_-_Tenka_no_Zaihou_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Ganbare Pennant Race! (Japan)",
-    "rom_url": "/worksheets/main/Ganbare_Pennant_Race!_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Ganbare Pennant Race! (Japan)",
+    "source": "https://files.vyper.group/Ganbare_Pennant_Race!_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Garfield - A Week Of Garfield",
-    "rom_url": "/worksheets/main/Garfield_-_A_Week_of_Garfield.nes.zip",
-    "core": "fceumm"
+    "title": "Garfield - A Week Of Garfield",
+    "source": "https://files.vyper.group/Garfield_-_A_Week_of_Garfield.nes.html",
+    "type": "html"
   },
   {
-    "name": "Gargoyles Quest Ii - The Demon Darkness",
-    "rom_url": "/worksheets/main/Gargoyles_Quest_II_-_The_Demon_Darkness.nes.zip",
-    "core": "fceumm"
+    "title": "Gargoyles Quest Ii - The Demon Darkness",
+    "source": "https://files.vyper.group/Gargoyles_Quest_II_-_The_Demon_Darkness.nes.html",
+    "type": "html"
   },
   {
-    "name": "Gauntlet",
-    "rom_url": "/worksheets/main/Gauntlet.nes.zip",
-    "core": "fceumm"
+    "title": "Gauntlet",
+    "source": "https://files.vyper.group/Gauntlet.nes.html",
+    "type": "html"
   },
   {
-    "name": "Gauntlet Ii",
-    "rom_url": "/worksheets/main/Gauntlet_II.nes.zip",
-    "core": "fceumm"
+    "title": "Gauntlet Ii",
+    "source": "https://files.vyper.group/Gauntlet_II.nes.html",
+    "type": "html"
   },
   {
-    "name": "Gegege No Kitarou - Youkai Dai Makyou (Japan)",
-    "rom_url": "/worksheets/main/Gegege_no_Kitarou_-_Youkai_Dai_Makyou_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Gegege No Kitarou - Youkai Dai Makyou (Japan)",
+    "source": "https://files.vyper.group/Gegege_no_Kitarou_-_Youkai_Dai_Makyou_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Gegege No Kitarou 2 - Youkai Gundan No Chousen (Japan)",
-    "rom_url": "/worksheets/main/Gegege_no_Kitarou_2_-_Youkai_Gundan_no_Chousen_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Gegege No Kitarou 2 - Youkai Gundan No Chousen (Japan)",
+    "source": "https://files.vyper.group/Gegege_no_Kitarou_2_-_Youkai_Gundan_no_Chousen_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Geimos",
-    "rom_url": "/worksheets/main/Geimos.nes.zip",
-    "core": "fceumm"
+    "title": "Geimos",
+    "source": "https://files.vyper.group/Geimos.nes.html",
+    "type": "html"
   },
   {
-    "name": "Gekikame Ninja Den (Japan)",
-    "rom_url": "/worksheets/main/Gekikame_Ninja_Den_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Gekikame Ninja Den (Japan)",
+    "source": "https://files.vyper.group/Gekikame_Ninja_Den_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Gekitotsu Yonku Battle (Japan)",
-    "rom_url": "/worksheets/main/Gekitotsu_Yonku_Battle_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Gekitotsu Yonku Battle (Japan)",
+    "source": "https://files.vyper.group/Gekitotsu_Yonku_Battle_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Gemfire",
-    "rom_url": "/worksheets/main/Gemfire.nes.zip",
-    "core": "fceumm"
+    "title": "Gemfire",
+    "source": "https://files.vyper.group/Gemfire.nes.html",
+    "type": "html"
   },
   {
-    "name": "Genghis Khan",
-    "rom_url": "/worksheets/main/Genghis_Khan.nes.zip",
-    "core": "fceumm"
+    "title": "Genghis Khan",
+    "source": "https://files.vyper.group/Genghis_Khan.nes.html",
+    "type": "html"
   },
   {
-    "name": "Genpei Touma Den - Computer Boardgame",
-    "rom_url": "/worksheets/main/Genpei_Touma_Den_-_Computer_Boardgame.nes.zip",
-    "core": "fceumm"
+    "title": "Genpei Touma Den - Computer Boardgame",
+    "source": "https://files.vyper.group/Genpei_Touma_Den_-_Computer_Boardgame.nes.html",
+    "type": "html"
   },
   {
-    "name": "George Foremans Ko Boxing",
-    "rom_url": "/worksheets/main/George_Foremans_KO_Boxing.nes.zip",
-    "core": "fceumm"
+    "title": "George Foremans Ko Boxing",
+    "source": "https://files.vyper.group/George_Foremans_KO_Boxing.nes.html",
+    "type": "html"
   },
   {
-    "name": "Getsufuu Maden (Japan)",
-    "rom_url": "/worksheets/main/Getsufuu_Maden_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Getsufuu Maden (Japan)",
+    "source": "https://files.vyper.group/Getsufuu_Maden_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Ghostbusters",
-    "rom_url": "/worksheets/main/Ghostbusters.nes.zip",
-    "core": "fceumm"
+    "title": "Ghostbusters",
+    "source": "https://files.vyper.group/Ghostbusters.nes.html",
+    "type": "html"
   },
   {
-    "name": "Ghostbusters 2",
-    "rom_url": "/worksheets/main/Ghostbusters_2.nes.zip",
-    "core": "fceumm"
+    "title": "Ghostbusters 2",
+    "source": "https://files.vyper.group/Ghostbusters_2.nes.html",
+    "type": "html"
   },
   {
-    "name": "Ghostsn Goblins",
-    "rom_url": "/worksheets/main/Ghostsn_Goblins.nes.zip",
-    "core": "fceumm"
+    "title": "Ghostsn Goblins",
+    "source": "https://files.vyper.group/Ghostsn_Goblins.nes.html",
+    "type": "html"
   },
   {
-    "name": "Ghoul School",
-    "rom_url": "/worksheets/main/Ghoul_School.nes.zip",
-    "core": "fceumm"
+    "title": "Ghoul School",
+    "source": "https://files.vyper.group/Ghoul_School.nes.html",
+    "type": "html"
   },
   {
-    "name": "Gilligans Island",
-    "rom_url": "/worksheets/main/Gilligans_Island.nes.zip",
-    "core": "fceumm"
+    "title": "Gilligans Island",
+    "source": "https://files.vyper.group/Gilligans_Island.nes.html",
+    "type": "html"
   },
   {
-    "name": "Gimmick!",
-    "rom_url": "/worksheets/main/Gimmick!.nes.zip",
-    "core": "fceumm"
+    "title": "Gimmick!",
+    "source": "https://files.vyper.group/Gimmick!.nes.html",
+    "type": "html"
   },
   {
-    "name": "Ginga Eiyuu Densetsu (Japan)",
-    "rom_url": "/worksheets/main/Ginga_Eiyuu_Densetsu_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Ginga Eiyuu Densetsu (Japan)",
+    "source": "https://files.vyper.group/Ginga_Eiyuu_Densetsu_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Ginga No Sannin (Japan)",
-    "rom_url": "/worksheets/main/Ginga_no_Sannin_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Ginga No Sannin (Japan)",
+    "source": "https://files.vyper.group/Ginga_no_Sannin_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Goal!",
-    "rom_url": "/worksheets/main/Goal!.nes.zip",
-    "core": "fceumm"
+    "title": "Goal!",
+    "source": "https://files.vyper.group/Goal!.nes.html",
+    "type": "html"
   },
   {
-    "name": "Goal! Two",
-    "rom_url": "/worksheets/main/Goal!_Two.nes.zip",
-    "core": "fceumm"
+    "title": "Goal! Two",
+    "source": "https://files.vyper.group/Goal!_Two.nes.html",
+    "type": "html"
   },
   {
-    "name": "Godzilla 2 - War Of The Monsters",
-    "rom_url": "/worksheets/main/Godzilla_2_-_War_of_the_Monsters.nes.zip",
-    "core": "fceumm"
+    "title": "Godzilla 2 - War Of The Monsters",
+    "source": "https://files.vyper.group/Godzilla_2_-_War_of_the_Monsters.nes.html",
+    "type": "html"
   },
   {
-    "name": "Gold Medal Challenge 92",
-    "rom_url": "/worksheets/main/Gold_Medal_Challenge_92.nes.zip",
-    "core": "fceumm"
+    "title": "Gold Medal Challenge 92",
+    "source": "https://files.vyper.group/Gold_Medal_Challenge_92.nes.html",
+    "type": "html"
   },
   {
-    "name": "Golf",
-    "rom_url": "/worksheets/main/Golf.nes.zip",
-    "core": "fceumm"
+    "title": "Golf",
+    "source": "https://files.vyper.group/Golf.nes.html",
+    "type": "html"
   },
   {
-    "name": "Golf 92",
-    "rom_url": "/worksheets/main/Golf_92.nes.zip",
-    "core": "fceumm"
+    "title": "Golf 92",
+    "source": "https://files.vyper.group/Golf_92.nes.html",
+    "type": "html"
   },
   {
-    "name": "Golf Grand Slam",
-    "rom_url": "/worksheets/main/Golf_Grand_Slam.nes.zip",
-    "core": "fceumm"
+    "title": "Golf Grand Slam",
+    "source": "https://files.vyper.group/Golf_Grand_Slam.nes.html",
+    "type": "html"
   },
   {
-    "name": "Golf Ko Open (Japan)",
-    "rom_url": "/worksheets/main/Golf_Ko_Open_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Golf Ko Open (Japan)",
+    "source": "https://files.vyper.group/Golf_Ko_Open_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Golgo 13 - Top Secret Episode",
-    "rom_url": "/worksheets/main/Golgo_13_-_Top_Secret_Episode.nes.zip",
-    "core": "fceumm"
+    "title": "Golgo 13 - Top Secret Episode",
+    "source": "https://files.vyper.group/Golgo_13_-_Top_Secret_Episode.nes.html",
+    "type": "html"
   },
   {
-    "name": "Gomoku Narabe (Japan)",
-    "rom_url": "/worksheets/main/Gomoku_Narabe_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Gomoku Narabe (Japan)",
+    "source": "https://files.vyper.group/Gomoku_Narabe_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Goonies",
-    "rom_url": "/worksheets/main/Goonies.nes.zip",
-    "core": "fceumm"
+    "title": "Goonies",
+    "source": "https://files.vyper.group/Goonies.nes.html",
+    "type": "html"
   },
   {
-    "name": "Goonies Ii",
-    "rom_url": "/worksheets/main/Goonies_II.nes.zip",
-    "core": "fceumm"
+    "title": "Goonies Ii",
+    "source": "https://files.vyper.group/Goonies_II.nes.html",
+    "type": "html"
   },
   {
-    "name": "Gotcha! - The Sport!",
-    "rom_url": "/worksheets/main/Gotcha!_-_The_Sport!.nes.zip",
-    "core": "fceumm"
+    "title": "Gotcha! - The Sport!",
+    "source": "https://files.vyper.group/Gotcha!_-_The_Sport!.nes.html",
+    "type": "html"
   },
   {
-    "name": "Gozonji - Yaji Kita Chin Douchuu (Japan)",
-    "rom_url": "/worksheets/main/Gozonji_-_Yaji_Kita_Chin_Douchuu_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Gozonji - Yaji Kita Chin Douchuu (Japan)",
+    "source": "https://files.vyper.group/Gozonji_-_Yaji_Kita_Chin_Douchuu_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Gradius",
-    "rom_url": "/worksheets/main/Gradius.nes.zip",
-    "core": "fceumm"
+    "title": "Gradius",
+    "source": "https://files.vyper.group/Gradius.nes.html",
+    "type": "html"
   },
   {
-    "name": "Gradius 2",
-    "rom_url": "/worksheets/main/Gradius_2.nes.zip",
-    "core": "fceumm"
+    "title": "Gradius 2",
+    "source": "https://files.vyper.group/Gradius_2.nes.html",
+    "type": "html"
   },
   {
-    "name": "Grand Master",
-    "rom_url": "/worksheets/main/Grand_Master.nes.zip",
-    "core": "fceumm"
+    "title": "Grand Master",
+    "source": "https://files.vyper.group/Grand_Master.nes.html",
+    "type": "html"
   },
   {
-    "name": "Great Battle Cyber",
-    "rom_url": "/worksheets/main/Great_Battle_Cyber.nes.zip",
-    "core": "fceumm"
+    "title": "Great Battle Cyber",
+    "source": "https://files.vyper.group/Great_Battle_Cyber.nes.html",
+    "type": "html"
   },
   {
-    "name": "Great Deal",
-    "rom_url": "/worksheets/main/Great_Deal.nes.zip",
-    "core": "fceumm"
+    "title": "Great Deal",
+    "source": "https://files.vyper.group/Great_Deal.nes.html",
+    "type": "html"
   },
   {
-    "name": "Great Tank",
-    "rom_url": "/worksheets/main/Great_Tank.nes.zip",
-    "core": "fceumm"
+    "title": "Great Tank",
+    "source": "https://files.vyper.group/Great_Tank.nes.html",
+    "type": "html"
   },
   {
-    "name": "Great Waldo Search",
-    "rom_url": "/worksheets/main/Great_Waldo_Search.nes.zip",
-    "core": "fceumm"
+    "title": "Great Waldo Search",
+    "source": "https://files.vyper.group/Great_Waldo_Search.nes.html",
+    "type": "html"
   },
   {
-    "name": "Greg Normans Golf Power",
-    "rom_url": "/worksheets/main/Greg_Normans_Golf_Power.nes.zip",
-    "core": "fceumm"
+    "title": "Greg Normans Golf Power",
+    "source": "https://files.vyper.group/Greg_Normans_Golf_Power.nes.html",
+    "type": "html"
   },
   {
-    "name": "Gremlins 2 - The New Batch",
-    "rom_url": "/worksheets/main/Gremlins_2_-_The_New_Batch.nes.zip",
-    "core": "fceumm"
+    "title": "Gremlins 2 - The New Batch",
+    "source": "https://files.vyper.group/Gremlins_2_-_The_New_Batch.nes.html",
+    "type": "html"
   },
   {
-    "name": "Gryzor",
-    "rom_url": "/worksheets/main/Gryzor.nes.zip",
-    "core": "fceumm"
+    "title": "Gryzor",
+    "source": "https://files.vyper.group/Gryzor.nes.html",
+    "type": "html"
   },
   {
-    "name": "Guardian Legend",
-    "rom_url": "/worksheets/main/Guardian_Legend.nes.zip",
-    "core": "fceumm"
+    "title": "Guardian Legend",
+    "source": "https://files.vyper.group/Guardian_Legend.nes.html",
+    "type": "html"
   },
   {
-    "name": "Guerrilla War",
-    "rom_url": "/worksheets/main/Guerrilla_War.nes.zip",
-    "core": "fceumm"
+    "title": "Guerrilla War",
+    "source": "https://files.vyper.group/Guerrilla_War.nes.html",
+    "type": "html"
   },
   {
-    "name": "Guevara",
-    "rom_url": "/worksheets/main/Guevara.nes.zip",
-    "core": "fceumm"
+    "title": "Guevara",
+    "source": "https://files.vyper.group/Guevara.nes.html",
+    "type": "html"
   },
   {
-    "name": "Gumshoe",
-    "rom_url": "/worksheets/main/Gumshoe.nes.zip",
-    "core": "fceumm"
+    "title": "Gumshoe",
+    "source": "https://files.vyper.group/Gumshoe.nes.html",
+    "type": "html"
   },
   {
-    "name": "Gun Hed",
-    "rom_url": "/worksheets/main/Gun_Hed.nes.zip",
-    "core": "fceumm"
+    "title": "Gun Hed",
+    "source": "https://files.vyper.group/Gun_Hed.nes.html",
+    "type": "html"
   },
   {
-    "name": "Gun Nac",
-    "rom_url": "/worksheets/main/Gun_Nac.nes.zip",
-    "core": "fceumm"
+    "title": "Gun Nac",
+    "source": "https://files.vyper.group/Gun_Nac.nes.html",
+    "type": "html"
   },
   {
-    "name": "Gun Smoke",
-    "rom_url": "/worksheets/main/Gun_Smoke.nes.zip",
-    "core": "fceumm"
+    "title": "Gun Smoke",
+    "source": "https://files.vyper.group/Gun_Smoke.nes.html",
+    "type": "html"
   },
   {
-    "name": "Gyrodine",
-    "rom_url": "/worksheets/main/Gyrodine.nes.zip",
-    "core": "fceumm"
+    "title": "Gyrodine",
+    "source": "https://files.vyper.group/Gyrodine.nes.html",
+    "type": "html"
   },
   {
-    "name": "Gyromite",
-    "rom_url": "/worksheets/main/Gyromite.nes.zip",
-    "core": "fceumm"
+    "title": "Gyromite",
+    "source": "https://files.vyper.group/Gyromite.nes.html",
+    "type": "html"
   },
   {
-    "name": "Gyruss",
-    "rom_url": "/worksheets/main/Gyruss.nes.zip",
-    "core": "fceumm"
+    "title": "Gyruss",
+    "source": "https://files.vyper.group/Gyruss.nes.html",
+    "type": "html"
   },
   {
-    "name": "Haja No Fuuin (Japan)",
-    "rom_url": "/worksheets/main/Haja_no_Fuuin_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Haja No Fuuin (Japan)",
+    "source": "https://files.vyper.group/Haja_no_Fuuin_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Hammerin Harry",
-    "rom_url": "/worksheets/main/Hammerin_Harry.nes.zip",
-    "core": "fceumm"
+    "title": "Hammerin Harry",
+    "source": "https://files.vyper.group/Hammerin_Harry.nes.html",
+    "type": "html"
   },
   {
-    "name": "Hana No Star Kaidou",
-    "rom_url": "/worksheets/main/Hana_no_Star_Kaidou.nes.zip",
-    "core": "fceumm"
+    "title": "Hana No Star Kaidou",
+    "source": "https://files.vyper.group/Hana_no_Star_Kaidou.nes.html",
+    "type": "html"
   },
   {
-    "name": "Hanjuku Eiyuu (Japan)",
-    "rom_url": "/worksheets/main/Hanjuku_Eiyuu_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Hanjuku Eiyuu (Japan)",
+    "source": "https://files.vyper.group/Hanjuku_Eiyuu_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Happy Birthday Bugs",
-    "rom_url": "/worksheets/main/Happy_Birthday_Bugs.nes.zip",
-    "core": "fceumm"
+    "title": "Happy Birthday Bugs",
+    "source": "https://files.vyper.group/Happy_Birthday_Bugs.nes.html",
+    "type": "html"
   },
   {
-    "name": "Harlem Globetrotters",
-    "rom_url": "/worksheets/main/Harlem_Globetrotters.nes.zip",
-    "core": "fceumm"
+    "title": "Harlem Globetrotters",
+    "source": "https://files.vyper.group/Harlem_Globetrotters.nes.html",
+    "type": "html"
   },
   {
-    "name": "Hatris",
-    "rom_url": "/worksheets/main/Hatris.nes.zip",
-    "core": "fceumm"
+    "title": "Hatris",
+    "source": "https://files.vyper.group/Hatris.nes.html",
+    "type": "html"
   },
   {
-    "name": "Hayauchi Super Igo (Japan)",
-    "rom_url": "/worksheets/main/Hayauchi_Super_Igo_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Hayauchi Super Igo (Japan)",
+    "source": "https://files.vyper.group/Hayauchi_Super_Igo_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Heavy Barrel",
-    "rom_url": "/worksheets/main/Heavy_Barrel.nes.zip",
-    "core": "fceumm"
+    "title": "Heavy Barrel",
+    "source": "https://files.vyper.group/Heavy_Barrel.nes.html",
+    "type": "html"
   },
   {
-    "name": "Heavy Shreddin",
-    "rom_url": "/worksheets/main/Heavy_Shreddin.nes.zip",
-    "core": "fceumm"
+    "title": "Heavy Shreddin",
+    "source": "https://files.vyper.group/Heavy_Shreddin.nes.html",
+    "type": "html"
   },
   {
-    "name": "Hebereke",
-    "rom_url": "/worksheets/main/Hebereke.nes.zip",
-    "core": "fceumm"
+    "title": "Hebereke",
+    "source": "https://files.vyper.group/Hebereke.nes.html",
+    "type": "html"
   },
   {
-    "name": "Hector 87",
-    "rom_url": "/worksheets/main/Hector_87.nes.zip",
-    "core": "fceumm"
+    "title": "Hector 87",
+    "source": "https://files.vyper.group/Hector_87.nes.html",
+    "type": "html"
   },
   {
-    "name": "Heisei Tensai Bakabon (Japan)",
-    "rom_url": "/worksheets/main/Heisei_Tensai_Bakabon_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Heisei Tensai Bakabon (Japan)",
+    "source": "https://files.vyper.group/Heisei_Tensai_Bakabon_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Hello Kitty No Ohanabatake (Japan)",
-    "rom_url": "/worksheets/main/Hello_Kitty_no_Ohanabatake_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Hello Kitty No Ohanabatake (Japan)",
+    "source": "https://files.vyper.group/Hello_Kitty_no_Ohanabatake_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Hello Kitty World (Japan)",
-    "rom_url": "/worksheets/main/Hello_Kitty_World_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Hello Kitty World (Japan)",
+    "source": "https://files.vyper.group/Hello_Kitty_World_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Herakles No Eikou - Toujin Makyou Den (Japan)",
-    "rom_url": "/worksheets/main/Herakles_no_Eikou_-_Toujin_Makyou_Den_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Herakles No Eikou - Toujin Makyou Den (Japan)",
+    "source": "https://files.vyper.group/Herakles_no_Eikou_-_Toujin_Makyou_Den_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Herakles No Eikou 2 - Titan No Metsubou (Japan)",
-    "rom_url": "/worksheets/main/Herakles_no_Eikou_2_-_Titan_no_Metsubou_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Herakles No Eikou 2 - Titan No Metsubou (Japan)",
+    "source": "https://files.vyper.group/Herakles_no_Eikou_2_-_Titan_no_Metsubou_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Highway Star",
-    "rom_url": "/worksheets/main/Highway_Star.nes.zip",
-    "core": "fceumm"
+    "title": "Highway Star",
+    "source": "https://files.vyper.group/Highway_Star.nes.html",
+    "type": "html"
   },
   {
-    "name": "High Speed",
-    "rom_url": "/worksheets/main/High_Speed.nes.zip",
-    "core": "fceumm"
+    "title": "High Speed",
+    "source": "https://files.vyper.group/High_Speed.nes.html",
+    "type": "html"
   },
   {
-    "name": "Hiryuu No Ken Special - Fighting Wars (Japan)",
-    "rom_url": "/worksheets/main/Hiryuu_no_Ken_Special_-_Fighting_Wars_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Hiryuu No Ken Special - Fighting Wars (Japan)",
+    "source": "https://files.vyper.group/Hiryuu_no_Ken_Special_-_Fighting_Wars_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Hissatsu Doujou Yaburi (Japan)",
-    "rom_url": "/worksheets/main/Hissatsu_Doujou_Yaburi_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Hissatsu Doujou Yaburi (Japan)",
+    "source": "https://files.vyper.group/Hissatsu_Doujou_Yaburi_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Hissatsu Shigoto Nin (Japan)",
-    "rom_url": "/worksheets/main/Hissatsu_Shigoto_Nin_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Hissatsu Shigoto Nin (Japan)",
+    "source": "https://files.vyper.group/Hissatsu_Shigoto_Nin_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Hitler No Fukkatsu - Top Secret (Japan)",
-    "rom_url": "/worksheets/main/Hitler_no_Fukkatsu_-_Top_Secret_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Hitler No Fukkatsu - Top Secret (Japan)",
+    "source": "https://files.vyper.group/Hitler_no_Fukkatsu_-_Top_Secret_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Hi No Tori - Houou Hen - Gaou No Bouken (Japan)",
-    "rom_url": "/worksheets/main/Hi_no_Tori_-_Houou_Hen_-_Gaou_no_Bouken_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Hi No Tori - Houou Hen - Gaou No Bouken (Japan)",
+    "source": "https://files.vyper.group/Hi_no_Tori_-_Houou_Hen_-_Gaou_no_Bouken_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Hogans Alley",
-    "rom_url": "/worksheets/main/Hogans_Alley.nes.zip",
-    "core": "fceumm"
+    "title": "Hogans Alley",
+    "source": "https://files.vyper.group/Hogans_Alley.nes.html",
+    "type": "html"
   },
   {
-    "name": "Hokuto No Ken (Japan)",
-    "rom_url": "/worksheets/main/Hokuto_no_Ken_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Hokuto No Ken (Japan)",
+    "source": "https://files.vyper.group/Hokuto_no_Ken_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Hokuto No Ken 2 - Seikimatsu Kyuuseishu Densetsu (Japan)",
-    "rom_url": "/worksheets/main/Hokuto_no_Ken_2_-_Seikimatsu_Kyuuseishu_Densetsu_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Hokuto No Ken 2 - Seikimatsu Kyuuseishu Densetsu (Japan)",
+    "source": "https://files.vyper.group/Hokuto_no_Ken_2_-_Seikimatsu_Kyuuseishu_Densetsu_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Hokuto No Ken 3 - Shin Seiki Souzou Seiken Restuden (Japan)",
-    "rom_url": "/worksheets/main/Hokuto_no_Ken_3_-_Shin_Seiki_Souzou_Seiken_Restuden_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Hokuto No Ken 3 - Shin Seiki Souzou Seiken Restuden (Japan)",
+    "source": "https://files.vyper.group/Hokuto_no_Ken_3_-_Shin_Seiki_Souzou_Seiken_Restuden_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Hokuto No Ken 4 - Shichisei Haken Den - Hokuto Shinken No Kanata He (Japan)",
-    "rom_url": "/worksheets/main/Hokuto_no_Ken_4_-_Shichisei_Haken_Den_-_Hokuto_Shinken_no_Kanata_he_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Hokuto No Ken 4 - Shichisei Haken Den - Hokuto Shinken No Kanata He (Japan)",
+    "source": "https://files.vyper.group/Hokuto_no_Ken_4_-_Shichisei_Haken_Den_-_Hokuto_Shinken_no_Kanata_he_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Hollywood Squares",
-    "rom_url": "/worksheets/main/Hollywood_Squares.nes.zip",
-    "core": "fceumm"
+    "title": "Hollywood Squares",
+    "source": "https://files.vyper.group/Hollywood_Squares.nes.html",
+    "type": "html"
   },
   {
-    "name": "Holy Diver",
-    "rom_url": "/worksheets/main/Holy_Diver.nes.zip",
-    "core": "fceumm"
+    "title": "Holy Diver",
+    "source": "https://files.vyper.group/Holy_Diver.nes.html",
+    "type": "html"
   },
   {
-    "name": "Home Alone",
-    "rom_url": "/worksheets/main/Home_Alone.nes.zip",
-    "core": "fceumm"
+    "title": "Home Alone",
+    "source": "https://files.vyper.group/Home_Alone.nes.html",
+    "type": "html"
   },
   {
-    "name": "Home Alone 2 - Lost In New York",
-    "rom_url": "/worksheets/main/Home_Alone_2_-_Lost_in_New_York.nes.zip",
-    "core": "fceumm"
+    "title": "Home Alone 2 - Lost In New York",
+    "source": "https://files.vyper.group/Home_Alone_2_-_Lost_in_New_York.nes.html",
+    "type": "html"
   },
   {
-    "name": "Hook",
-    "rom_url": "/worksheets/main/Hook.nes.zip",
-    "core": "fceumm"
+    "title": "Hook",
+    "source": "https://files.vyper.group/Hook.nes.html",
+    "type": "html"
   },
   {
-    "name": "Hoops",
-    "rom_url": "/worksheets/main/Hoops.nes.zip",
-    "core": "fceumm"
+    "title": "Hoops",
+    "source": "https://files.vyper.group/Hoops.nes.html",
+    "type": "html"
   },
   {
-    "name": "Hostages - The Embassy Mission",
-    "rom_url": "/worksheets/main/Hostages_-_The_Embassy_Mission.nes.zip",
-    "core": "fceumm"
+    "title": "Hostages - The Embassy Mission",
+    "source": "https://files.vyper.group/Hostages_-_The_Embassy_Mission.nes.html",
+    "type": "html"
   },
   {
-    "name": "Hototogisu (Japan)",
-    "rom_url": "/worksheets/main/Hototogisu_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Hototogisu (Japan)",
+    "source": "https://files.vyper.group/Hototogisu_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Hot Slot",
-    "rom_url": "/worksheets/main/Hot_Slot.nes.zip",
-    "core": "fceumm"
+    "title": "Hot Slot",
+    "source": "https://files.vyper.group/Hot_Slot.nes.html",
+    "type": "html"
   },
   {
-    "name": "Houma Ga Toki (Japan)",
-    "rom_url": "/worksheets/main/Houma_ga_Toki_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Houma Ga Toki (Japan)",
+    "source": "https://files.vyper.group/Houma_ga_Toki_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Hudsons Adventure Island",
-    "rom_url": "/worksheets/main/Hudsons_Adventure_Island.nes.zip",
-    "core": "fceumm"
+    "title": "Hudsons Adventure Island",
+    "source": "https://files.vyper.group/Hudsons_Adventure_Island.nes.html",
+    "type": "html"
   },
   {
-    "name": "Hudsons Adventure Island Ii",
-    "rom_url": "/worksheets/main/Hudsons_Adventure_Island_II.nes.zip",
-    "core": "fceumm"
+    "title": "Hudsons Adventure Island Ii",
+    "source": "https://files.vyper.group/Hudsons_Adventure_Island_II.nes.html",
+    "type": "html"
   },
   {
-    "name": "Hudsons Adventure Island Iii",
-    "rom_url": "/worksheets/main/Hudsons_Adventure_Island_III.nes.zip",
-    "core": "fceumm"
+    "title": "Hudsons Adventure Island Iii",
+    "source": "https://files.vyper.group/Hudsons_Adventure_Island_III.nes.html",
+    "type": "html"
   },
   {
-    "name": "Hudson Hawk",
-    "rom_url": "/worksheets/main/Hudson_Hawk.nes.zip",
-    "core": "fceumm"
+    "title": "Hudson Hawk",
+    "source": "https://files.vyper.group/Hudson_Hawk.nes.html",
+    "type": "html"
   },
   {
-    "name": "Hunt For Red October",
-    "rom_url": "/worksheets/main/Hunt_for_Red_October.nes.zip",
-    "core": "fceumm"
+    "title": "Hunt For Red October",
+    "source": "https://files.vyper.group/Hunt_for_Red_October.nes.html",
+    "type": "html"
   },
   {
-    "name": "Hyakkiyakou (Japan)",
-    "rom_url": "/worksheets/main/Hyakkiyakou_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Hyakkiyakou (Japan)",
+    "source": "https://files.vyper.group/Hyakkiyakou_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Hydlide",
-    "rom_url": "/worksheets/main/Hydlide.nes.zip",
-    "core": "fceumm"
+    "title": "Hydlide",
+    "source": "https://files.vyper.group/Hydlide.nes.html",
+    "type": "html"
   },
   {
-    "name": "Hydlide 3 - Yami Kara No Houmonsha (Japan)",
-    "rom_url": "/worksheets/main/Hydlide_3_-_Yami_Kara_no_Houmonsha_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Hydlide 3 - Yami Kara No Houmonsha (Japan)",
+    "source": "https://files.vyper.group/Hydlide_3_-_Yami_Kara_no_Houmonsha_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Hydlide Special",
-    "rom_url": "/worksheets/main/Hydlide_Special.nes.zip",
-    "core": "fceumm"
+    "title": "Hydlide Special",
+    "source": "https://files.vyper.group/Hydlide_Special.nes.html",
+    "type": "html"
   },
   {
-    "name": "Hyper Sports",
-    "rom_url": "/worksheets/main/Hyper_Sports.nes.zip",
-    "core": "fceumm"
+    "title": "Hyper Sports",
+    "source": "https://files.vyper.group/Hyper_Sports.nes.html",
+    "type": "html"
   },
   {
-    "name": "Ice Climber",
-    "rom_url": "/worksheets/main/Ice_Climber.nes.zip",
-    "core": "fceumm"
+    "title": "Ice Climber",
+    "source": "https://files.vyper.group/Ice_Climber.nes.html",
+    "type": "html"
   },
   {
-    "name": "Ice Hockey",
-    "rom_url": "/worksheets/main/Ice_Hockey.nes.zip",
-    "core": "fceumm"
+    "title": "Ice Hockey",
+    "source": "https://files.vyper.group/Ice_Hockey.nes.html",
+    "type": "html"
   },
   {
-    "name": "Idol Hakkenden (Japan)",
-    "rom_url": "/worksheets/main/Idol_Hakkenden_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Idol Hakkenden (Japan)",
+    "source": "https://files.vyper.group/Idol_Hakkenden_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Ikari Iii - The Rescue",
-    "rom_url": "/worksheets/main/Ikari_III_-_The_Rescue.nes.zip",
-    "core": "fceumm"
+    "title": "Ikari Iii - The Rescue",
+    "source": "https://files.vyper.group/Ikari_III_-_The_Rescue.nes.html",
+    "type": "html"
   },
   {
-    "name": "Ikari Warriors",
-    "rom_url": "/worksheets/main/Ikari_Warriors.nes.zip",
-    "core": "fceumm"
+    "title": "Ikari Warriors",
+    "source": "https://files.vyper.group/Ikari_Warriors.nes.html",
+    "type": "html"
   },
   {
-    "name": "Ikari Warriors 2 - Victory Road",
-    "rom_url": "/worksheets/main/Ikari_Warriors_2_-_Victory_Road.nes.zip",
-    "core": "fceumm"
+    "title": "Ikari Warriors 2 - Victory Road",
+    "source": "https://files.vyper.group/Ikari_Warriors_2_-_Victory_Road.nes.html",
+    "type": "html"
   },
   {
-    "name": "Ike Ike! Nekketsu Hockey Bu - Subette Koronde Dai Rantou (Japan)",
-    "rom_url": "/worksheets/main/Ike_Ike!_Nekketsu_Hockey_Bu_-_Subette_Koronde_Dai_Rantou_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Ike Ike! Nekketsu Hockey Bu - Subette Koronde Dai Rantou (Japan)",
+    "source": "https://files.vyper.group/Ike_Ike!_Nekketsu_Hockey_Bu_-_Subette_Koronde_Dai_Rantou_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Ikinari Musician",
-    "rom_url": "/worksheets/main/Ikinari_Musician.nes.zip",
-    "core": "fceumm"
+    "title": "Ikinari Musician",
+    "source": "https://files.vyper.group/Ikinari_Musician.nes.html",
+    "type": "html"
   },
   {
-    "name": "Ikki",
-    "rom_url": "/worksheets/main/Ikki.nes.zip",
-    "core": "fceumm"
+    "title": "Ikki",
+    "source": "https://files.vyper.group/Ikki.nes.html",
+    "type": "html"
   },
   {
-    "name": "Image Fight",
-    "rom_url": "/worksheets/main/Image_Fight.nes.zip",
-    "core": "fceumm"
+    "title": "Image Fight",
+    "source": "https://files.vyper.group/Image_Fight.nes.html",
+    "type": "html"
   },
   {
-    "name": "Immortal",
-    "rom_url": "/worksheets/main/Immortal.nes.zip",
-    "core": "fceumm"
+    "title": "Immortal",
+    "source": "https://files.vyper.group/Immortal.nes.html",
+    "type": "html"
   },
   {
-    "name": "Impossible Mission Ii",
-    "rom_url": "/worksheets/main/Impossible_Mission_II.nes.zip",
-    "core": "fceumm"
+    "title": "Impossible Mission Ii",
+    "source": "https://files.vyper.group/Impossible_Mission_II.nes.html",
+    "type": "html"
   },
   {
-    "name": "Incredible Crash Dummies",
-    "rom_url": "/worksheets/main/Incredible_Crash_Dummies.nes.zip",
-    "core": "fceumm"
+    "title": "Incredible Crash Dummies",
+    "source": "https://files.vyper.group/Incredible_Crash_Dummies.nes.html",
+    "type": "html"
   },
   {
-    "name": "Indiana Jones And The Last Crusade",
-    "rom_url": "/worksheets/main/Indiana_Jones_and_the_Last_Crusade.nes.zip",
-    "core": "fceumm"
+    "title": "Indiana Jones And The Last Crusade",
+    "source": "https://files.vyper.group/Indiana_Jones_and_the_Last_Crusade.nes.html",
+    "type": "html"
   },
   {
-    "name": "Indiana Jones And The Temple Of Doom",
-    "rom_url": "/worksheets/main/Indiana_Jones_and_the_Temple_of_Doom.nes.zip",
-    "core": "fceumm"
+    "title": "Indiana Jones And The Temple Of Doom",
+    "source": "https://files.vyper.group/Indiana_Jones_and_the_Temple_of_Doom.nes.html",
+    "type": "html"
   },
   {
-    "name": "Indora No Hikari (Japan)",
-    "rom_url": "/worksheets/main/Indora_no_Hikari_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Indora No Hikari (Japan)",
+    "source": "https://files.vyper.group/Indora_no_Hikari_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Infiltrator",
-    "rom_url": "/worksheets/main/Infiltrator.nes.zip",
-    "core": "fceumm"
+    "title": "Infiltrator",
+    "source": "https://files.vyper.group/Infiltrator.nes.html",
+    "type": "html"
   },
   {
-    "name": "Insector X",
-    "rom_url": "/worksheets/main/Insector_X.nes.zip",
-    "core": "fceumm"
+    "title": "Insector X",
+    "source": "https://files.vyper.group/Insector_X.nes.html",
+    "type": "html"
   },
   {
-    "name": "International Cricket",
-    "rom_url": "/worksheets/main/International_Cricket.nes.zip",
-    "core": "fceumm"
+    "title": "International Cricket",
+    "source": "https://files.vyper.group/International_Cricket.nes.html",
+    "type": "html"
   },
   {
-    "name": "Ironsword - Wizards & Warriors 2",
-    "rom_url": "/worksheets/main/Ironsword_-_Wizards_&_Warriors_2.nes.zip",
-    "core": "fceumm"
+    "title": "Ironsword - Wizards & Warriors 2",
+    "source": "https://files.vyper.group/Ironsword_-_Wizards_&_Warriors_2.nes.html",
+    "type": "html"
   },
   {
-    "name": "Iron Tank",
-    "rom_url": "/worksheets/main/Iron_Tank.nes.zip",
-    "core": "fceumm"
+    "title": "Iron Tank",
+    "source": "https://files.vyper.group/Iron_Tank.nes.html",
+    "type": "html"
   },
   {
-    "name": "Isolated Warrior",
-    "rom_url": "/worksheets/main/Isolated_Warrior.nes.zip",
-    "core": "fceumm"
+    "title": "Isolated Warrior",
+    "source": "https://files.vyper.group/Isolated_Warrior.nes.html",
+    "type": "html"
   },
   {
-    "name": "Itadaki Street - Watashi No Mise Ni Yottette (Japan)",
-    "rom_url": "/worksheets/main/Itadaki_Street_-_Watashi_no_Mise_ni_Yottette_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Itadaki Street - Watashi No Mise Ni Yottette (Japan)",
+    "source": "https://files.vyper.group/Itadaki_Street_-_Watashi_no_Mise_ni_Yottette_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Ivan Ironman Stewarts Super Off-Road",
-    "rom_url": "/worksheets/main/Ivan_Ironman_Stewarts_Super_Off-Road.nes.zip",
-    "core": "fceumm"
+    "title": "Ivan Ironman Stewarts Super Off-Road",
+    "source": "https://files.vyper.group/Ivan_Ironman_Stewarts_Super_Off-Road.nes.html",
+    "type": "html"
   },
   {
-    "name": "I Can Remember",
-    "rom_url": "/worksheets/main/I_Can_Remember.nes.zip",
-    "core": "fceumm"
+    "title": "I Can Remember",
+    "source": "https://files.vyper.group/I_Can_Remember.nes.html",
+    "type": "html"
   },
   {
-    "name": "I Love Softball (Japan)",
-    "rom_url": "/worksheets/main/I_Love_Softball_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "I Love Softball (Japan)",
+    "source": "https://files.vyper.group/I_Love_Softball_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Jackal",
-    "rom_url": "/worksheets/main/Jackal.nes.zip",
-    "core": "fceumm"
+    "title": "Jackal",
+    "source": "https://files.vyper.group/Jackal.nes.html",
+    "type": "html"
   },
   {
-    "name": "Jackie Chans Action Kung Fu",
-    "rom_url": "/worksheets/main/Jackie_Chans_Action_Kung_Fu.nes.zip",
-    "core": "fceumm"
+    "title": "Jackie Chans Action Kung Fu",
+    "source": "https://files.vyper.group/Jackie_Chans_Action_Kung_Fu.nes.html",
+    "type": "html"
   },
   {
-    "name": "Jack Nicklaus Greatest 18 Holes Of Major Championship Golf",
-    "rom_url": "/worksheets/main/Jack_Nicklaus_Greatest_18_Holes_of_Major_Championship_Golf.nes.zip",
-    "core": "fceumm"
+    "title": "Jack Nicklaus Greatest 18 Holes Of Major Championship Golf",
+    "source": "https://files.vyper.group/Jack_Nicklaus_Greatest_18_Holes_of_Major_Championship_Golf.nes.html",
+    "type": "html"
   },
   {
-    "name": "James Bond Jr.",
-    "rom_url": "/worksheets/main/James_Bond_Jr..nes.zip",
-    "core": "fceumm"
+    "title": "James Bond Jr.",
+    "source": "https://files.vyper.group/James_Bond_Jr..nes.html",
+    "type": "html"
   },
   {
-    "name": "Jangou (Japan)",
-    "rom_url": "/worksheets/main/Jangou_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Jangou (Japan)",
+    "source": "https://files.vyper.group/Jangou_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Jaws",
-    "rom_url": "/worksheets/main/Jaws.nes.zip",
-    "core": "fceumm"
+    "title": "Jaws",
+    "source": "https://files.vyper.group/Jaws.nes.html",
+    "type": "html"
   },
   {
-    "name": "Jeopardy!",
-    "rom_url": "/worksheets/main/Jeopardy!.nes.zip",
-    "core": "fceumm"
+    "title": "Jeopardy!",
+    "source": "https://files.vyper.group/Jeopardy!.nes.html",
+    "type": "html"
   },
   {
-    "name": "Jeopardy! 25Th Anniversary Edition",
-    "rom_url": "/worksheets/main/Jeopardy!_25th_Anniversary_Edition.nes.zip",
-    "core": "fceumm"
+    "title": "Jeopardy! 25Th Anniversary Edition",
+    "source": "https://files.vyper.group/Jeopardy!_25th_Anniversary_Edition.nes.html",
+    "type": "html"
   },
   {
-    "name": "Jeopardy! Junior Edition",
-    "rom_url": "/worksheets/main/Jeopardy!_Junior_Edition.nes.zip",
-    "core": "fceumm"
+    "title": "Jeopardy! Junior Edition",
+    "source": "https://files.vyper.group/Jeopardy!_Junior_Edition.nes.html",
+    "type": "html"
   },
   {
-    "name": "Jesus - Kyoufu No Bio Monster (Japan)",
-    "rom_url": "/worksheets/main/Jesus_-_Kyoufu_no_Bio_Monster_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Jesus - Kyoufu No Bio Monster (Japan)",
+    "source": "https://files.vyper.group/Jesus_-_Kyoufu_no_Bio_Monster_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Jetsons - Cogswells Caper!",
-    "rom_url": "/worksheets/main/Jetsons_-_Cogswells_Caper!.nes.zip",
-    "core": "fceumm"
+    "title": "Jetsons - Cogswells Caper!",
+    "source": "https://files.vyper.group/Jetsons_-_Cogswells_Caper!.nes.html",
+    "type": "html"
   },
   {
-    "name": "Jigoku Gokuraku Maru (Japan)",
-    "rom_url": "/worksheets/main/Jigoku_Gokuraku_Maru_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Jigoku Gokuraku Maru (Japan)",
+    "source": "https://files.vyper.group/Jigoku_Gokuraku_Maru_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Jikuu Yuuden - Debias (Japan)",
-    "rom_url": "/worksheets/main/Jikuu_Yuuden_-_Debias_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Jikuu Yuuden - Debias (Japan)",
+    "source": "https://files.vyper.group/Jikuu_Yuuden_-_Debias_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Jimmy Connors Tennis",
-    "rom_url": "/worksheets/main/Jimmy_Connors_Tennis.nes.zip",
-    "core": "fceumm"
+    "title": "Jimmy Connors Tennis",
+    "source": "https://files.vyper.group/Jimmy_Connors_Tennis.nes.html",
+    "type": "html"
   },
   {
-    "name": "Jj - Tobidase Daisakusen Part 2",
-    "rom_url": "/worksheets/main/JJ_-_Tobidase_Daisakusen_Part_2.nes.zip",
-    "core": "fceumm"
+    "title": "Jj - Tobidase Daisakusen Part 2",
+    "source": "https://files.vyper.group/JJ_-_Tobidase_Daisakusen_Part_2.nes.html",
+    "type": "html"
   },
   {
-    "name": "Joe & Mac",
-    "rom_url": "/worksheets/main/Joe_&_Mac.nes.zip",
-    "core": "fceumm"
+    "title": "Joe & Mac",
+    "source": "https://files.vyper.group/Joe_&_Mac.nes.html",
+    "type": "html"
   },
   {
-    "name": "John Elways Quarterback",
-    "rom_url": "/worksheets/main/John_Elways_Quarterback.nes.zip",
-    "core": "fceumm"
+    "title": "John Elways Quarterback",
+    "source": "https://files.vyper.group/John_Elways_Quarterback.nes.html",
+    "type": "html"
   },
   {
-    "name": "Jordan Vs. Bird - One On One",
-    "rom_url": "/worksheets/main/Jordan_vs._Bird_-_One_on_One.nes.zip",
-    "core": "fceumm"
+    "title": "Jordan Vs. Bird - One On One",
+    "source": "https://files.vyper.group/Jordan_vs._Bird_-_One_on_One.nes.html",
+    "type": "html"
   },
   {
-    "name": "Joshua",
-    "rom_url": "/worksheets/main/Joshua.nes.zip",
-    "core": "fceumm"
+    "title": "Joshua",
+    "source": "https://files.vyper.group/Joshua.nes.html",
+    "type": "html"
   },
   {
-    "name": "Journey To Silius",
-    "rom_url": "/worksheets/main/Journey_to_Silius.nes.zip",
-    "core": "fceumm"
+    "title": "Journey To Silius",
+    "source": "https://files.vyper.group/Journey_to_Silius.nes.html",
+    "type": "html"
   },
   {
-    "name": "Joust",
-    "rom_url": "/worksheets/main/Joust.nes.zip",
-    "core": "fceumm"
+    "title": "Joust",
+    "source": "https://files.vyper.group/Joust.nes.html",
+    "type": "html"
   },
   {
-    "name": "Jungle Book",
-    "rom_url": "/worksheets/main/Jungle_Book.nes.zip",
-    "core": "fceumm"
+    "title": "Jungle Book",
+    "source": "https://files.vyper.group/Jungle_Book.nes.html",
+    "type": "html"
   },
   {
-    "name": "Jurassic Park",
-    "rom_url": "/worksheets/main/Jurassic_Park.nes.zip",
-    "core": "fceumm"
+    "title": "Jurassic Park",
+    "source": "https://files.vyper.group/Jurassic_Park.nes.html",
+    "type": "html"
   },
   {
-    "name": "Just Breed",
-    "rom_url": "/worksheets/main/Just_Breed.nes.zip",
-    "core": "fceumm"
+    "title": "Just Breed",
+    "source": "https://files.vyper.group/Just_Breed.nes.html",
+    "type": "html"
   },
   {
-    "name": "Juuouki",
-    "rom_url": "/worksheets/main/Juuouki.nes.zip",
-    "core": "fceumm"
+    "title": "Juuouki",
+    "source": "https://files.vyper.group/Juuouki.nes.html",
+    "type": "html"
   },
   {
-    "name": "Juuryoku Soukou Metal Storm (Japan)",
-    "rom_url": "/worksheets/main/Juuryoku_Soukou_Metal_Storm_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Juuryoku Soukou Metal Storm (Japan)",
+    "source": "https://files.vyper.group/Juuryoku_Soukou_Metal_Storm_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Juvei Quest (Japan)",
-    "rom_url": "/worksheets/main/Juvei_Quest_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Juvei Quest (Japan)",
+    "source": "https://files.vyper.group/Juvei_Quest_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Kanshakudama Nage Kantarou No Toukaidou Gojuusan Tsugi (Japan)",
-    "rom_url": "/worksheets/main/Kanshakudama_Nage_Kantarou_no_Toukaidou_Gojuusan_Tsugi_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Kanshakudama Nage Kantarou No Toukaidou Gojuusan Tsugi (Japan)",
+    "source": "https://files.vyper.group/Kanshakudama_Nage_Kantarou_no_Toukaidou_Gojuusan_Tsugi_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Kid Icarus",
-    "rom_url": "/worksheets/main/Kid_Icarus.nes.zip",
-    "core": "fceumm"
+    "title": "Kid Icarus",
+    "source": "https://files.vyper.group/Kid_Icarus.nes.html",
+    "type": "html"
   },
   {
-    "name": "Kid Niki - Radical Ninja",
-    "rom_url": "/worksheets/main/Kid_Niki_-_Radical_Ninja.nes.zip",
-    "core": "fceumm"
+    "title": "Kid Niki - Radical Ninja",
+    "source": "https://files.vyper.group/Kid_Niki_-_Radical_Ninja.nes.html",
+    "type": "html"
   },
   {
-    "name": "King Neptunes Adventure",
-    "rom_url": "/worksheets/main/King_Neptunes_Adventure.nes.zip",
-    "core": "fceumm"
+    "title": "King Neptunes Adventure",
+    "source": "https://files.vyper.group/King_Neptunes_Adventure.nes.html",
+    "type": "html"
   },
   {
-    "name": "Kirbys Adventure",
-    "rom_url": "/worksheets/main/Kirbys_Adventure.nes.zip",
-    "core": "fceumm"
+    "title": "Kirbys Adventure",
+    "source": "https://files.vyper.group/Kirbys_Adventure.nes.html",
+    "type": "html"
   },
   {
-    "name": "Legend Of Kage",
-    "rom_url": "/worksheets/main/Legend_of_Kage.nes.zip",
-    "core": "fceumm"
+    "title": "Legend Of Kage",
+    "source": "https://files.vyper.group/Legend_of_Kage.nes.html",
+    "type": "html"
   },
   {
-    "name": "Legend Of Zelda",
-    "rom_url": "/worksheets/main/Legend_of_Zelda.nes.zip",
-    "core": "fceumm"
+    "title": "Legend Of Zelda",
+    "source": "https://files.vyper.group/Legend_of_Zelda.nes.html",
+    "type": "html"
   },
   {
-    "name": "Lion King",
-    "rom_url": "/worksheets/main/Lion_King.nes.zip",
-    "core": "fceumm"
+    "title": "Lion King",
+    "source": "https://files.vyper.group/Lion_King.nes.html",
+    "type": "html"
   },
   {
-    "name": "Magic John",
-    "rom_url": "/worksheets/main/Magic_John.nes.zip",
-    "core": "fceumm"
+    "title": "Magic John",
+    "source": "https://files.vyper.group/Magic_John.nes.html",
+    "type": "html"
   },
   {
-    "name": "Mappy",
-    "rom_url": "/worksheets/main/Mappy.nes.zip",
-    "core": "fceumm"
+    "title": "Mappy",
+    "source": "https://files.vyper.group/Mappy.nes.html",
+    "type": "html"
   },
   {
-    "name": "Mappy Jp",
-    "rom_url": "/worksheets/main/Mappy_jp.nes.zip",
-    "core": "fceumm"
+    "title": "Mappy Jp",
+    "source": "https://files.vyper.group/Mappy_jp.nes.html",
+    "type": "html"
   },
   {
-    "name": "Marvels X-Men",
-    "rom_url": "/worksheets/main/Marvels_X-Men.nes.zip",
-    "core": "fceumm"
+    "title": "Marvels X-Men",
+    "source": "https://files.vyper.group/Marvels_X-Men.nes.html",
+    "type": "html"
   },
   {
-    "name": "Mega Man 2",
-    "rom_url": "/worksheets/main/Mega_Man_2.nes.zip",
-    "core": "fceumm"
+    "title": "Mega Man 2",
+    "source": "https://files.vyper.group/Mega_Man_2.nes.html",
+    "type": "html"
   },
   {
-    "name": "Mega Man 3",
-    "rom_url": "/worksheets/main/Mega_Man_3.nes.zip",
-    "core": "fceumm"
+    "title": "Mega Man 3",
+    "source": "https://files.vyper.group/Mega_Man_3.nes.html",
+    "type": "html"
   },
   {
-    "name": "Mega Man 4",
-    "rom_url": "/worksheets/main/Mega_Man_4.nes.zip",
-    "core": "fceumm"
+    "title": "Mega Man 4",
+    "source": "https://files.vyper.group/Mega_Man_4.nes.html",
+    "type": "html"
   },
   {
-    "name": "Mega Man 6",
-    "rom_url": "/worksheets/main/Mega_Man_6.nes.zip",
-    "core": "fceumm"
+    "title": "Mega Man 6",
+    "source": "https://files.vyper.group/Mega_Man_6.nes.html",
+    "type": "html"
   },
   {
-    "name": "Metal Gear",
-    "rom_url": "/worksheets/main/Metal_Gear.nes.zip",
-    "core": "fceumm"
+    "title": "Metal Gear",
+    "source": "https://files.vyper.group/Metal_Gear.nes.html",
+    "type": "html"
   },
   {
-    "name": "Mickey Mousecapade",
-    "rom_url": "/worksheets/main/Mickey_Mousecapade.nes.zip",
-    "core": "fceumm"
+    "title": "Mickey Mousecapade",
+    "source": "https://files.vyper.group/Mickey_Mousecapade.nes.html",
+    "type": "html"
   },
   {
-    "name": "Mighty Bomb Jack",
-    "rom_url": "/worksheets/main/Mighty_Bomb_Jack.nes.zip",
-    "core": "fceumm"
+    "title": "Mighty Bomb Jack",
+    "source": "https://files.vyper.group/Mighty_Bomb_Jack.nes.html",
+    "type": "html"
   },
   {
-    "name": "Mission Cobra",
-    "rom_url": "/worksheets/main/Mission_Cobra.nes.zip",
-    "core": "fceumm"
+    "title": "Mission Cobra",
+    "source": "https://files.vyper.group/Mission_Cobra.nes.html",
+    "type": "html"
   },
   {
-    "name": "Nightmare On Elm Street",
-    "rom_url": "/worksheets/main/Nightmare_on_Elm_Street.nes.zip",
-    "core": "fceumm"
+    "title": "Nightmare On Elm Street",
+    "source": "https://files.vyper.group/Nightmare_on_Elm_Street.nes.html",
+    "type": "html"
   },
   {
-    "name": "Ninja Gaiden",
-    "rom_url": "/worksheets/main/Ninja_Gaiden.nes.zip",
-    "core": "fceumm"
+    "title": "Ninja Gaiden",
+    "source": "https://files.vyper.group/Ninja_Gaiden.nes.html",
+    "type": "html"
   },
   {
-    "name": "Ninja Gaiden 2 - The Dark Sword Of Chaos",
-    "rom_url": "/worksheets/main/Ninja_Gaiden_2_-_The_Dark_Sword_of_Chaos.nes.zip",
-    "core": "fceumm"
+    "title": "Ninja Gaiden 2 - The Dark Sword Of Chaos",
+    "source": "https://files.vyper.group/Ninja_Gaiden_2_-_The_Dark_Sword_of_Chaos.nes.html",
+    "type": "html"
   },
   {
-    "name": "Ninja Gaiden 3 - The Ancient Ship Of Doom",
-    "rom_url": "/worksheets/main/Ninja_Gaiden_3_-_The_Ancient_Ship_of_Doom.nes.zip",
-    "core": "fceumm"
+    "title": "Ninja Gaiden 3 - The Ancient Ship Of Doom",
+    "source": "https://files.vyper.group/Ninja_Gaiden_3_-_The_Ancient_Ship_of_Doom.nes.html",
+    "type": "html"
   },
   {
-    "name": "Ninja Kid",
-    "rom_url": "/worksheets/main/Ninja_Kid.nes.zip",
-    "core": "fceumm"
+    "title": "Ninja Kid",
+    "source": "https://files.vyper.group/Ninja_Kid.nes.html",
+    "type": "html"
   },
   {
-    "name": "Pacman Ce",
-    "rom_url": "/worksheets/main/pacman_ce.nes.zip",
-    "core": "fceumm"
+    "title": "Pacman Ce",
+    "source": "https://files.vyper.group/pacman_ce.nes.html",
+    "type": "html"
   },
   {
-    "name": "Pac Man Jp",
-    "rom_url": "/worksheets/main/Pac_Man_jp.nes.zip",
-    "core": "fceumm"
+    "title": "Pac Man Jp",
+    "source": "https://files.vyper.group/Pac_Man_jp.nes.html",
+    "type": "html"
   },
   {
-    "name": "Panic Restaurant",
-    "rom_url": "/worksheets/main/Panic_Restaurant.nes.zip",
-    "core": "fceumm"
+    "title": "Panic Restaurant",
+    "source": "https://files.vyper.group/Panic_Restaurant.nes.html",
+    "type": "html"
   },
   {
-    "name": "Pinball Quest",
-    "rom_url": "/worksheets/main/Pinball_Quest.nes.zip",
-    "core": "fceumm"
+    "title": "Pinball Quest",
+    "source": "https://files.vyper.group/Pinball_Quest.nes.html",
+    "type": "html"
   },
   {
-    "name": "Popeye",
-    "rom_url": "/worksheets/main/Popeye.nes.zip",
-    "core": "fceumm"
+    "title": "Popeye",
+    "source": "https://files.vyper.group/Popeye.nes.html",
+    "type": "html"
   },
   {
-    "name": "Power Blazer",
-    "rom_url": "/worksheets/main/Power_Blazer.nes.zip",
-    "core": "fceumm"
+    "title": "Power Blazer",
+    "source": "https://files.vyper.group/Power_Blazer.nes.html",
+    "type": "html"
   },
   {
-    "name": "Puss N Boots - Peros Great Adventure",
-    "rom_url": "/worksheets/main/Puss_n_Boots_-_Peros_Great_Adventure.nes.zip",
-    "core": "fceumm"
+    "title": "Puss N Boots - Peros Great Adventure",
+    "source": "https://files.vyper.group/Puss_n_Boots_-_Peros_Great_Adventure.nes.html",
+    "type": "html"
   },
   {
-    "name": "Rainbow Islands - The Story Of Bubble Bobble 2",
-    "rom_url": "/worksheets/main/Rainbow_Islands_-_The_Story_of_Bubble_Bobble_2.nes.zip",
-    "core": "fceumm"
+    "title": "Rainbow Islands - The Story Of Bubble Bobble 2",
+    "source": "https://files.vyper.group/Rainbow_Islands_-_The_Story_of_Bubble_Bobble_2.nes.html",
+    "type": "html"
   },
   {
-    "name": "Rampage",
-    "rom_url": "/worksheets/main/Rampage.nes.zip",
-    "core": "fceumm"
+    "title": "Rampage",
+    "source": "https://files.vyper.group/Rampage.nes.html",
+    "type": "html"
   },
   {
-    "name": "Robocop",
-    "rom_url": "/worksheets/main/Robocop.nes.zip",
-    "core": "fceumm"
+    "title": "Robocop",
+    "source": "https://files.vyper.group/Robocop.nes.html",
+    "type": "html"
   },
   {
-    "name": "Robocop 2",
-    "rom_url": "/worksheets/main/Robocop_2.nes.zip",
-    "core": "fceumm"
+    "title": "Robocop 2",
+    "source": "https://files.vyper.group/Robocop_2.nes.html",
+    "type": "html"
   },
   {
-    "name": "Robocop 3",
-    "rom_url": "/worksheets/main/Robocop_3.nes.zip",
-    "core": "fceumm"
+    "title": "Robocop 3",
+    "source": "https://files.vyper.group/Robocop_3.nes.html",
+    "type": "html"
   },
   {
-    "name": "Rocket Ranger",
-    "rom_url": "/worksheets/main/Rocket_Ranger.nes.zip",
-    "core": "fceumm"
+    "title": "Rocket Ranger",
+    "source": "https://files.vyper.group/Rocket_Ranger.nes.html",
+    "type": "html"
   },
   {
-    "name": "Rygar",
-    "rom_url": "/worksheets/main/Rygar.nes.zip",
-    "core": "fceumm"
+    "title": "Rygar",
+    "source": "https://files.vyper.group/Rygar.nes.html",
+    "type": "html"
   },
   {
-    "name": "Sesame Street 123",
-    "rom_url": "/worksheets/main/Sesame_Street_123.nes.zip",
-    "core": "fceumm"
+    "title": "Sesame Street 123",
+    "source": "https://files.vyper.group/Sesame_Street_123.nes.html",
+    "type": "html"
   },
   {
-    "name": "Sesame Street Abc",
-    "rom_url": "/worksheets/main/Sesame_Street_ABC.nes.zip",
-    "core": "fceumm"
+    "title": "Sesame Street Abc",
+    "source": "https://files.vyper.group/Sesame_Street_ABC.nes.html",
+    "type": "html"
   },
   {
-    "name": "Sesame Street Countdown",
-    "rom_url": "/worksheets/main/Sesame_Street_Countdown.nes.zip",
-    "core": "fceumm"
+    "title": "Sesame Street Countdown",
+    "source": "https://files.vyper.group/Sesame_Street_Countdown.nes.html",
+    "type": "html"
   },
   {
-    "name": "Shinobi",
-    "rom_url": "/worksheets/main/Shinobi.nes.zip",
-    "core": "fceumm"
+    "title": "Shinobi",
+    "source": "https://files.vyper.group/Shinobi.nes.html",
+    "type": "html"
   },
   {
-    "name": "Simpsons - Bartman Meets Radioactive Man",
-    "rom_url": "/worksheets/main/Simpsons_-_Bartman_Meets_Radioactive_Man.nes.zip",
-    "core": "fceumm"
+    "title": "Simpsons - Bartman Meets Radioactive Man",
+    "source": "https://files.vyper.group/Simpsons_-_Bartman_Meets_Radioactive_Man.nes.html",
+    "type": "html"
   },
   {
-    "name": "Simpsons - Bart Vs. The Space Mutants",
-    "rom_url": "/worksheets/main/Simpsons_-_Bart_vs._the_Space_Mutants.nes.zip",
-    "core": "fceumm"
+    "title": "Simpsons - Bart Vs. The Space Mutants",
+    "source": "https://files.vyper.group/Simpsons_-_Bart_vs._the_Space_Mutants.nes.html",
+    "type": "html"
   },
   {
-    "name": "Simpsons - Bart Vs. The World",
-    "rom_url": "/worksheets/main/Simpsons_-_Bart_vs._the_World.nes.zip",
-    "core": "fceumm"
+    "title": "Simpsons - Bart Vs. The World",
+    "source": "https://files.vyper.group/Simpsons_-_Bart_vs._the_World.nes.html",
+    "type": "html"
   },
   {
-    "name": "Sky Kid Jp",
-    "rom_url": "/worksheets/main/Sky_Kid_jp.nes.zip",
-    "core": "fceumm"
+    "title": "Sky Kid Jp",
+    "source": "https://files.vyper.group/Sky_Kid_jp.nes.html",
+    "type": "html"
   },
   {
-    "name": "Snow Bros",
-    "rom_url": "/worksheets/main/Snow_Bros.nes.zip",
-    "core": "fceumm"
+    "title": "Snow Bros",
+    "source": "https://files.vyper.group/Snow_Bros.nes.html",
+    "type": "html"
   },
   {
-    "name": "Spartan X",
-    "rom_url": "/worksheets/main/Spartan_X.nes.zip",
-    "core": "fceumm"
+    "title": "Spartan X",
+    "source": "https://files.vyper.group/Spartan_X.nes.html",
+    "type": "html"
   },
   {
-    "name": "Spider-Man - Return Of The Sinister Six",
-    "rom_url": "/worksheets/main/Spider-Man_-_Return_of_the_Sinister_Six.nes.zip",
-    "core": "fceumm"
+    "title": "Spider-Man - Return Of The Sinister Six",
+    "source": "https://files.vyper.group/Spider-Man_-_Return_of_the_Sinister_Six.nes.html",
+    "type": "html"
   },
   {
-    "name": "Splatter House Jp",
-    "rom_url": "/worksheets/main/Splatter_House_jp.nes.zip",
-    "core": "fceumm"
+    "title": "Splatter House Jp",
+    "source": "https://files.vyper.group/Splatter_House_jp.nes.html",
+    "type": "html"
   },
   {
-    "name": "Spy Vs. Spy",
-    "rom_url": "/worksheets/main/Spy_vs._Spy.nes.zip",
-    "core": "fceumm"
+    "title": "Spy Vs. Spy",
+    "source": "https://files.vyper.group/Spy_vs._Spy.nes.html",
+    "type": "html"
   },
   {
-    "name": "Star Voyager",
-    "rom_url": "/worksheets/main/Star_Voyager.nes.zip",
-    "core": "fceumm"
+    "title": "Star Voyager",
+    "source": "https://files.vyper.group/Star_Voyager.nes.html",
+    "type": "html"
   },
   {
-    "name": "Strider",
-    "rom_url": "/worksheets/main/Strider.nes.zip",
-    "core": "fceumm"
+    "title": "Strider",
+    "source": "https://files.vyper.group/Strider.nes.html",
+    "type": "html"
   },
   {
-    "name": "Takahashi Meijin No Bouken Shima Iii (Japan)",
-    "rom_url": "/worksheets/main/Takahashi_Meijin_no_Bouken_Shima_III_(Japan).nes.zip",
-    "core": "fceumm"
+    "title": "Takahashi Meijin No Bouken Shima Iii (Japan)",
+    "source": "https://files.vyper.group/Takahashi_Meijin_no_Bouken_Shima_III_(Japan).nes.html",
+    "type": "html"
   },
   {
-    "name": "Teenage Mutant Ninja Turtles 2",
-    "rom_url": "/worksheets/main/Teenage_Mutant_Ninja_Turtles_2.nes.zip",
-    "core": "fceumm"
+    "title": "Teenage Mutant Ninja Turtles 2",
+    "source": "https://files.vyper.group/Teenage_Mutant_Ninja_Turtles_2.nes.html",
+    "type": "html"
   },
   {
-    "name": "Thunder & Lightning",
-    "rom_url": "/worksheets/main/Thunder_&_Lightning.nes.zip",
-    "core": "fceumm"
+    "title": "Thunder & Lightning",
+    "source": "https://files.vyper.group/Thunder_&_Lightning.nes.html",
+    "type": "html"
   },
   {
-    "name": "Tiny Toon Adventures",
-    "rom_url": "/worksheets/main/Tiny_Toon_Adventures.nes.zip",
-    "core": "fceumm"
+    "title": "Tiny Toon Adventures",
+    "source": "https://files.vyper.group/Tiny_Toon_Adventures.nes.html",
+    "type": "html"
   },
   {
-    "name": "Toki",
-    "rom_url": "/worksheets/main/Toki.nes.zip",
-    "core": "fceumm"
+    "title": "Toki",
+    "source": "https://files.vyper.group/Toki.nes.html",
+    "type": "html"
   },
   {
-    "name": "Untouchables",
-    "rom_url": "/worksheets/main/Untouchables.nes.zip",
-    "core": "fceumm"
+    "title": "Untouchables",
+    "source": "https://files.vyper.group/Untouchables.nes.html",
+    "type": "html"
   },
   {
-    "name": "Western Kids",
-    "rom_url": "/worksheets/main/Western_Kids.nes.zip",
-    "core": "fceumm"
+    "title": "Western Kids",
+    "source": "https://files.vyper.group/Western_Kids.nes.html",
+    "type": "html"
   },
   {
-    "name": "Wrecking Crew",
-    "rom_url": "/worksheets/main/Wrecking_Crew.nes.zip",
-    "core": "fceumm"
+    "title": "Wrecking Crew",
+    "source": "https://files.vyper.group/Wrecking_Crew.nes.html",
+    "type": "html"
   },
   {
-    "name": "Xevious Jp",
-    "rom_url": "/worksheets/main/Xevious_jp.nes.zip",
-    "core": "fceumm"
+    "title": "Xevious Jp",
+    "source": "https://files.vyper.group/Xevious_jp.nes.html",
+    "type": "html"
   },
   {
-    "name": "Zelda Ii - Adventure Of Link",
-    "rom_url": "/worksheets/main/Zelda_II_-_Adventure_of_Link.nes.zip",
-    "core": "fceumm"
+    "title": "Zelda Ii - Adventure Of Link",
+    "source": "https://files.vyper.group/Zelda_II_-_Adventure_of_Link.nes.html",
+    "type": "html"
   }
 ]
-}

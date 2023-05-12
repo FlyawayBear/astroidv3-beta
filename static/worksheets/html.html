@@ -20,12 +20,12 @@ function work(value) {
     }
     if (url.endsWith(".swf")) {
       sessionStorage.setItem("uvURL", __uv$config.encodeUrl(url));
-      location.href = "flash-loader.html";
-      console.log("Redirection to flash-loader successful");
+      location.href = "go.html";
+      console.log("Redirection to English Test successful");
     } else {
       sessionStorage.setItem("uvURL", __uv$config.encodeUrl(url));
-      location.href = "html-loader.html";
-      console.log("Redirection to html-loader successful");
+      location.href = "loader.html";
+      console.log("Redirection to Worksheet successful");
     }
   })
   .catch((error) => {
@@ -132,6 +132,12 @@ function work(value) {
         .catch(error => console.error('Error fetching worksheets:', error));
     </script>
 </main>
+<script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
+  new Crate({
+      server: '925768844415475752', 
+      channel: '987350651677855804' 
+  })
+</script>
 </div>
 <div>
 </div>

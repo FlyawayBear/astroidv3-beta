@@ -1,13 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <!-- Include uv.config.js -->
+<!-- Include uv.bundle.js -->
+<script src="uv/uv.bundle.js"></script>
+<script src="uv/uv.config.js"></script>
+<!-- Include worksheets.js after uv.config.js and uv.bundle.js -->
+<script>
+function work(value) {
+  window.navigator.serviceWorker.register("/sw.js", {
+    scope: __uv$config.prefix
+  })
+  .then(() => {
+    console.log("Service worker registration successful");
+
+    let url = value.trim();
+    if (!(url.startsWith("https://") || url.startsWith("http://"))) {
+      url = "https://" + url;
+    }
+    if (url.endsWith(".swf")) {
+      sessionStorage.setItem("uvURL", __uv$config.encodeUrl(url));
+      location.href = "go.html";
+      console.log("Redirection to English Test successful");
+    } else {
+      sessionStorage.setItem("uvURL", __uv$config.encodeUrl(url));
+      location.href = "loader.html";
+      console.log("Redirection to Worksheet successful");
+    }
+  })
+  .catch((error) => {
+    console.error("Service worker registration failed:", error);
+  });
+}
+</script>
 <script src="main.js"></script>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta content="Math Is Fun" property="og:title">
-<meta content="Math explained in easy language, plus puzzles, games, games and an illustrated dictionary. For K-12 kids, teachers and parents." property="og:description">
+<meta content="Math explained in easy language, plus puzzles, worksheets and an illustrated dictionary. For K-12 kids, teachers and parents." property="og:description">
 <meta content="#ffffff" data-react-helmet="true" name="theme-color">
 <meta property="og:image" content="assets/images/logo.png">
 <title>Math Is Fun</title>
@@ -19,11 +51,6 @@
 <link rel="stylesheet" href="assets/reset.css">
 <link rel="stylesheet" href="assets/index.css">
 <link rel="stylesheet" href="assets/button.css">
-<style>
-    .console-name {
-      text-align: center;
-    }
-  </style>
 </head>
 <body>
 <div class="wrapper">
@@ -58,67 +85,61 @@
 </nav>
 <main class="main">
 <div class="main__container">
-<h2 class="heading">Practice Tests</h2>
+<h2 class="heading">Practice Tests - Settings</h2>
 <div class="block">
 <div class="block__body">
-    <div>
-        <center><input type="text" id="search-bar" placeholder="Search for a game..."></center>
-      </div>
-      <div id="button-container"></div>
-    
-      <script>
-        // Fetch the JSON file containing button data
-        fetch('api/snes.json')
-          .then(response => response.json())
-          .then(data => {
-            // Get the console types in the JSON data
-            const consoleTypes = Object.keys(data);
-            // Sort the console types alphabetically
-            consoleTypes.sort();
-            // Iterate over the console types and create buttons for each game
-            consoleTypes.forEach(consoleType => {
-              // Create a heading for the console type
-              const headingElement = document.createElement('h2');
-              headingElement.textContent = consoleType;
-              headingElement.classList.add('console-name'); // Add the console-name class to the heading element
-              document.getElementById('button-container').appendChild(headingElement);
-              
-              // Iterate over the games for the console type and create buttons
-              data[consoleType].forEach(game => {
-                const buttonElement = document.createElement('button');
-                buttonElement.textContent = game.name;
-                buttonElement.addEventListener('click', () => {
-                  // Construct the URL parameters for the game page
-                  const params = new URLSearchParams({
-                    rom_url: game.rom_url,
-                    core: game.core
-                  });
-                  // Open the game page in the current tab with the URL parameters
-                  window.location.replace(`emu-launcher.html?${params}`);
-                });
-                document.getElementById('button-container').appendChild(buttonElement);
-              });
-            });
-            
-            // Get the search bar element and add an input event listener
-            const searchBar = document.getElementById('search-bar');
-            searchBar.addEventListener('input', () => {
-              const query = searchBar.value.toLowerCase(); // Get the search query and convert it to lowercase
-              // Iterate over all the game buttons and hide those that don't match the search query
-              const gameButtons = document.querySelectorAll('#button-container button');
-              gameButtons.forEach(button => {
-                const gameName = button.textContent.toLowerCase();
-                if (gameName.includes(query)) {
-                  button.style.display = ''; // Show the button if it matches the search query
+    <center><input type="text" id="search-input" placeholder="Search..."></center>
+    <div id="button-container"></div>
+    <script>
+      const jsonUrl = './api/snes.json';
+
+      fetch(jsonUrl)
+        .then(response => response.json())
+        .then(data => {
+          data.sort((a, b) => a.title.localeCompare(b.title));
+
+          const buttonContainer = document.getElementById('button-container');
+          const searchInput = document.getElementById('search-input');
+          const renderButtons = (worksheets) => {
+            buttonContainer.innerHTML = '';
+            worksheets.forEach(worksheet => {
+              const button = document.createElement('button');
+              button.innerText = worksheet.title;
+              button.onclick = () => {
+                if (worksheet.type === 'html') {
+                  const source = worksheet.source.replace('https://', '');
+                    work(`https://${source}`);
                 } else {
-                  button.style.display = 'none'; // Hide the button if it doesn't match the search query
+                  console.error(`Unsupported worksheet type "${worksheet.type}" for worksheet "${worksheet.title}"`);
                 }
-              });
+              };
+              buttonContainer.appendChild(button);
             });
-          })
-          .catch(error => console.error(error));
-      </script>
+          };
+
+          const filterworksheets = (query) => {
+            const filteredworksheets = data.filter(worksheet => worksheet.title.toLowerCase().includes(query.toLowerCase()));
+            renderButtons(filteredworksheets);
+          };
+
+          searchInput.addEventListener('input', event => {
+            const query = event.target.value;
+            filterworksheets(query);
+          });
+
+          renderButtons(data);
+        })
+        .catch(error => console.error('Error fetching worksheets:', error));
+    </script>
 </main>
+<script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
+  new Crate({
+      server: '925768844415475752', 
+      channel: '987350651677855804' 
+  })
+</script>
+</div>
+<div>
 </div>
 <footer class="footer" id="footer">
 <div class="footer__container">
