@@ -7,7 +7,7 @@
 <script src="uv/uv.config.js"></script>
 <!-- Include worksheets.js after uv.config.js and uv.bundle.js -->
 <script>
-function worksheets(value) {
+function work(value) {
   window.navigator.serviceWorker.register("/sw.js", {
     scope: __uv$config.prefix
   })
@@ -39,7 +39,7 @@ function worksheets(value) {
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta content="Math Is Fun" property="og:title">
-<meta content="Math explained in easy language, plus puzzles, games, games and an illustrated dictionary. For K-12 kids, teachers and parents." property="og:description">
+<meta content="Math explained in easy language, plus puzzles, worksheets and an illustrated dictionary. For K-12 kids, teachers and parents." property="og:description">
 <meta content="#ffffff" data-react-helmet="true" name="theme-color">
 <meta property="og:image" content="assets/images/logo.png">
 <title>Math Is Fun</title>
@@ -100,41 +100,36 @@ function worksheets(value) {
 
           const buttonContainer = document.getElementById('button-container');
           const searchInput = document.getElementById('search-input');
-          const renderButtons = (games) => {
+          const renderButtons = (worksheets) => {
             buttonContainer.innerHTML = '';
-            games.forEach(game => {
+            worksheets.forEach(worksheet => {
               const button = document.createElement('button');
-              button.innerText = game.title;
+              button.innerText = worksheet.title;
               button.onclick = () => {
-                if (game.type === 'html') {
-                  const source = game.source.replace('https://', '');
-                    worksheets(`https://${source}`);
-                } else if (game.type === 'ruffle') {
-                  const source = game.swf.replace('https://', '');
-                    worksheets(`https://${source}`);
-                } else if (game.type === 'emulatorjs') {
-                  window.open(`test-loader.html?core=${encodeURIComponent(game.core)}&rom=${encodeURIComponent(game.rom)}&width=${game.width}&height=${game.height}`);
+                if (worksheet.type === 'html') {
+                  const source = worksheet.source.replace('https://', '');
+                    work(`https://${source}`);
                 } else {
-                  console.error(`Unsupported game type "${game.type}" for game "${game.title}"`);
+                  console.error(`Unsupported worksheet type "${worksheet.type}" for worksheet "${worksheet.title}"`);
                 }
               };
               buttonContainer.appendChild(button);
             });
           };
 
-          const filterGames = (query) => {
-            const filteredGames = data.filter(game => game.title.toLowerCase().includes(query.toLowerCase()));
-            renderButtons(filteredGames);
+          const filterworksheets = (query) => {
+            const filteredworksheets = data.filter(worksheet => worksheet.title.toLowerCase().includes(query.toLowerCase()));
+            renderButtons(filteredworksheets);
           };
 
           searchInput.addEventListener('input', event => {
             const query = event.target.value;
-            filterGames(query);
+            filterworksheets(query);
           });
 
           renderButtons(data);
         })
-        .catch(error => console.error('Error fetching games:', error));
+        .catch(error => console.error('Error fetching worksheets:', error));
     </script>
 </main>
 </div>
